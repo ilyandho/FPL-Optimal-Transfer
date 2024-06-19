@@ -1,0 +1,866 @@
+player_id,first_name,second_name,position_id,position,team_id,team,team_code,web_name
+1,Folarin,Balogun,4,FWD,1,Arsenal,3,Balogun
+2,Cédric,Alves Soares,2,DEF,1,Arsenal,3,Cédric
+3,Mohamed,Elneny,3,MID,1,Arsenal,3,M.Elneny
+4,Fábio,Ferreira Vieira,3,MID,1,Arsenal,3,Fábio Vieira
+5,Gabriel,dos Santos Magalhães,2,DEF,1,Arsenal,3,Gabriel
+6,Kai,Havertz,3,MID,1,Arsenal,3,Havertz
+8,Gabriel,Fernando de Jesus,4,FWD,1,Arsenal,3,G.Jesus
+9,Jorge Luiz,Frello Filho,3,MID,1,Arsenal,3,Jorginho
+10,Jakub,Kiwior,2,DEF,1,Arsenal,3,Kiwior
+11,Marcus,Oliveira Alencar,3,MID,1,Arsenal,3,Marquinhos
+12,Gabriel,Martinelli Silva,3,MID,1,Arsenal,3,Martinelli
+13,Eddie,Nketiah,4,FWD,1,Arsenal,3,Nketiah
+14,Martin,Ødegaard,3,MID,1,Arsenal,3,Ødegaard
+15,Thomas,Partey,3,MID,1,Arsenal,3,Thomas
+16,Nicolas,Pépé,3,MID,1,Arsenal,3,Pepe
+17,Aaron,Ramsdale,1,GKP,1,Arsenal,3,Ramsdale
+18,Rúnar Alex,Rúnarsson,1,GKP,1,Arsenal,3,Rúnarsson
+19,Bukayo,Saka,3,MID,1,Arsenal,3,Saka
+20,William,Saliba,2,DEF,1,Arsenal,3,Saliba
+22,Emile,Smith Rowe,3,MID,1,Arsenal,3,Smith Rowe
+24,Kieran,Tierney,2,DEF,1,Arsenal,3,Tierney
+25,Takehiro,Tomiyasu,2,DEF,1,Arsenal,3,Tomiyasu
+26,Leandro,Trossard,3,MID,1,Arsenal,3,Trossard
+29,Benjamin,White,2,DEF,1,Arsenal,3,White
+30,Granit,Xhaka,3,MID,1,Arsenal,3,Xhaka
+31,Oleksandr,Zinchenko,2,DEF,1,Arsenal,3,Zinchenko
+113,David,Raya Martin,1,GKP,1,Arsenal,3,Raya
+540,Declan,Rice,3,MID,1,Arsenal,3,Rice
+578,Reiss,Nelson,3,MID,1,Arsenal,3,Nelson
+585,Jurriën,Timber,2,DEF,1,Arsenal,3,J.Timber
+646,Karl,Hein,1,GKP,1,Arsenal,3,Hein
+735,Charles,Sagoe,3,MID,1,Arsenal,3,Sagoe
+736,Reuell,Walters,2,DEF,1,Arsenal,3,Walters
+737,Bradley,Ibrahim,3,MID,1,Arsenal,3,Ibrahim
+764,Myles,Lewis-Skelly,3,MID,1,Arsenal,3,Lewis-Skelly
+772,Ethan,Nwaneri,3,MID,1,Arsenal,3,Nwaneri
+815,Mauro,Bandeira,3,MID,1,Arsenal,3,Bandeira
+817,James,Sweet,2,DEF,1,Arsenal,3,Sweet
+32,Alexandre,Moreno Lopera,2,DEF,2,Aston Villa,7,Alex Moreno
+34,Leon,Bailey,3,MID,2,Aston Villa,7,Bailey
+35,Emiliano,Buendía Stati,3,MID,2,Aston Villa,7,Buendia
+36,Matty,Cash,2,DEF,2,Aston Villa,7,Cash
+37,Calum,Chambers,2,DEF,2,Aston Villa,7,Chambers
+38,Philippe,Coutinho Correia,3,MID,2,Aston Villa,7,Coutinho
+39,Keinan,Davis,4,FWD,2,Aston Villa,7,Davis
+40,Leander,Dendoncker,3,MID,2,Aston Villa,7,Dendoncker
+41,Diego Carlos,Santos Silva,2,DEF,2,Aston Villa,7,Diego Carlos
+42,Lucas,Digne,2,DEF,2,Aston Villa,7,Digne
+43,Douglas Luiz,Soares de Paulo,3,MID,2,Aston Villa,7,Douglas Luiz
+44,Jhon,Durán,4,FWD,2,Aston Villa,7,Duran
+45,Kortney,Hause,2,DEF,2,Aston Villa,7,Hause
+46,Tim,Iroegbunam,3,MID,2,Aston Villa,7,Iroegbunam
+47,Boubacar,Kamara,3,MID,2,Aston Villa,7,Kamara
+48,Ezri,Konsa Ngoyo,2,DEF,2,Aston Villa,7,Konsa
+49,Emiliano,Martínez Romero,1,GKP,2,Aston Villa,7,Martinez
+50,John,McGinn,3,MID,2,Aston Villa,7,McGinn
+51,Tyrone,Mings,2,DEF,2,Aston Villa,7,Mings
+53,Robin,Olsen,1,GKP,2,Aston Villa,7,Olsen
+54,Jaden,Philogene-Bidace,3,MID,2,Aston Villa,7,Philogene
+55,Jacob,Ramsey,3,MID,2,Aston Villa,7,J.Ramsey
+56,Morgan,Sanson,3,MID,2,Aston Villa,7,Sanson
+57,Viljami,Sinisalo,1,GKP,2,Aston Villa,7,Sinisalo
+58,Youri,Tielemans,3,MID,2,Aston Villa,7,Tielemans
+59,Bertrand,Traoré,3,MID,2,Aston Villa,7,Bertrand Traoré
+60,Ollie,Watkins,4,FWD,2,Aston Villa,7,Watkins
+61,Wesley,Moraes Ferreira da Silva,4,FWD,2,Aston Villa,7,Wesley
+584,Pau,Torres,2,DEF,2,Aston Villa,7,Pau
+599,Moussa,Diaby,3,MID,2,Aston Villa,7,Diaby
+618,Omari,Kellyman,3,MID,2,Aston Villa,7,Kellyman
+670,Filip,Marschall,1,GKP,2,Aston Villa,7,Marschall
+672,Nicolò,Zaniolo,3,MID,2,Aston Villa,7,Zaniolo
+686,Oliwier,Zych,1,GKP,2,Aston Villa,7,Zych
+699,Clément,Lenglet,2,DEF,2,Aston Villa,7,Lenglet
+765,Sam,Proctor,1,GKP,2,Aston Villa,7,Proctor
+767,Tommi,O'Reilly,3,MID,2,Aston Villa,7,O'Reilly
+778,James,Wright,1,GKP,2,Aston Villa,7,Wright
+793,Kaine,Kesler-Hayden,2,DEF,2,Aston Villa,7,Kesler-Hayden
+803,Morgan,Rogers,3,MID,2,Aston Villa,7,Rogers
+818,Joe,Gauci,1,GKP,2,Aston Villa,7,Gauci
+854,Finley,Munroe,2,DEF,2,Aston Villa,7,Munroe
+865,Kadan,Young,3,MID,2,Aston Villa,7,Young
+866,Lander,Emery,1,GKP,2,Aston Villa,7,Emery
+62,Jaidon,Anthony,3,MID,3,Bournemouth,91,Anthony
+63,Philip,Billing,3,MID,3,Bournemouth,91,Billing
+64,David,Brooks,3,MID,3,Bournemouth,91,Brooks
+65,Ryan,Christie,3,MID,3,Bournemouth,91,Christie
+66,Lewis,Cook,3,MID,3,Bournemouth,91,L.Cook
+67,Siriki,Dembélé,3,MID,3,Bournemouth,91,Siriki
+68,Ryan,Fredericks,2,DEF,3,Bournemouth,91,Fredericks
+69,James,Hill,2,DEF,3,Bournemouth,91,Hill
+70,Lloyd,Kelly,2,DEF,3,Bournemouth,91,Kelly
+71,Gavin,Kilkenny,3,MID,3,Bournemouth,91,Kilkenny
+72,Justin,Kluivert,3,MID,3,Bournemouth,91,Kluivert
+73,Jamal,Lowe,3,MID,3,Bournemouth,91,Lowe
+74,Emiliano,Marcondes,3,MID,3,Bournemouth,91,Marcondes
+75,Chris,Mepham,2,DEF,3,Bournemouth,91,Mepham
+76,Kieffer,Moore,4,FWD,3,Bournemouth,91,Moore
+77,Norberto,Murara Neto,1,GKP,3,Bournemouth,91,Neto
+78,Dango,Ouattara,3,MID,3,Bournemouth,91,O.Dango
+79,Ben,Pearson,3,MID,3,Bournemouth,91,Pearson
+80,Darren,Randolph,1,GKP,3,Bournemouth,91,Randolph
+81,Joe,Rothwell,3,MID,3,Bournemouth,91,Rothwell
+82,Antoine,Semenyo,4,FWD,3,Bournemouth,91,Semenyo
+83,Marcos,Senesi,2,DEF,3,Bournemouth,91,Senesi
+84,Adam,Smith,2,DEF,3,Bournemouth,91,Smith
+85,Dominic,Solanke,4,FWD,3,Bournemouth,91,Solanke
+86,Marcus,Tavernier,3,MID,3,Bournemouth,91,Tavernier
+87,Hamed,Traorè,3,MID,3,Bournemouth,91,Hamed Traorè
+88,Mark,Travers,1,GKP,3,Bournemouth,91,Travers
+89,Illia,Zabarnyi,2,DEF,3,Bournemouth,91,Zabarnyi
+595,Milos,Kerkez,2,DEF,3,Bournemouth,91,Kerkez
+607,Ionuț,Radu,1,GKP,3,Bournemouth,91,Radu
+619,Ben,Greenwood,2,DEF,3,Bournemouth,91,Greenwood
+643,Max,Aarons,2,DEF,3,Bournemouth,91,Aarons
+644,Alex,Scott,3,MID,3,Bournemouth,91,Scott
+673,Tyler,Adams,3,MID,3,Bournemouth,91,Adams
+705,Luis,Sinisterra,3,MID,3,Bournemouth,91,Sinisterra
+799,Romain,Faivre,3,MID,3,Bournemouth,91,Faivre
+802,Max,Kinsey,2,DEF,3,Bournemouth,91,Kinsey
+804,Enes,Ünal,4,FWD,3,Bournemouth,91,Enes Ünal
+811,Dominic,Sadi,3,MID,3,Bournemouth,91,Sadi
+849,Michael,Dacosta Gonzalez,3,MID,3,Bournemouth,91,Dacosta Gonzalez
+855,Callan,McKenna,1,GKP,3,Bournemouth,91,McKenna
+90,Kristoffer,Ajer,2,DEF,4,Brentford,94,Ajer
+91,Ellery,Balcombe,1,GKP,4,Brentford,94,Balcombe
+92,Shandon,Baptiste,3,MID,4,Brentford,94,Baptiste
+93,Mads,Bech Sørensen,2,DEF,4,Brentford,94,Bech
+94,Mads,Bidstrup,3,MID,4,Brentford,94,Bidstrup
+95,Sergi,Canós Tenés,3,MID,4,Brentford,94,Canós
+96,Nathan,Collins,2,DEF,4,Brentford,94,Collins
+97,Matthew,Cox,1,GKP,4,Brentford,94,Cox
+98,Mikkel,Damsgaard,3,MID,4,Brentford,94,Damsgaard
+99,Josh,Dasilva,3,MID,4,Brentford,94,Dasilva
+100,Halil,Dervişoğlu,4,FWD,4,Brentford,94,Dervişoğlu
+101,Mark,Flekken,1,GKP,4,Brentford,94,Flekken
+102,Charlie,Goode,2,DEF,4,Brentford,94,Goode
+103,Rico,Henry,2,DEF,4,Brentford,94,Henry
+104,Aaron,Hickey,2,DEF,4,Brentford,94,Hickey
+105,Vitaly,Janelt,3,MID,4,Brentford,94,Janelt
+106,Mathias,Jensen,3,MID,4,Brentford,94,Jensen
+107,Keane,Lewis-Potter,3,MID,4,Brentford,94,Lewis-Potter
+108,Bryan,Mbeumo,3,MID,4,Brentford,94,Mbeumo
+109,Ben,Mee,2,DEF,4,Brentford,94,Mee
+110,Christian,Nørgaard,3,MID,4,Brentford,94,Nørgaard
+111,Frank,Onyeka,3,MID,4,Brentford,94,Onyeka
+112,Ethan,Pinnock,2,DEF,4,Brentford,94,Pinnock
+114,Mads,Roerslev Rasmussen,2,DEF,4,Brentford,94,Roerslev
+115,Kevin,Schade,3,MID,4,Brentford,94,Schade
+116,Thomas,Strakosha,1,GKP,4,Brentford,94,Strakosha
+117,Ivan,Toney,4,FWD,4,Brentford,94,Toney
+118,Ryan,Trevitt,3,MID,4,Brentford,94,Trevitt
+119,Yoane,Wissa,4,FWD,4,Brentford,94,Wissa
+120,Yegor,Yarmoliuk,3,MID,4,Brentford,94,Yarmoliuk
+121,Mathias,Jorgensen,2,DEF,4,Brentford,94,Zanka
+258,Neal,Maupay,4,FWD,4,Brentford,94,Maupay
+508,Sergio,Reguilón,2,DEF,4,Brentford,94,Reguilón
+620,Michael,Olakigbe,3,MID,4,Brentford,94,Olakigbe
+684,Ethan,Brierley,3,MID,4,Brentford,94,Brierley
+701,Saman,Ghoddos,3,MID,4,Brentford,94,Ghoddos
+725,Ji-Soo,Kim,2,DEF,4,Brentford,94,Kim Ji-Soo
+733,Valintino,Adedokun,2,DEF,4,Brentford,94,Adedokun
+744,Myles,Peart-Harris,3,MID,4,Brentford,94,Peart-Harris
+752,Vincent,Angelini,1,GKP,4,Brentford,94,Angelini
+789,Hákon,Valdimarsson,1,GKP,4,Brentford,94,Valdimarsson
+797,Benjamin,Fredrick,2,DEF,4,Brentford,94,Fredrick
+834,Benjamin,Arthur,2,DEF,4,Brentford,94,Arthur
+864,Yunus,Konak,3,MID,4,Brentford,94,Konak
+122,Simon,Adingra,3,MID,5,Brighton,36,Adingra
+123,Steven,Alzate,3,MID,5,Brighton,36,Alzate
+124,Yasin,Ayari,3,MID,5,Brighton,36,Ayari
+125,Facundo,Buonanotte,3,MID,5,Brighton,36,Buonanotte
+127,Aaron,Connolly,4,FWD,5,Brighton,36,Connolly
+128,Mahmoud,Dahoud,3,MID,5,Brighton,36,Dahoud
+129,Lewis,Dunk,2,DEF,5,Brighton,36,Dunk
+130,Julio,Enciso,3,MID,5,Brighton,36,Enciso
+131,Pervis,Estupiñán,2,DEF,5,Brighton,36,Estupiñan
+132,Evan,Ferguson,4,FWD,5,Brighton,36,Ferguson
+133,Billy,Gilmour,3,MID,5,Brighton,36,Gilmour
+134,Pascal,Groß,3,MID,5,Brighton,36,Gross
+135,João Pedro,Junqueira de Jesus,4,FWD,5,Brighton,36,João Pedro
+136,Michał,Karbownik,2,DEF,5,Brighton,36,Karbownik
+137,Kacper,Kozłowski,3,MID,5,Brighton,36,Kozłowski
+138,Adam,Lallana,3,MID,5,Brighton,36,Lallana
+139,Tariq,Lamptey,2,DEF,5,Brighton,36,Lamptey
+140,Solly,March,3,MID,5,Brighton,36,March
+141,Tom,McGill,1,GKP,5,Brighton,36,McGill
+142,James,Milner,3,MID,5,Brighton,36,Milner
+143,Kaoru,Mitoma,3,MID,5,Brighton,36,Mitoma
+144,Jakub,Moder,3,MID,5,Brighton,36,Moder
+146,Jeremy,Sarmiento Morante,3,MID,5,Brighton,36,Sarmiento
+147,Kjell,Scherpen,1,GKP,5,Brighton,36,Scherpen
+148,Jason,Steele,1,GKP,5,Brighton,36,Steele
+149,Deniz,Undav,4,FWD,5,Brighton,36,Undav
+150,Jan Paul,van Hecke,2,DEF,5,Brighton,36,Van Hecke
+151,Joël,Veltman,2,DEF,5,Brighton,36,Veltman
+152,Bart,Verbruggen,1,GKP,5,Brighton,36,Verbruggen
+153,Adam,Webster,2,DEF,5,Brighton,36,Webster
+154,Danny,Welbeck,4,FWD,5,Brighton,36,Welbeck
+155,Andi,Zeqiri,4,FWD,5,Brighton,36,Zeqiri
+606,Igor Julio,dos Santos de Paulo,2,DEF,5,Brighton,36,Igor
+621,Jack,Hinshelwood,3,MID,5,Brighton,36,Hinshelwood
+690,Carlos,Baleba,3,MID,5,Brighton,36,Baleba
+700,Anssumane,Fati Vieira,3,MID,5,Brighton,36,Ansu Fati
+741,Mark,O’Mahony,4,FWD,5,Brighton,36,O’Mahony
+742,Benicio,Baker-Boaitey,3,MID,5,Brighton,36,Baker-Boaitey
+746,Ben,Jackson,2,DEF,5,Brighton,36,Jackson
+747,Joshua,Duffus,3,MID,5,Brighton,36,Duffus
+753,Leigh,Kavanagh,2,DEF,5,Brighton,36,Kavanagh
+755,Luca,Barrington,3,MID,5,Brighton,36,Barrington
+786,Cameron,Peupion,3,MID,5,Brighton,36,Peupion
+816,Valentín,Barco,2,DEF,5,Brighton,36,Barco
+843,Samy,Chouchane,3,MID,5,Brighton,36,Chouchane
+845,Odeluga,Offiah,2,DEF,5,Brighton,36,Offiah
+861,Noël,Atom,2,DEF,5,Brighton,36,Atom
+156,Enock,Agyei,3,MID,6,Burnley,90,Agyei
+157,Ameen,Al-Dakhil,2,DEF,6,Burnley,90,Al-Dakhil
+158,Samuel,Bastien,3,MID,6,Burnley,90,Bastien
+159,Manuel Benson,Hedilazio,3,MID,6,Burnley,90,Benson
+160,Jordan,Beyer,2,DEF,6,Burnley,90,Beyer
+161,Josh,Brownhill,3,MID,6,Burnley,90,Brownhill
+162,Darko,Churlinov,3,MID,6,Burnley,90,Churlinov
+163,Jack,Cork,3,MID,6,Burnley,90,Cork
+164,Dara,Costelloe,3,MID,6,Burnley,90,Costelloe
+165,Josh,Cullen,3,MID,6,Burnley,90,Cullen
+166,CJ,Egan-Riley,2,DEF,6,Burnley,90,Egan-Riley
+167,Hjalmar,Ekdal,2,DEF,6,Burnley,90,Ekdal
+168,Lyle,Foster,4,FWD,6,Burnley,90,Foster
+169,Denis,Franchi,1,GKP,6,Burnley,90,Franchi
+170,Jóhann Berg,Gudmundsson,3,MID,6,Burnley,90,Gudmundsson
+171,Luke,McNally,2,DEF,6,Burnley,90,McNally
+172,Arijanet,Muric,1,GKP,6,Burnley,90,Muric
+173,Dara,O'Shea,2,DEF,6,Burnley,90,O'Shea
+174,Michael,Obafemi,4,FWD,6,Burnley,90,Obafemi
+175,Bailey,Peacock-Farrell,1,GKP,6,Burnley,90,Peacock-Farrell
+176,Connor,Roberts,2,DEF,6,Burnley,90,Roberts
+177,Jay,Rodriguez,4,FWD,6,Burnley,90,Rodriguez
+178,Charlie,Taylor,2,DEF,6,Burnley,90,Taylor
+179,Bobby,Thomas,2,DEF,6,Burnley,90,Thomas
+180,Scott,Twine,3,MID,6,Burnley,90,Twine
+181,Lawrence,Vigouroux,1,GKP,6,Burnley,90,Vigouroux
+182,Victor,da Silva,2,DEF,6,Burnley,90,Vitinho
+183,Wout,Weghorst,4,FWD,6,Burnley,90,Weghorst
+184,Anass,Zaroury,3,MID,6,Burnley,90,Zaroury
+200,David Datro,Fofana,4,FWD,6,Burnley,90,D.D.Fofana
+475,Sander,Berge,3,MID,6,Burnley,90,Berge
+594,Zeki,Amdouni,4,FWD,6,Burnley,90,Amdouni
+596,James,Trafford,1,GKP,6,Burnley,90,Trafford
+600,Nathan,Redmond,3,MID,6,Burnley,90,Redmond
+605,Luca,Koleosho,3,MID,6,Burnley,90,Koleosho
+608,Jacob,Bruun Larsen,3,MID,6,Burnley,90,Bruun Larsen
+622,Owen,Dodgson,2,DEF,6,Burnley,90,Dodgson
+660,Wilson,Odobert,3,MID,6,Burnley,90,Odobert
+674,Hannes,Delcroix,2,DEF,6,Burnley,90,Delcroix
+675,Aaron,Ramsey,3,MID,6,Burnley,90,A.Ramsey
+694,Han-Noah,Massengo,3,MID,6,Burnley,90,Massengo
+706,Mike,Trésor,3,MID,6,Burnley,90,M.Trésor
+805,Lorenz,Assignon,2,DEF,6,Burnley,90,Assignon
+806,Maxime,Esteve,2,DEF,6,Burnley,90,Estève
+126,Moisés,Caicedo Corozo,3,MID,7,Chelsea,8,Caicedo
+145,Robert,Sánchez,1,GKP,7,Chelsea,8,Sanchez
+185,Ethan,Ampadu,2,DEF,7,Chelsea,8,Ampadu
+186,Andrey,Nascimento dos Santos,3,MID,7,Chelsea,8,Andrey
+187,Kepa,Arrizabalaga,1,GKP,7,Chelsea,8,Arrizabalaga
+188,Pierre-Emerick,Aubameyang,4,FWD,7,Chelsea,8,Aubameyang
+189,César,Azpilicueta,2,DEF,7,Chelsea,8,Azpilicueta
+190,Abdul Rahman,Baba,2,DEF,7,Chelsea,8,Baba
+191,Benoît,Badiashile,2,DEF,7,Chelsea,8,B.Badiashile
+192,Marcus,Bettinelli,1,GKP,7,Chelsea,8,Bettinelli
+194,Trevoh,Chalobah,2,DEF,7,Chelsea,8,Chalobah
+195,Ben,Chilwell,2,DEF,7,Chelsea,8,Chilwell
+196,Carney,Chukwuemeka,3,MID,7,Chelsea,8,Chukwuemeka
+197,Levi,Colwill,2,DEF,7,Chelsea,8,Colwill
+198,Marc,Cucurella Saseta,2,DEF,7,Chelsea,8,Cucurella
+199,Enzo,Fernández,3,MID,7,Chelsea,8,Enzo
+201,Wesley,Fofana,2,DEF,7,Chelsea,8,W.Fofana
+202,Conor,Gallagher,3,MID,7,Chelsea,8,Gallagher
+203,Malo,Gusto,2,DEF,7,Chelsea,8,Gusto
+206,Reece,James,2,DEF,7,Chelsea,8,James
+207,Romelu,Lukaku Bolingoli,4,FWD,7,Chelsea,8,Lukaku
+208,Noni,Madueke,3,MID,7,Chelsea,8,Madueke
+210,Mykhailo,Mudryk,3,MID,7,Chelsea,8,Mudryk
+211,Nicolas,Jackson,4,FWD,7,Chelsea,8,N.Jackson
+212,Christopher,Nkunku,4,FWD,7,Chelsea,8,Nkunku
+213,Christian,Pulisic,3,MID,7,Chelsea,8,Pulisic
+214,Malang,Sarr,2,DEF,7,Chelsea,8,M.Sarr
+215,Gabriel,Słonina,1,GKP,7,Chelsea,8,Slonina
+216,Raheem,Sterling,3,MID,7,Chelsea,8,Sterling
+217,Thiago,Emiliano da Silva,2,DEF,7,Chelsea,8,T.Silva
+218,Hakim,Ziyech,3,MID,7,Chelsea,8,Ziyech
+362,Cole,Palmer,3,MID,7,Chelsea,8,Palmer
+589,Ângelo Gabriel,Borges Damaceno,3,MID,7,Chelsea,8,Ângelo
+609,Ian,Maatsen,3,MID,7,Chelsea,8,Maatsen
+611,Axel,Disasi,2,DEF,7,Chelsea,8,Disasi
+613,Lesley,Ugochukwu,3,MID,7,Chelsea,8,Ugochukwu
+623,Mason,Burstow,4,FWD,7,Chelsea,8,Burstow
+659,Lucas,Bergström,1,GKP,7,Chelsea,8,Bergström
+667,Roméo,Lavia,3,MID,7,Chelsea,8,Lavia
+671,Bashir,Humphreys,2,DEF,7,Chelsea,8,Humphreys
+677,Deivid Washington,de Souza Eugênio,4,FWD,7,Chelsea,8,Deivid
+680,Eddie,Beach,1,GKP,7,Chelsea,8,Beach
+681,Diego Manuel Jadon,da Silva Moreira,3,MID,7,Chelsea,8,Diego Moreira
+687,Đorđe,Petrović,1,GKP,7,Chelsea,8,Petrović
+716,Alfie,Gilchrist,2,DEF,7,Chelsea,8,Gilchrist
+717,Ronnie,Stutter,4,FWD,7,Chelsea,8,Stutter
+718,Alex,Matos,3,MID,7,Chelsea,8,Matos
+723,Josh,Brooking,2,DEF,7,Chelsea,8,Brooking
+758,Leo,Castledine,3,MID,7,Chelsea,8,Castledine
+791,Cesare,Casadei,3,MID,7,Chelsea,8,Casadei
+819,Ishé,Samuels-Smith,2,DEF,7,Chelsea,8,Samuels-Smith
+820,Ollie,Harrison,3,MID,7,Chelsea,8,Harrison
+830,Jimi,Tauriainen,3,MID,7,Chelsea,8,Tauriainen
+838,Josh,Acheampong,2,DEF,7,Chelsea,8,Acheampong
+847,Teddy,Sharman-Lowe,1,GKP,7,Chelsea,8,Sharman-Lowe
+851,Tyrique,George,4,FWD,7,Chelsea,8,George
+852,Kiano,Dyer,3,MID,7,Chelsea,8,Dyer
+858,Ted,Curd,1,GKP,7,Chelsea,8,Curd
+859,Zak,Sturge,2,DEF,7,Chelsea,8,Sturge
+7,Rob,Holding,2,DEF,8,Crystal Palace,31,Holding
+219,Naouirou,Ahamada,3,MID,8,Crystal Palace,31,Ahamada
+220,Joachim,Andersen,2,DEF,8,Crystal Palace,31,Andersen
+221,Jordan,Ayew,3,MID,8,Crystal Palace,31,J.Ayew
+222,Nathaniel,Clyne,2,DEF,8,Crystal Palace,31,Clyne
+223,Cheick,Doucouré,3,MID,8,Crystal Palace,31,C.Doucouré
+224,Malcolm,Ebiowei,3,MID,8,Crystal Palace,31,Ebiowei
+225,Odsonne,Edouard,4,FWD,8,Crystal Palace,31,Edouard
+226,Eberechi,Eze,3,MID,8,Crystal Palace,31,Eze
+227,Vicente,Guaita,1,GKP,8,Crystal Palace,31,Guaita
+228,Marc,Guéhi,2,DEF,8,Crystal Palace,31,Guéhi
+229,Will,Hughes,3,MID,8,Crystal Palace,31,Hughes
+230,Sam,Johnstone,1,GKP,8,Crystal Palace,31,Johnstone
+231,Jefferson,Lerma Solís,3,MID,8,Crystal Palace,31,Lerma
+232,Jean-Philippe,Mateta,4,FWD,8,Crystal Palace,31,Mateta
+233,Remi,Matthews,1,GKP,8,Crystal Palace,31,Matthews
+234,Tyrick,Mitchell,2,DEF,8,Crystal Palace,31,Mitchell
+235,Jake,O'Brien,2,DEF,8,Crystal Palace,31,O'Brien
+236,Michael,Olise,3,MID,8,Crystal Palace,31,Olise
+237,Luke,Plange,4,FWD,8,Crystal Palace,31,Plange
+238,Chris,Richards,2,DEF,8,Crystal Palace,31,C.Richards
+239,Jairo,Riedewald,3,MID,8,Crystal Palace,31,Riedewald
+240,Jeffrey,Schlupp,3,MID,8,Crystal Palace,31,Schlupp
+241,James,Tomkins,2,DEF,8,Crystal Palace,31,Tomkins
+242,Joel,Ward,2,DEF,8,Crystal Palace,31,Ward
+243,Joe,Whitworth,1,GKP,8,Crystal Palace,31,Whitworth
+385,Dean,Henderson,1,GKP,8,Crystal Palace,31,Henderson
+615,Matheus,França de Oliveira,3,MID,8,Crystal Palace,31,Matheus França
+657,Jesurun,Rak-Sakyi,3,MID,8,Crystal Palace,31,Rak-Sakyi
+658,John-Kymani,Gordon,4,FWD,8,Crystal Palace,31,Gordon
+720,Ademola,Ola-Adebomi,4,FWD,8,Crystal Palace,31,Ola-Adebomi
+721,David,Ozoh,3,MID,8,Crystal Palace,31,Ozoh
+724,Jadan,Raymond,3,MID,8,Crystal Palace,31,Raymond
+763,Tayo,Adaramola,2,DEF,8,Crystal Palace,31,Adaramola
+792,Daniel,Muñoz,2,DEF,8,Crystal Palace,31,Muñoz
+807,Adam,Wharton,3,MID,8,Crystal Palace,31,Wharton
+821,Franco,Umeh-Chibueze,4,FWD,8,Crystal Palace,31,Umeh-Chibueze
+825,Kaden,Rodney,3,MID,8,Crystal Palace,31,Rodney
+842,Roshaun,Mathurin,3,MID,8,Crystal Palace,31,Mathurin
+244,André,Tavares Gomes,3,MID,9,Everton,11,André Gomes
+245,Jarrad,Branthwaite,2,DEF,9,Everton,11,Branthwaite
+246,Dominic,Calvert-Lewin,4,FWD,9,Everton,11,Calvert-Lewin
+247,Seamus,Coleman,2,DEF,9,Everton,11,Coleman
+248,Dele,Alli,3,MID,9,Everton,11,Dele
+249,Abdoulaye,Doucouré,3,MID,9,Everton,11,A.Doucoure
+250,James,Garner,3,MID,9,Everton,11,Garner
+251,Jean-Philippe,Gbamin,3,MID,9,Everton,11,Gbamin
+252,Ben,Godfrey,2,DEF,9,Everton,11,Godfrey
+253,Demarai,Gray,3,MID,9,Everton,11,Gray
+254,Idrissa,Gueye,3,MID,9,Everton,11,Gana
+257,Michael,Keane,2,DEF,9,Everton,11,Keane
+259,Dwight,McNeil,3,MID,9,Everton,11,McNeil
+260,Vitalii,Mykolenko,2,DEF,9,Everton,11,Mykolenko
+261,Amadou,Onana,3,MID,9,Everton,11,Onana
+262,Nathan,Patterson,2,DEF,9,Everton,11,Patterson
+263,Jordan,Pickford,1,GKP,9,Everton,11,Pickford
+264,Ellis,Simms,4,FWD,9,Everton,11,Simms
+265,James,Tarkowski,2,DEF,9,Everton,11,Tarkowski
+266,João,Neves Virgínia,1,GKP,9,Everton,11,J.Virginia
+579,Andy,Lonergan,1,GKP,9,Everton,11,Lonergan
+588,Ashley,Young,2,DEF,9,Everton,11,Young
+601,Arnaut,Danjuma Groeneveld,3,MID,9,Everton,11,Danjuma
+624,Lewis,Dobbin,3,MID,9,Everton,11,Dobbin
+645,Youssef,Ramalho Chermiti,4,FWD,9,Everton,11,Y. Chermiti
+649,Thomas,Cannon,4,FWD,9,Everton,11,Cannon
+650,Tyler,Onyango,3,MID,9,Everton,11,Onyango
+661,Jack,Harrison,3,MID,9,Everton,11,Harrison
+691,Norberto Bercique,Gomes Betuncal,4,FWD,9,Everton,11,Beto
+719,Mackenzie,Hunt,3,MID,9,Everton,11,Hunt
+760,Jenson,Metcalfe,3,MID,9,Everton,11,Metcalfe
+761,Elijah,Campbell,2,DEF,9,Everton,11,Campbell
+841,Lewis,Warrington,3,MID,9,Everton,11,Warrington
+863,Billy,Crellin,1,GKP,9,Everton,11,Crellin
+193,Armando,Broja,4,FWD,10,Fulham,54,Broja
+256,Alex,Iwobi,3,MID,10,Fulham,54,Iwobi
+267,Andreas,Hoelgebaum Pereira,3,MID,10,Fulham,54,Andreas
+268,Tom,Cairney,3,MID,10,Fulham,54,Cairney
+269,Ivan,Neves Abreu Cavaleiro,3,MID,10,Fulham,54,I.Cavaleiro
+270,Bobby,De Cordova-Reid,3,MID,10,Fulham,54,De Cordova-Reid
+271,Issa,Diop,2,DEF,10,Fulham,54,Diop
+272,Tyrese,Francois,3,MID,10,Fulham,54,Francois
+273,Anthony,Knockaert,3,MID,10,Fulham,54,Knockaert
+274,Terence,Kongolo,2,DEF,10,Fulham,54,Kongolo
+275,Bernd,Leno,1,GKP,10,Fulham,54,Leno
+276,Saša,Lukić,3,MID,10,Fulham,54,Lukić
+277,Kevin,Mbabu,2,DEF,10,Fulham,54,Mbabu
+278,Aleksandar,Mitrović,4,FWD,10,Fulham,54,Mitrović
+279,Rodrigo,Muniz Carvalho,4,FWD,10,Fulham,54,Muniz
+280,João,Palhinha Gonçalves,3,MID,10,Fulham,54,J.Palhinha
+281,Tim,Ream,2,DEF,10,Fulham,54,Ream
+282,Harrison,Reed,3,MID,10,Fulham,54,Reed
+283,Antonee,Robinson,2,DEF,10,Fulham,54,Robinson
+284,Marek,Rodák,1,GKP,10,Fulham,54,Rodák
+285,Kenny,Tete,2,DEF,10,Fulham,54,Tete
+286,Tosin,Adarabioyo,2,DEF,10,Fulham,54,Tosin
+287,Carlos Vinícius,Alves Morais,4,FWD,10,Fulham,54,Vinícius
+288,Harry,Wilson,3,MID,10,Fulham,54,Wilson
+558,Raúl,Jiménez,4,FWD,10,Fulham,54,Raúl
+591,Willian,Borges da Silva,3,MID,10,Fulham,54,Willian
+610,Calvin,Bassey,2,DEF,10,Fulham,54,Bassey
+625,Luc,De Fougerolles,2,DEF,10,Fulham,54,De Fougerolles
+651,Jay,Stansfield,4,FWD,10,Fulham,54,Stansfield
+652,Matthew,Dibley-Dias,3,MID,10,Fulham,54,Dibley-Dias
+662,Adama,Traoré,3,MID,10,Fulham,54,Adama
+683,Luke,Harris,3,MID,10,Fulham,54,Harris
+688,Timothy,Castagne,2,DEF,10,Fulham,54,Castagne
+692,Steven,Benda,1,GKP,10,Fulham,54,Benda
+707,Fodé,Ballo-Touré,2,DEF,10,Fulham,54,Ballo-Touré
+732,Devan,Tanton,2,DEF,10,Fulham,54,Tanton
+796,Kristian,Sekularac,3,MID,10,Fulham,54,Sekularac
+810,Joshua,King,3,MID,10,Fulham,54,King
+289,Adrián,San Miguel del Castillo,1,GKP,11,Liverpool,14,Adrián
+290,Trent,Alexander-Arnold,2,DEF,11,Liverpool,14,Alexander-Arnold
+291,Alisson,Ramses Becker,1,GKP,11,Liverpool,14,A.Becker
+292,Stefan,Bajcetic,3,MID,11,Liverpool,14,Bajcetic
+293,Darwin,Núñez Ribeiro,4,FWD,11,Liverpool,14,Darwin
+294,Diogo,Teixeira da Silva,3,MID,11,Liverpool,14,Diogo J.
+295,Harvey,Elliott,3,MID,11,Liverpool,14,Elliott
+296,Fabio Henrique,Tavares,3,MID,11,Liverpool,14,Fabinho
+297,Cody,Gakpo,4,FWD,11,Liverpool,14,Gakpo
+298,Joe,Gomez,2,DEF,11,Liverpool,14,Gomez
+299,Jordan,Henderson,3,MID,11,Liverpool,14,Henderson
+300,Curtis,Jones,3,MID,11,Liverpool,14,Jones
+301,Caoimhin,Kelleher,1,GKP,11,Liverpool,14,Kelleher
+302,Ibrahima,Konaté,2,DEF,11,Liverpool,14,Konaté
+303,Luis,Díaz,3,MID,11,Liverpool,14,Luis Díaz
+304,Alexis,Mac Allister,3,MID,11,Liverpool,14,Mac Allister
+305,Joel,Matip,2,DEF,11,Liverpool,14,Matip
+306,Nathaniel,Phillips,2,DEF,11,Liverpool,14,Phillips
+307,Andrew,Robertson,2,DEF,11,Liverpool,14,Robertson
+308,Mohamed,Salah,3,MID,11,Liverpool,14,Salah
+309,Dominik,Szoboszlai,3,MID,11,Liverpool,14,Szoboszlai
+310,Thiago,Alcántara do Nascimento,3,MID,11,Liverpool,14,Thiago
+311,Konstantinos,Tsimikas,2,DEF,11,Liverpool,14,Tsimikas
+312,Sepp,van den Berg,2,DEF,11,Liverpool,14,Van den Berg
+313,Virgil,van Dijk,2,DEF,11,Liverpool,14,Virgil
+626,Jarell,Quansah,2,DEF,11,Liverpool,14,Quansah
+627,Bobby,Clark,3,MID,11,Liverpool,14,Clark
+628,Ben,Doak,3,MID,11,Liverpool,14,Doak
+629,James,McConnell,3,MID,11,Liverpool,14,McConnell
+668,Wataru,Endo,3,MID,11,Liverpool,14,Endo
+708,Ryan,Gravenberch,3,MID,11,Liverpool,14,Gravenberch
+726,Luke,Chambers,2,DEF,11,Liverpool,14,Chambers
+728,Callum,Scanlon,2,DEF,11,Liverpool,14,Scanlon
+743,Treymaurice,Nyoni,3,MID,11,Liverpool,14,Nyoni
+756,Marcelo,de Araújo Pitaluga Filho,1,GKP,11,Liverpool,14,Pitaluga
+757,Conor,Bradley,2,DEF,11,Liverpool,14,Bradley
+782,Owen,Beck,2,DEF,11,Liverpool,14,Beck
+783,Kaide,Gordon,3,MID,11,Liverpool,14,Gordon
+812,Lewis,Koumas,4,FWD,11,Liverpool,14,Koumas
+813,Fabian,Mrozek,1,GKP,11,Liverpool,14,Mrozek
+824,Jayden,Danns,4,FWD,11,Liverpool,14,Danns
+837,Amara,Nallo,2,DEF,11,Liverpool,14,Nallo
+21,Albert,Sambi Lokonga,3,MID,12,Luton,102,Sambi
+52,Marvelous,Nakamba,3,MID,12,Luton,102,Nakamba
+314,Elijah,Adebayo,4,FWD,12,Luton,102,Adebayo
+315,Mads Juel,Andersen,2,DEF,12,Luton,102,Andersen
+316,Amari'i,Bell,2,DEF,12,Luton,102,Bell
+317,Luke,Berry,3,MID,12,Luton,102,Berry
+318,Reece,Burke,2,DEF,12,Luton,102,Burke
+319,Allan,Campbell,3,MID,12,Luton,102,Campbell
+320,Jordan,Clark,3,MID,12,Luton,102,Clark
+321,Alfie,Doughty,2,DEF,12,Luton,102,Doughty
+322,Luke,Freeman,3,MID,12,Luton,102,Freeman
+323,Matt,Macey,1,GKP,12,Luton,102,Macey
+324,John,McAtee,4,FWD,12,Luton,102,McAtee
+325,Carlos,Mendes Gomes,3,MID,12,Luton,102,Mendes
+326,Carlton,Morris,4,FWD,12,Luton,102,Morris
+327,Admiral,Muskwe,4,FWD,12,Luton,102,Muskwe
+328,Chiedozie,Ogbene,4,FWD,12,Luton,102,Ogbene
+329,Fred,Onyedinma,3,MID,12,Luton,102,Onyedinma
+330,Gabriel,Osho,2,DEF,12,Luton,102,Osho
+331,Aribim,Pepple,4,FWD,12,Luton,102,Pepple
+332,Dion,Pereira,3,MID,12,Luton,102,Pereira
+333,Dan,Potts,2,DEF,12,Luton,102,Potts
+334,Glen,Rea,3,MID,12,Luton,102,Rea
+335,James,Shea,1,GKP,12,Luton,102,Shea
+336,Joe,Taylor,4,FWD,12,Luton,102,Taylor
+337,Elliot,Thorpe,3,MID,12,Luton,102,Thorpe
+338,Jack,Walton,1,GKP,12,Luton,102,Walton
+339,Louie,Watson,3,MID,12,Luton,102,Watson
+340,Cauley,Woodrow,4,FWD,12,Luton,102,Woodrow
+393,Teden,Mengi,2,DEF,12,Luton,102,Mengi
+553,Ryan,Giles,2,DEF,12,Luton,102,Giles
+575,Tom,Lockyer,2,DEF,12,Luton,102,Lockyer
+582,Pelly Ruddock,Mpanzu,3,MID,12,Luton,102,Mpanzu
+586,Tahith,Chong,3,MID,12,Luton,102,Chong
+602,Issa,Kaboré,2,DEF,12,Luton,102,Kaboré
+614,Thomas,Kaminski,1,GKP,12,Luton,102,Kaminski
+630,Ross,Barkley,3,MID,12,Luton,102,Barkley
+631,Jacob,Brown,4,FWD,12,Luton,102,Brown
+648,Aidan,Francis-Clarke,2,DEF,12,Luton,102,Francis-Clarke
+665,Tim,Krul,1,GKP,12,Luton,102,Krul
+682,Joseph,Johnson,2,DEF,12,Luton,102,Johnson
+727,Andros,Townsend,3,MID,12,Luton,102,Townsend
+729,Jayden,Luker,3,MID,12,Luton,102,Luker
+734,Zack,Nelson,3,MID,12,Luton,102,Nelson
+798,Daiki,Hashioka,2,DEF,12,Luton,102,Hashioka
+831,Axel,Piesold,3,MID,12,Luton,102,Piesold
+839,Dominic,Dos Santos Martins,3,MID,12,Luton,102,Martins
+844,Christian,Chigozie,2,DEF,12,Luton,102,Chigozie
+848,Taylan,Harris,4,FWD,12,Luton,102,Harris
+341,Manuel,Akanji,2,DEF,13,Man City,43,Akanji
+342,Nathan,Aké,2,DEF,13,Man City,43,Aké
+343,Julián,Álvarez,4,FWD,13,Man City,43,J.Alvarez
+344,Bernardo,Veiga de Carvalho e Silva,3,MID,13,Man City,43,Bernardo
+345,Oscar,Bobb,3,MID,13,Man City,43,Bobb
+346,João,Cancelo,2,DEF,13,Man City,43,Cancelo
+347,Scott,Carson,1,GKP,13,Man City,43,Carson
+348,Shea,Charles,3,MID,13,Man City,43,Charles
+349,Kevin,De Bruyne,3,MID,13,Man City,43,De Bruyne
+350,Rúben,Gato Alves Dias,2,DEF,13,Man City,43,Rúben
+352,Ederson,Santana de Moraes,1,GKP,13,Man City,43,Ederson M.
+353,Phil,Foden,3,MID,13,Man City,43,Foden
+354,Jack,Grealish,3,MID,13,Man City,43,Grealish
+355,Erling,Haaland,4,FWD,13,Man City,43,Haaland
+356,Mateo,Kovačić,3,MID,13,Man City,43,Kovačić
+357,Aymeric,Laporte,2,DEF,13,Man City,43,Laporte
+358,Rico,Lewis,2,DEF,13,Man City,43,R.Lewis
+359,Riyad,Mahrez,3,MID,13,Man City,43,Mahrez
+361,Stefan,Ortega Moreno,1,GKP,13,Man City,43,Ortega Moreno
+363,Máximo,Perrone,3,MID,13,Man City,43,Perrone
+365,Rodrigo,Hernandez,3,MID,13,Man City,43,Rodrigo
+366,Sergio,Gómez,2,DEF,13,Man City,43,Sergio Gómez
+367,Zack,Steffen,1,GKP,13,Man City,43,Steffen
+368,John,Stones,2,DEF,13,Man City,43,Stones
+369,Kyle,Walker,2,DEF,13,Man City,43,Walker
+566,Matheus Luiz,Nunes,3,MID,13,Man City,43,Matheus N.
+616,Joško,Gvardiol,2,DEF,13,Man City,43,Gvardiol
+678,Jérémy,Doku,3,MID,13,Man City,43,Doku
+762,Mahamadou,Susoho,3,MID,13,Man City,43,Susoho
+771,Micah,Hamilton,3,MID,13,Man City,43,Hamilton
+814,Jacob,Wright,3,MID,13,Man City,43,Wright
+209,Mason,Mount,3,MID,14,Man Utd,1,Mount
+370,Alex,Telles,2,DEF,14,Man Utd,1,Alex Telles
+371,Amad,Diallo,3,MID,14,Man Utd,1,Amad
+372,Antony Matheus,dos Santos,3,MID,14,Man Utd,1,Antony
+373,Bruno,Borges Fernandes,3,MID,14,Man Utd,1,B.Fernandes
+374,Brandon,Williams,2,DEF,14,Man Utd,1,B.Williams
+375,Eric,Bailly,2,DEF,14,Man Utd,1,Bailly
+376,Carlos Henrique,Casimiro,3,MID,14,Man Utd,1,Casemiro
+377,Diogo,Dalot Teixeira,2,DEF,14,Man Utd,1,Dalot
+379,Christian,Eriksen,3,MID,14,Man Utd,1,Eriksen
+380,Álvaro,Fernández Carreras,2,DEF,14,Man Utd,1,Fernandez
+381,Frederico,Rodrigues de Paula Santos,3,MID,14,Man Utd,1,Fred
+382,Alejandro,Garnacho,3,MID,14,Man Utd,1,Garnacho
+383,Hannibal,Mejbri,3,MID,14,Man Utd,1,Hannibal
+384,Tom,Heaton,1,GKP,14,Man Utd,1,Heaton
+386,Victor,Lindelöf,2,DEF,14,Man Utd,1,Lindelof
+387,Harry,Maguire,2,DEF,14,Man Utd,1,Maguire
+388,Kobbie,Mainoo,3,MID,14,Man Utd,1,Mainoo
+389,Tyrell,Malacia,2,DEF,14,Man Utd,1,Malacia
+390,Anthony,Martial,4,FWD,14,Man Utd,1,Martial
+391,Lisandro,Martínez,2,DEF,14,Man Utd,1,Martinez
+392,Scott,McTominay,3,MID,14,Man Utd,1,McTominay
+394,Facundo,Pellistri Rebollo,3,MID,14,Man Utd,1,Pellistri
+395,Raphaël,Varane,2,DEF,14,Man Utd,1,R.Varane
+396,Marcus,Rashford,3,MID,14,Man Utd,1,Rashford
+397,Jadon,Sancho,3,MID,14,Man Utd,1,Sancho
+398,Luke,Shaw,2,DEF,14,Man Utd,1,Shaw
+399,Shola,Shoretire,4,FWD,14,Man Utd,1,Shoretire
+400,Donny,van de Beek,3,MID,14,Man Utd,1,Van de Beek
+401,Aaron,Wan-Bissaka,2,DEF,14,Man Utd,1,Wan-Bissaka
+597,André,Onana,1,GKP,14,Man Utd,1,Onana
+617,Rasmus,Højlund,4,FWD,14,Man Utd,1,Højlund
+632,Omari,Forson,3,MID,14,Man Utd,1,Forson
+669,Radek,Vítek,1,GKP,14,Man Utd,1,Vítek
+685,Daniel,Gore,3,MID,14,Man Utd,1,Gore
+695,Altay,Bayindir,1,GKP,14,Man Utd,1,Altay
+703,Jonny,Evans,2,DEF,14,Man Utd,1,Evans
+709,Sofyan,Amrabat,3,MID,14,Man Utd,1,Amrabat
+748,Joe,Hugill,4,FWD,14,Man Utd,1,Hugill
+766,Willy,Kambwala,2,DEF,14,Man Utd,1,Kambwala
+768,Rhys,Bennett,2,DEF,14,Man Utd,1,Bennett
+826,Toby,Collyer,3,MID,14,Man Utd,1,Collyer
+833,Habeeb,Ogunneye,2,DEF,14,Man Utd,1,Ogunneye
+835,Dermot,Mee,1,GKP,14,Man Utd,1,Mee
+846,Harry,Amass,2,DEF,14,Man Utd,1,Amass
+850,Ethan,Wheatley,4,FWD,14,Man Utd,1,Wheatley
+856,Louis,Jackson,2,DEF,14,Man Utd,1,Jackson
+204,Lewis,Hall,2,DEF,15,Newcastle,4,Hall
+402,Miguel,Almirón Rejala,3,MID,15,Newcastle,4,Almirón
+403,Elliot,Anderson,3,MID,15,Newcastle,4,Anderson
+404,Harrison,Ashby,2,DEF,15,Newcastle,4,Ashby
+405,Sven,Botman,2,DEF,15,Newcastle,4,Botman
+406,Bruno,Guimarães Rodriguez Moura,3,MID,15,Newcastle,4,Bruno G.
+407,Dan,Burn,2,DEF,15,Newcastle,4,Burn
+408,Karl,Darlow,1,GKP,15,Newcastle,4,Darlow
+409,Martin,Dubravka,1,GKP,15,Newcastle,4,Dubravka
+410,Ryan,Fraser,3,MID,15,Newcastle,4,Fraser
+411,Mark,Gillespie,1,GKP,15,Newcastle,4,Gillespie
+412,Anthony,Gordon,3,MID,15,Newcastle,4,Gordon
+413,Isaac,Hayden,3,MID,15,Newcastle,4,Hayden
+414,Jeff,Hendrick,3,MID,15,Newcastle,4,Hendrick
+415,Alexander,Isak,4,FWD,15,Newcastle,4,Isak
+416,Joelinton Cássio,Apolinário de Lira,3,MID,15,Newcastle,4,Joelinton
+417,Emil,Krafth,2,DEF,15,Newcastle,4,Krafth
+418,Garang,Kuol,3,MID,15,Newcastle,4,Kuol
+419,Jamaal,Lascelles,2,DEF,15,Newcastle,4,Lascelles
+420,Jamal,Lewis,2,DEF,15,Newcastle,4,J.Lewis
+421,Sean,Longstaff,3,MID,15,Newcastle,4,Longstaff
+422,Javier,Manquillo Gaitán,2,DEF,15,Newcastle,4,Manquillo
+423,Jacob,Murphy,3,MID,15,Newcastle,4,J.Murphy
+424,Nick,Pope,1,GKP,15,Newcastle,4,Pope
+425,Matt,Ritchie,3,MID,15,Newcastle,4,Ritchie
+426,Allan,Saint-Maximin,3,MID,15,Newcastle,4,Saint-Maximin
+427,Fabian,Schär,2,DEF,15,Newcastle,4,Schär
+428,Matt,Targett,2,DEF,15,Newcastle,4,Targett
+429,Sandro,Tonali,3,MID,15,Newcastle,4,Tonali
+430,Kieran,Trippier,2,DEF,15,Newcastle,4,Trippier
+431,Kell,Watts,2,DEF,15,Newcastle,4,Watts
+432,Joe,Willock,3,MID,15,Newcastle,4,Willock
+433,Callum,Wilson,4,FWD,15,Newcastle,4,Wilson
+580,Loris,Karius,1,GKP,15,Newcastle,4,Karius
+581,Paul,Dummett,2,DEF,15,Newcastle,4,Dummett
+603,Harvey,Barnes,3,MID,15,Newcastle,4,Barnes
+633,Tino,Livramento,2,DEF,15,Newcastle,4,Livramento
+634,Alex,Murphy,2,DEF,15,Newcastle,4,A.Murphy
+635,Lewis,Miley,3,MID,15,Newcastle,4,Miley
+738,Amadou,Diallo,3,MID,15,Newcastle,4,Diallo
+739,Ben,Parkinson,4,FWD,15,Newcastle,4,Parkinson
+745,Michael,Ndiweni,4,FWD,15,Newcastle,4,Ndiweni
+794,Joe,White,3,MID,15,Newcastle,4,White
+795,Travis,Hernes,3,MID,15,Newcastle,4,Hernes
+23,Nuno,Varela Tavares,2,DEF,16,Nott'm Forest,17,Tavares
+28,Matt,Turner,1,GKP,16,Nott'm Forest,17,Turner
+205,Callum,Hudson-Odoi,3,MID,16,Nott'm Forest,17,Hudson-Odoi
+378,Anthony,Elanga,3,MID,16,Nott'm Forest,17,Elanga
+434,Brandon,Aguilera Zamora,3,MID,16,Nott'm Forest,17,B.Aguilera
+435,Harry,Arter,3,MID,16,Nott'm Forest,17,Arter
+436,Serge,Aurier,2,DEF,16,Nott'm Forest,17,Aurier
+437,Taiwo,Awoniyi,4,FWD,16,Nott'm Forest,17,Awoniyi
+438,Giulian,Biancone,2,DEF,16,Nott'm Forest,17,Biancone
+439,Willy,Boly,2,DEF,16,Nott'm Forest,17,Boly
+440,Josh,Bowler,3,MID,16,Nott'm Forest,17,Bowler
+441,Steve,Cook,2,DEF,16,Nott'm Forest,17,Cook
+442,Danilo,dos Santos de Oliveira,3,MID,16,Nott'm Forest,17,Danilo
+443,Emmanuel,Dennis,4,FWD,16,Nott'm Forest,17,Dennis
+444,Mohamed,Dräger,2,DEF,16,Nott'm Forest,17,Dräger
+445,Felipe Augusto,de Almeida Monteiro,2,DEF,16,Nott'm Forest,17,Felipe
+446,Remo,Freuler,3,MID,16,Nott'm Forest,17,Freuler
+447,Morgan,Gibbs-White,3,MID,16,Nott'm Forest,17,Gibbs-White
+448,Wayne,Hennessey,1,GKP,16,Nott'm Forest,17,Hennessey
+449,Ethan,Horvath,1,GKP,16,Nott'm Forest,17,Horvath
+451,Cheikhou,Kouyaté,3,MID,16,Nott'm Forest,17,Kouyaté
+452,Richie,Laryea,2,DEF,16,Nott'm Forest,17,Laryea
+453,Orel,Mangala,3,MID,16,Nott'm Forest,17,Mangala
+454,Loïc,Mbe Soh,2,DEF,16,Nott'm Forest,17,Mbe Soh
+455,Scott,McKenna,2,DEF,16,Nott'm Forest,17,McKenna
+456,Alex,Mighten,3,MID,16,Nott'm Forest,17,Mighten
+457,Moussa,Niakhaté,2,DEF,16,Nott'm Forest,17,Niakhaté
+458,Lewis,O'Brien,3,MID,16,Nott'm Forest,17,O'Brien
+459,Braian,Ojeda Rodríguez,3,MID,16,Nott'm Forest,17,Ojeda
+460,Jonathan,Panzo,2,DEF,16,Nott'm Forest,17,Panzo
+461,Omar,Richards,2,DEF,16,Nott'm Forest,17,O.Richards
+462,Gustavo Henrique,Furtado Scarpa,3,MID,16,Nott'm Forest,17,G.Scarpa
+463,Jonjo,Shelvey,3,MID,16,Nott'm Forest,17,J.Shelvey
+464,Sam,Surridge,4,FWD,16,Nott'm Forest,17,Surridge
+465,Harry,Toffolo,2,DEF,16,Nott'm Forest,17,Toffolo
+466,Hwang,Ui-jo,4,FWD,16,Nott'm Forest,17,Ui-jo
+467,Neco,Williams,2,DEF,16,Nott'm Forest,17,Williams
+468,Chris,Wood,4,FWD,16,Nott'm Forest,17,Wood
+469,Joe,Worrall,2,DEF,16,Nott'm Forest,17,Worrall
+470,Ryan,Yates,3,MID,16,Nott'm Forest,17,Yates
+604,Olu,Aina,2,DEF,16,Nott'm Forest,17,Aina
+636,George,Shelvey,1,GKP,16,Nott'm Forest,17,G.Shelvey
+637,Josh,Powell,2,DEF,16,Nott'm Forest,17,Powell
+679,Gonzalo,Montiel,2,DEF,16,Nott'm Forest,17,G.Montiel
+696,Murillo,Santiago Costa dos Santos,2,DEF,16,Nott'm Forest,17,Murillo
+710,Odysseas,Vlachodimos,1,GKP,16,Nott'm Forest,17,Odysseas
+711,Andrew,Omobamidele,2,DEF,16,Nott'm Forest,17,Omobamidele
+712,Nicolás,Domínguez,3,MID,16,Nott'm Forest,17,Dominguez
+713,Ibrahim,Sangaré,3,MID,16,Nott'm Forest,17,Sangaré
+714,Divock,Origi,4,FWD,16,Nott'm Forest,17,Origi
+779,Jamie,McDonnell,3,MID,16,Nott'm Forest,17,McDonnell
+780,Detlef Esapa,Osong,4,FWD,16,Nott'm Forest,17,Osong
+781,Joe,Gardner,4,FWD,16,Nott'm Forest,17,Gardner
+801,Giovanni,Reyna,3,MID,16,Nott'm Forest,17,Reyna
+808,Matz,Sels,1,GKP,16,Nott'm Forest,17,Sels
+809,Rodrigo,Duarte Ribeiro,4,FWD,16,Nott'm Forest,17,Ribeiro
+27,Auston,Trusty,2,DEF,17,Sheffield Utd,49,Trusty
+33,Cameron,Archer,4,FWD,17,Sheffield Utd,49,Archer
+255,Mason,Holgate,2,DEF,17,Sheffield Utd,49,Holgate
+360,James,McAtee,3,MID,17,Sheffield Utd,49,McAtee
+471,Anel,Ahmedhodžić,2,DEF,17,Sheffield Utd,49,Ahmedhodžić
+472,Jordan,Amissah,1,GKP,17,Sheffield Utd,49,Amissah
+473,George,Baldock,2,DEF,17,Sheffield Utd,49,Baldock
+474,Chris,Basham,2,DEF,17,Sheffield Utd,49,Basham
+476,Jayden,Bogle,2,DEF,17,Sheffield Utd,49,Bogle
+477,Rhian,Brewster,4,FWD,17,Sheffield Utd,49,Brewster
+478,Ismaila,Coulibaly,3,MID,17,Sheffield Utd,49,Coulibaly
+479,Adam,Davies,1,GKP,17,Sheffield Utd,49,A.Davies
+480,John,Egan,2,DEF,17,Sheffield Utd,49,Egan
+481,John,Fleck,3,MID,17,Sheffield Utd,49,Fleck
+482,Wes,Foderingham,1,GKP,17,Sheffield Utd,49,Foderingham
+483,Daniel,Jebbison,4,FWD,17,Sheffield Utd,49,Jebbison
+484,Max,Lowe,2,DEF,17,Sheffield Utd,49,Lowe
+485,Oliver,McBurnie,4,FWD,17,Sheffield Utd,49,McBurnie
+486,Iliman,Ndiaye,4,FWD,17,Sheffield Utd,49,Ndiaye
+487,Rhys,Norrington-Davies,2,DEF,17,Sheffield Utd,49,Norrington-Davies
+488,Oliver,Norwood,3,MID,17,Sheffield Utd,49,Norwood
+489,Ben,Osborn,3,MID,17,Sheffield Utd,49,Osborn
+490,William,Osula,4,FWD,17,Sheffield Utd,49,Osula
+576,Jack,Robinson,2,DEF,17,Sheffield Utd,49,Robinson
+587,Anis,Slimane,3,MID,17,Sheffield Utd,49,Slimane
+592,Yasser,Larouci,2,DEF,17,Sheffield Utd,49,Larouci
+593,Bénie,Traoré,4,FWD,17,Sheffield Utd,49,T.Bénie
+638,Vini,de Souza Costa,3,MID,17,Sheffield Utd,49,Vini Souza
+653,Femi,Seriki,2,DEF,17,Sheffield Utd,49,Seriki
+654,Louie,Marsh,4,FWD,17,Sheffield Utd,49,Marsh
+655,Andre,Brooks,3,MID,17,Sheffield Utd,49,Brooks
+656,Antwoine,Hackford,4,FWD,17,Sheffield Utd,49,Hackford
+663,Gustavo,Hamer,3,MID,17,Sheffield Utd,49,Hamer
+666,Tom,Davies,3,MID,17,Sheffield Utd,49,T.Davies
+693,Luke,Thomas,2,DEF,17,Sheffield Utd,49,Thomas
+730,Ryan,Oné,3,MID,17,Sheffield Utd,49,Oné
+731,Jili,Buyabu,2,DEF,17,Sheffield Utd,49,Buyabu
+759,Sydie,Peck,3,MID,17,Sheffield Utd,49,Peck
+775,Ben,Brereton,3,MID,17,Sheffield Utd,49,Brereton Díaz
+790,Ivo,Grbic,1,GKP,17,Sheffield Utd,49,Grbić
+822,Billy,Blacker,4,FWD,17,Sheffield Utd,49,Blacker
+823,Oliver,Arblaster,3,MID,17,Sheffield Utd,49,Arblaster
+827,Dovydas,Sasnauskas,2,DEF,17,Sheffield Utd,49,Sasnauskas
+828,Sam,Curtis,2,DEF,17,Sheffield Utd,49,Curtis
+857,Owen,Hampson,3,MID,17,Sheffield Utd,49,Hampson
+450,Brennan,Johnson,3,MID,18,Spurs,6,Johnson
+491,Brandon,Austin,1,GKP,18,Spurs,6,Austin
+492,Rodrigo,Bentancur,3,MID,18,Spurs,6,Bentancur
+493,Yves,Bissouma,3,MID,18,Spurs,6,Bissouma
+494,Bryan,Gil Salvatierra,3,MID,18,Spurs,6,Bryan
+495,Ben,Davies,2,DEF,18,Spurs,6,Davies
+496,Eric,Dier,2,DEF,18,Spurs,6,Dier
+497,Emerson,Leite de Souza Junior,2,DEF,18,Spurs,6,E.Royal
+498,Fraser,Forster,1,GKP,18,Spurs,6,Forster
+499,Pierre-Emile,Højbjerg,3,MID,18,Spurs,6,Højbjerg
+500,Harry,Kane,4,FWD,18,Spurs,6,Kane
+501,Dejan,Kulusevski,3,MID,18,Spurs,6,Kulusevski
+502,Hugo,Lloris,1,GKP,18,Spurs,6,Lloris
+503,Giovani,Lo Celso,3,MID,18,Spurs,6,Lo Celso
+504,James,Maddison,3,MID,18,Spurs,6,Maddison
+505,Tanguy,Ndombélé Alvaro,3,MID,18,Spurs,6,Ndombele
+506,Pedro,Porro,2,DEF,18,Spurs,6,Pedro Porro
+507,Ivan,Perišić,2,DEF,18,Spurs,6,Perišić
+509,Richarlison,de Andrade,3,MID,18,Spurs,6,Richarlison
+510,Joe,Rodon,2,DEF,18,Spurs,6,Rodon
+511,Cristian,Romero,2,DEF,18,Spurs,6,Romero
+512,Davinson,Sánchez,2,DEF,18,Spurs,6,Sánchez
+513,Pape Matar,Sarr,3,MID,18,Spurs,6,Sarr
+514,Ryan,Sessegnon,2,DEF,18,Spurs,6,Sessegnon
+515,Oliver,Skipp,3,MID,18,Spurs,6,Skipp
+516,Son,Heung-min,3,MID,18,Spurs,6,Son
+517,Djed,Spence,2,DEF,18,Spurs,6,Spence
+518,Japhet,Tanganga,2,DEF,18,Spurs,6,Tanganga
+519,Destiny,Udogie,2,DEF,18,Spurs,6,Udogie
+520,Guglielmo,Vicario,1,GKP,18,Spurs,6,Vicario
+521,Alfie,Whiteman,1,GKP,18,Spurs,6,Whiteman
+583,Manor,Solomon,3,MID,18,Spurs,6,Solomon
+639,Micky,van de Ven,2,DEF,18,Spurs,6,Van de Ven
+640,Dane,Scarlett,4,FWD,18,Spurs,6,Scarlett
+641,Alejo,Véliz,4,FWD,18,Spurs,6,Veliz
+702,Ashley,Phillips,2,DEF,18,Spurs,6,Phillips
+722,Jamie,Donley,4,FWD,18,Spurs,6,Donley
+740,Alfie,Dorrington,2,DEF,18,Spurs,6,Dorrington
+754,Yago,de Santiago Alonso,3,MID,18,Spurs,6,Yago Santiago
+776,Timo,Werner,4,FWD,18,Spurs,6,Werner
+777,Radu,Dragusin,2,DEF,18,Spurs,6,Drăgușin
+860,Mikey,Moore,3,MID,18,Spurs,6,Moore
+862,Tyrese,Hall,3,MID,18,Spurs,6,Hall
+364,Kalvin,Phillips,3,MID,19,West Ham,21,Phillips
+522,Nayef,Aguerd,2,DEF,19,West Ham,21,N.Aguerd
+523,Michail,Antonio,4,FWD,19,West Ham,21,Antonio
+524,Alphonse,Areola,1,GKP,19,West Ham,21,Areola
+525,Saïd,Benrahma,3,MID,19,West Ham,21,Benrahma
+526,Jarrod,Bowen,3,MID,19,West Ham,21,Bowen
+527,Maxwel,Cornet,3,MID,19,West Ham,21,Cornet
+528,Vladimír,Coufal,2,DEF,19,West Ham,21,Coufal
+529,Conor,Coventry,3,MID,19,West Ham,21,Coventry
+530,Aaron,Cresswell,2,DEF,19,West Ham,21,Cresswell
+531,Flynn,Downes,3,MID,19,West Ham,21,Downes
+532,Emerson,Palmieri dos Santos,2,DEF,19,West Ham,21,Emerson
+533,Lukasz,Fabianski,1,GKP,19,West Ham,21,Fabianski
+534,Pablo,Fornals Malla,3,MID,19,West Ham,21,P.Fornals
+535,Danny,Ings,4,FWD,19,West Ham,21,Ings
+536,Ben,Johnson,2,DEF,19,West Ham,21,Johnson
+537,Thilo,Kehrer,2,DEF,19,West Ham,21,Kehrer
+538,Divin,Mubama,4,FWD,19,West Ham,21,Mubama
+539,Lucas,Tolentino Coelho de Lima,3,MID,19,West Ham,21,L.Paquetá
+541,Gianluca,Scamacca,4,FWD,19,West Ham,21,Scamacca
+542,Tomáš,Souček,3,MID,19,West Ham,21,Souček
+543,Nikola,Vlašić,3,MID,19,West Ham,21,Vlašić
+544,Kurt,Zouma,2,DEF,19,West Ham,21,Zouma
+577,Angelo,Ogbonna,2,DEF,19,West Ham,21,Ogbonna
+642,Edson,Álvarez Velázquez,3,MID,19,West Ham,21,Álvarez
+647,Joseph,Anang,1,GKP,19,West Ham,21,Anang
+664,James,Ward-Prowse,3,MID,19,West Ham,21,Ward-Prowse
+676,Konstantinos,Mavropanos,2,DEF,19,West Ham,21,Mavropanos
+689,Mohammed,Kudus,3,MID,19,West Ham,21,Kudus
+773,Lewis,Orford,3,MID,19,West Ham,21,Orford
+774,Kaelan,Casey,2,DEF,19,West Ham,21,Casey
+784,Oliver,Scarles,2,DEF,19,West Ham,21,Scarles
+785,Callum,Marshall,4,FWD,19,West Ham,21,Marshall
+829,George,Earthy,3,MID,19,West Ham,21,Earthy
+351,Tommy,Doyle,3,MID,20,Wolves,39,Doyle
+545,Rayan,Aït-Nouri,2,DEF,20,Wolves,39,Aït-Nouri
+546,Daniel,Bentley,1,GKP,20,Wolves,39,Bentley
+547,Bendegúz,Bolla,2,DEF,20,Wolves,39,Bolla
+548,Hugo,Bueno López,2,DEF,20,Wolves,39,H.Bueno
+549,Francisco Jorge,Tomás Oliveira,3,MID,20,Wolves,39,Chiquinho
+550,Luke,Cundle,3,MID,20,Wolves,39,Cundle
+551,Craig,Dawson,2,DEF,20,Wolves,39,Dawson
+552,Fábio,Silva,4,FWD,20,Wolves,39,Fábio Silva
+554,Gonçalo Manuel,Ganchinho Guedes,3,MID,20,Wolves,39,Guedes
+555,Joe,Hodge,3,MID,20,Wolves,39,Hodge
+556,Ki-Jana,Hoever,2,DEF,20,Wolves,39,Hoever
+557,Hwang,Hee-chan,3,MID,20,Wolves,39,Hee Chan
+559,João Victor,Gomes da Silva,3,MID,20,Wolves,39,João Gomes
+560,Jonathan,Castro Otto,2,DEF,20,Wolves,39,J.Otto
+561,Bruno,Cavaco Jordão,3,MID,20,Wolves,39,Jordão
+562,Sasa,Kalajdzic,4,FWD,20,Wolves,39,Kalajdžić
+563,Max,Kilman,2,DEF,20,Wolves,39,Kilman
+564,Tom,King,1,GKP,20,Wolves,39,King
+565,Mario,Lemina,3,MID,20,Wolves,39,Mario Jr.
+567,Pedro,Lomba Neto,3,MID,20,Wolves,39,Neto
+568,Daniel,Castelo Podence,3,MID,20,Wolves,39,Podence
+569,José,Malheiro de Sá,1,GKP,20,Wolves,39,José Sá
+570,Pablo,Sarabia,3,MID,20,Wolves,39,Sarabia
+571,Matija,Šarkić,1,GKP,20,Wolves,39,Šarkić
+572,Nélson,Cabral Semedo,2,DEF,20,Wolves,39,N.Semedo
+573,Toti António,Gomes,2,DEF,20,Wolves,39,Toti
+574,Boubacar,Traoré,3,MID,20,Wolves,39,Boubacar Traore
+590,Matheus,Santos Carneiro Da Cunha,4,FWD,20,Wolves,39,Cunha
+598,Matt,Doherty,2,DEF,20,Wolves,39,Doherty
+697,Santiago,Bueno,2,DEF,20,Wolves,39,S.Bueno
+698,Enso,González,3,MID,20,Wolves,39,González
+704,Nathan,Fraser,4,FWD,20,Wolves,39,Fraser
+715,Jean-Ricner,Bellegarde,3,MID,20,Wolves,39,Bellegarde
+749,Matthew,Whittingham,3,MID,20,Wolves,39,Whittingham
+750,Tawanda,Chirewa,3,MID,20,Wolves,39,Chirewa
+751,Justin,Hubner,2,DEF,20,Wolves,39,Hubner
+769,Owen,Hesketh,3,MID,20,Wolves,39,Hesketh
+770,Ty,Barnett,3,MID,20,Wolves,39,Barnett
+787,Harvey,Griffiths,3,MID,20,Wolves,39,Griffiths
+788,Yerson,Mosquera,2,DEF,20,Wolves,39,Mosquera
+800,Noha,Lemina,3,MID,20,Wolves,39,N.Lemina
+832,Wesley,Okoduwa,2,DEF,20,Wolves,39,Okoduwa
+836,Leon,Chiwome,4,FWD,20,Wolves,39,Chiwome
+840,Fletcher,Holman,4,FWD,20,Wolves,39,Holman
+853,Temple,Ojinnaka,3,MID,20,Wolves,39,Ojinnaka
