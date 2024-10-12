@@ -1,0 +1,3 @@
+,goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,0,90,GK,Leeds,Burnley,3,1,2022-01-02,16581,2021,505633,0.0,0,0,0,0,0.0,0.0
+1,0,0,0,90,GK,Manchester United,Burnley,3,1,2021-12-30,16574,2021,505408,0.1527586430311203,0,3,0,0,0.0792241394519805,0.0
