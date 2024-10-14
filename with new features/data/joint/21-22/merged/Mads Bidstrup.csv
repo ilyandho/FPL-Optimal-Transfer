@@ -1,1 +1,4 @@
 ,assists_x,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,date,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,id,season,roster_id,xA,assists_y,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,0,0.1,97,13,0,0,0.3,2.4,2021-08-21,3,7,0,0,0,0,2,0,7269,0,0,0.0,1,519,1490,971,45,False,0,0,0,0,1,Sub,Crystal Palace,Brentford,0,0,16389,2021,476981,0,0,0,0,0,0,0
+1,0,0,3,0,0.0,97,69,0,0,0.0,0.0,2021-10-03,8,19,0,0,0,0,7,0,6495,2,1,0.0,1,-232,238,470,45,False,0,0,0,0,3,Sub,West Ham,Brentford,1,2,16444,2021,487069,0,0,0,0,0,0,0
+2,0,0,2,0,0.3,97,192,0,0,0.0,0.0,2021-12-29,15,12,0,0,0,0,20,0,6004,1,0,0.0,1,-66,43,109,44,True,0,0,0,0,13,Sub,Brentford,Manchester City,0,1,16567,2021,505380,0,0,0,0,0,0,0
