@@ -1,0 +1,9 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,0.0,1,Sub,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04,22253,2023,659078,0.0,0,0,0,0.0,0.0,0.0
+1,0,1,0.0255064889788627,24,Sub,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24,22184,2023,656381,0.0,0,0,0,0.0255064889788627,0.0255064889788627,0.0
+2,0,1,0.0243077091872692,78,FW,Wolverhampton Wanderers,Arsenal,0,2,2024-04-20,22234,2023,655056,0.0,0,0,0,0.0243077091872692,0.0526457615196704,0.0526457615196704
+3,0,0,0.0,1,Sub,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13,22223,2023,653347,0.0,0,0,0,0.0,0.0,0.0
+4,0,0,0.0,1,Sub,Wolverhampton Wanderers,West Ham,1,2,2024-04-06,22214,2023,651814,0.0,0,0,0,0.0,0.0186403915286064,0.0186403915286064
+5,0,0,0.0,17,Sub,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30,22186,2023,650042,0.0,0,0,0,0.0,0.0,0.0
+6,0,1,0.0590584687888622,6,Sub,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02,22161,2023,644987,0.0158984512090683,0,1,0,0.0590584687888622,0.0749569237232208,0.0
+7,0,0,0.0,1,Sub,Brighton,Wolverhampton Wanderers,0,0,2024-01-22,22095,2023,636517,0.0,0,0,0,0.0,0.0,0.0
