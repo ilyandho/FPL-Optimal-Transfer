@@ -1,0 +1,11 @@
+h_team,a_team,WHH,WHD,WHA,h_fdr,a_fdr
+Everton,West Ham,0.443,0.293,0.264,2,3
+Ipswich,Nottingham Forest,0.27,0.27,0.461,3,2
+Manchester City,Brighton,0.575,0.219,0.206,3,4
+Southampton,Wolverhampton Wanderers,0.272,0.264,0.464,2,2
+Bournemouth,Brentford,0.539,0.236,0.225,2,3
+Arsenal,Chelsea,0.526,0.256,0.219,4,4
+Fulham,Tottenham,0.482,0.241,0.277,3,3
+Leicester,Manchester United,0.236,0.252,0.511,3,2
+Arsenal,Fulham,0.676,0.206,0.118,4,4
+Wolverhampton Wanderers,West Ham,0.394,0.278,0.328,None,None
