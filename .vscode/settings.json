@@ -1,4 +1,5 @@
 {
   "cSpell.words": ["importances", "understat"],
-  "cSpell.ignoreWords": ["subfolders"]
+  "cSpell.ignoreWords": ["subfolders"],
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }
