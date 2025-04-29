@@ -207469,3 +207469,1531 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 2025-04-21 07:27:10,384:INFO:Preloading libraries
 2025-04-21 07:27:10,384:INFO:Set up data.
 2025-04-21 07:27:10,423:INFO:Set up index.
+2025-04-21 23:06:10,545:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-21 23:06:10,616:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-21 23:06:10,616:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-21 23:06:10,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-23 11:58:40,537:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-23 11:58:40,561:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-23 11:58:40,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-23 11:58:40,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-23 11:58:46,238:INFO:Initializing load_model()
+2025-04-23 11:58:46,238:INFO:load_model(model_name=gk_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:46,817:INFO:Initializing predict_model()
+2025-04-23 11:58:46,817:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405ACAFED0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405AD55120>)
+2025-04-23 11:58:46,888:INFO:Checking exceptions
+2025-04-23 11:58:46,888:INFO:Preloading libraries
+2025-04-23 11:58:46,890:INFO:Set up data.
+2025-04-23 11:58:46,952:INFO:Set up index.
+2025-04-23 11:58:47,550:INFO:Initializing load_model()
+2025-04-23 11:58:47,550:INFO:load_model(model_name=gk_saves_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:47,617:INFO:Initializing predict_model()
+2025-04-23 11:58:47,617:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405AE25290>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...,
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C284680>)
+2025-04-23 11:58:47,617:INFO:Checking exceptions
+2025-04-23 11:58:47,617:INFO:Preloading libraries
+2025-04-23 11:58:47,618:INFO:Set up data.
+2025-04-23 11:58:47,827:INFO:Set up index.
+2025-04-23 11:58:48,427:INFO:Initializing load_model()
+2025-04-23 11:58:48,427:INFO:load_model(model_name=gk_xgc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:48,558:INFO:Initializing predict_model()
+2025-04-23 11:58:48,559:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C23BD90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2963))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C284A40>)
+2025-04-23 11:58:48,559:INFO:Checking exceptions
+2025-04-23 11:58:48,561:INFO:Preloading libraries
+2025-04-23 11:58:48,561:INFO:Set up data.
+2025-04-23 11:58:48,649:INFO:Set up index.
+2025-04-23 11:58:49,174:INFO:Initializing load_model()
+2025-04-23 11:58:49,174:INFO:load_model(model_name=gk_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:49,356:INFO:Initializing predict_model()
+2025-04-23 11:58:49,357:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024058AFD790>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1',
+                                             'clean_sheets_2', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', RidgeClassifier(random_state=7738))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002404C6D6840>)
+2025-04-23 11:58:49,357:INFO:Checking exceptions
+2025-04-23 11:58:49,357:INFO:Preloading libraries
+2025-04-23 11:58:49,358:INFO:Set up data.
+2025-04-23 11:58:49,581:INFO:Set up index.
+2025-04-23 11:58:50,148:INFO:Initializing load_model()
+2025-04-23 11:58:50,148:INFO:load_model(model_name=def_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:50,281:INFO:Initializing predict_model()
+2025-04-23 11:58:50,281:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C2A9D50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C2851C0>)
+2025-04-23 11:58:50,281:INFO:Checking exceptions
+2025-04-23 11:58:50,282:INFO:Preloading libraries
+2025-04-23 11:58:50,282:INFO:Set up data.
+2025-04-23 11:58:50,381:INFO:Set up index.
+2025-04-23 11:58:51,070:INFO:Initializing load_model()
+2025-04-23 11:58:51,070:INFO:load_model(model_name=def_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:51,164:INFO:Initializing predict_model()
+2025-04-23 11:58:51,164:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C22AB90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1..._cards_1',
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', OrthogonalMatchingPursuit())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002404C6D68E0>)
+2025-04-23 11:58:51,166:INFO:Checking exceptions
+2025-04-23 11:58:51,166:INFO:Preloading libraries
+2025-04-23 11:58:51,167:INFO:Set up data.
+2025-04-23 11:58:51,262:INFO:Set up index.
+2025-04-23 11:58:52,146:INFO:Initializing load_model()
+2025-04-23 11:58:52,146:INFO:load_model(model_name=def_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:52,278:INFO:Initializing predict_model()
+2025-04-23 11:58:52,278:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405C2598D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LGBMClassifier(n_jobs=-1, random_state=8430))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C285620>)
+2025-04-23 11:58:52,279:INFO:Checking exceptions
+2025-04-23 11:58:52,279:INFO:Preloading libraries
+2025-04-23 11:58:52,280:INFO:Set up data.
+2025-04-23 11:58:52,354:INFO:Set up index.
+2025-04-23 11:58:52,935:INFO:Initializing load_model()
+2025-04-23 11:58:52,935:INFO:load_model(model_name=def_xgc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:53,488:INFO:Initializing predict_model()
+2025-04-23 11:58:53,488:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024058D5C550>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 ExtraTreesRegressor(n_jobs=-1, random_state=1076))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C284540>)
+2025-04-23 11:58:53,489:INFO:Checking exceptions
+2025-04-23 11:58:53,489:INFO:Preloading libraries
+2025-04-23 11:58:53,489:INFO:Set up data.
+2025-04-23 11:58:53,547:INFO:Set up index.
+2025-04-23 11:58:54,084:INFO:Initializing load_model()
+2025-04-23 11:58:54,084:INFO:load_model(model_name=def_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:54,252:INFO:Initializing predict_model()
+2025-04-23 11:58:54,252:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405C2CDF90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=8002))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002404D8359E0>)
+2025-04-23 11:58:54,253:INFO:Checking exceptions
+2025-04-23 11:58:54,253:INFO:Preloading libraries
+2025-04-23 11:58:54,253:INFO:Set up data.
+2025-04-23 11:58:54,459:INFO:Set up index.
+2025-04-23 11:58:55,162:INFO:Initializing load_model()
+2025-04-23 11:58:55,162:INFO:load_model(model_name=mid_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:55,288:INFO:Initializing predict_model()
+2025-04-23 11:58:55,289:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C22ABD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=1318))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C287560>)
+2025-04-23 11:58:55,289:INFO:Checking exceptions
+2025-04-23 11:58:55,289:INFO:Preloading libraries
+2025-04-23 11:58:55,294:INFO:Set up data.
+2025-04-23 11:58:55,378:INFO:Set up index.
+2025-04-23 11:58:55,994:INFO:Initializing load_model()
+2025-04-23 11:58:55,994:INFO:load_model(model_name=mid_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:56,125:INFO:Initializing predict_model()
+2025-04-23 11:58:56,126:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C268E10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1', 'red_ca...
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2560))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C2874C0>)
+2025-04-23 11:58:56,126:INFO:Checking exceptions
+2025-04-23 11:58:56,126:INFO:Preloading libraries
+2025-04-23 11:58:56,127:INFO:Set up data.
+2025-04-23 11:58:56,180:INFO:Set up index.
+2025-04-23 11:58:56,728:INFO:Initializing load_model()
+2025-04-23 11:58:56,729:INFO:load_model(model_name=mid_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:57,244:INFO:Initializing predict_model()
+2025-04-23 11:58:57,244:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024058D99510>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                               feature_types=None, gamma=None, grow_policy=None,
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None, random_state=1440, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C285800>)
+2025-04-23 11:58:57,244:INFO:Checking exceptions
+2025-04-23 11:58:57,244:INFO:Preloading libraries
+2025-04-23 11:58:57,245:INFO:Set up data.
+2025-04-23 11:58:57,337:INFO:Set up index.
+2025-04-23 11:58:58,080:INFO:Initializing load_model()
+2025-04-23 11:58:58,080:INFO:load_model(model_name=mid_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:58,181:INFO:Initializing predict_model()
+2025-04-23 11:58:58,181:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024058D99510>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=3431))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C287560>)
+2025-04-23 11:58:58,181:INFO:Checking exceptions
+2025-04-23 11:58:58,181:INFO:Preloading libraries
+2025-04-23 11:58:58,182:INFO:Set up data.
+2025-04-23 11:58:58,253:INFO:Set up index.
+2025-04-23 11:58:58,823:INFO:Initializing load_model()
+2025-04-23 11:58:58,823:INFO:load_model(model_name=fwd_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:58,909:INFO:Initializing predict_model()
+2025-04-23 11:58:58,909:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405ACAC650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C285760>)
+2025-04-23 11:58:58,909:INFO:Checking exceptions
+2025-04-23 11:58:58,909:INFO:Preloading libraries
+2025-04-23 11:58:58,910:INFO:Set up data.
+2025-04-23 11:58:59,010:INFO:Set up index.
+2025-04-23 11:58:59,480:INFO:Initializing load_model()
+2025-04-23 11:58:59,480:INFO:load_model(model_name=fwd_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:58:59,737:INFO:Initializing predict_model()
+2025-04-23 11:59:00,281:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C27FB90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1', 'red_ca...
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', OrthogonalMatchingPursuit())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C284540>)
+2025-04-23 11:59:00,281:INFO:Checking exceptions
+2025-04-23 11:59:00,281:INFO:Preloading libraries
+2025-04-23 11:59:00,282:INFO:Set up data.
+2025-04-23 11:59:00,320:INFO:Set up index.
+2025-04-23 11:59:00,609:INFO:Initializing load_model()
+2025-04-23 11:59:00,609:INFO:load_model(model_name=fwd_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 11:59:00,781:INFO:Initializing predict_model()
+2025-04-23 11:59:00,781:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405C29E6D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=6189))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405AD55120>)
+2025-04-23 11:59:00,781:INFO:Checking exceptions
+2025-04-23 11:59:00,781:INFO:Preloading libraries
+2025-04-23 11:59:00,782:INFO:Set up data.
+2025-04-23 11:59:00,833:INFO:Set up index.
+2025-04-23 12:22:12,101:INFO:Initializing load_model()
+2025-04-23 12:22:12,101:INFO:load_model(model_name=gk_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:12,133:INFO:Initializing predict_model()
+2025-04-23 12:22:12,133:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405AD4F150>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405AE468E0>)
+2025-04-23 12:22:12,133:INFO:Checking exceptions
+2025-04-23 12:22:12,133:INFO:Preloading libraries
+2025-04-23 12:22:12,135:INFO:Set up data.
+2025-04-23 12:22:12,210:INFO:Set up index.
+2025-04-23 12:22:12,961:INFO:Initializing load_model()
+2025-04-23 12:22:12,961:INFO:load_model(model_name=gk_saves_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:12,992:INFO:Initializing predict_model()
+2025-04-23 12:22:12,992:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002404CEA8250>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...,
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C2844A0>)
+2025-04-23 12:22:12,992:INFO:Checking exceptions
+2025-04-23 12:22:12,992:INFO:Preloading libraries
+2025-04-23 12:22:12,992:INFO:Set up data.
+2025-04-23 12:22:13,068:INFO:Set up index.
+2025-04-23 12:22:14,013:INFO:Initializing load_model()
+2025-04-23 12:22:14,014:INFO:load_model(model_name=gk_xgc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:14,061:INFO:Initializing predict_model()
+2025-04-23 12:22:14,061:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405AA69010>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2963))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C284FE0>)
+2025-04-23 12:22:14,061:INFO:Checking exceptions
+2025-04-23 12:22:14,061:INFO:Preloading libraries
+2025-04-23 12:22:14,062:INFO:Set up data.
+2025-04-23 12:22:14,145:INFO:Set up index.
+2025-04-23 12:22:15,230:INFO:Initializing load_model()
+2025-04-23 12:22:15,231:INFO:load_model(model_name=gk_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:15,272:INFO:Initializing predict_model()
+2025-04-23 12:22:15,272:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405ACAED50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1',
+                                             'clean_sheets_2', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', RidgeClassifier(random_state=7738))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C285260>)
+2025-04-23 12:22:15,272:INFO:Checking exceptions
+2025-04-23 12:22:15,272:INFO:Preloading libraries
+2025-04-23 12:22:15,273:INFO:Set up data.
+2025-04-23 12:22:15,380:INFO:Set up index.
+2025-04-23 12:22:16,252:INFO:Initializing load_model()
+2025-04-23 12:22:16,252:INFO:load_model(model_name=def_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:16,291:INFO:Initializing predict_model()
+2025-04-23 12:22:16,291:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024062919DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C2853A0>)
+2025-04-23 12:22:16,292:INFO:Checking exceptions
+2025-04-23 12:22:16,292:INFO:Preloading libraries
+2025-04-23 12:22:16,293:INFO:Set up data.
+2025-04-23 12:22:16,512:INFO:Set up index.
+2025-04-23 12:22:17,685:INFO:Initializing load_model()
+2025-04-23 12:22:17,685:INFO:load_model(model_name=def_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:17,722:INFO:Initializing predict_model()
+2025-04-23 12:22:17,722:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C2ED350>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1..._cards_1',
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', OrthogonalMatchingPursuit())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024063C12660>)
+2025-04-23 12:22:17,722:INFO:Checking exceptions
+2025-04-23 12:22:17,722:INFO:Preloading libraries
+2025-04-23 12:22:17,723:INFO:Set up data.
+2025-04-23 12:22:17,862:INFO:Set up index.
+2025-04-23 12:22:19,388:INFO:Initializing load_model()
+2025-04-23 12:22:19,389:INFO:load_model(model_name=def_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:19,430:INFO:Initializing predict_model()
+2025-04-23 12:22:19,430:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024058D04410>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LGBMClassifier(n_jobs=-1, random_state=8430))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002404AEC8860>)
+2025-04-23 12:22:19,430:INFO:Checking exceptions
+2025-04-23 12:22:19,430:INFO:Preloading libraries
+2025-04-23 12:22:19,431:INFO:Set up data.
+2025-04-23 12:22:19,572:INFO:Set up index.
+2025-04-23 12:22:21,804:INFO:Initializing load_model()
+2025-04-23 12:22:21,804:INFO:load_model(model_name=def_xgc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:22,453:INFO:Initializing predict_model()
+2025-04-23 12:22:22,454:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002404C71CE10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 ExtraTreesRegressor(n_jobs=-1, random_state=1076))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024049505B20>)
+2025-04-23 12:22:22,454:INFO:Checking exceptions
+2025-04-23 12:22:22,454:INFO:Preloading libraries
+2025-04-23 12:22:22,454:INFO:Set up data.
+2025-04-23 12:22:22,495:INFO:Set up index.
+2025-04-23 12:22:23,622:INFO:Initializing load_model()
+2025-04-23 12:22:23,622:INFO:load_model(model_name=def_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:23,653:INFO:Initializing predict_model()
+2025-04-23 12:22:23,653:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405A3C34D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=8002))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024063C12FC0>)
+2025-04-23 12:22:23,653:INFO:Checking exceptions
+2025-04-23 12:22:23,653:INFO:Preloading libraries
+2025-04-23 12:22:23,654:INFO:Set up data.
+2025-04-23 12:22:23,806:INFO:Set up index.
+2025-04-23 12:22:25,421:INFO:Initializing load_model()
+2025-04-23 12:22:25,421:INFO:load_model(model_name=mid_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:25,484:INFO:Initializing predict_model()
+2025-04-23 12:22:25,484:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024062830510>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=1318))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024063C4EF20>)
+2025-04-23 12:22:25,485:INFO:Checking exceptions
+2025-04-23 12:22:25,485:INFO:Preloading libraries
+2025-04-23 12:22:25,486:INFO:Set up data.
+2025-04-23 12:22:25,651:INFO:Set up index.
+2025-04-23 12:22:26,698:INFO:Initializing load_model()
+2025-04-23 12:22:26,698:INFO:load_model(model_name=mid_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:26,747:INFO:Initializing predict_model()
+2025-04-23 12:22:26,748:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024062890690>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1', 'red_ca...
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2560))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405A82D620>)
+2025-04-23 12:22:26,748:INFO:Checking exceptions
+2025-04-23 12:22:26,748:INFO:Preloading libraries
+2025-04-23 12:22:26,749:INFO:Set up data.
+2025-04-23 12:22:26,877:INFO:Set up index.
+2025-04-23 12:22:27,665:INFO:Initializing load_model()
+2025-04-23 12:22:27,666:INFO:load_model(model_name=mid_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:27,755:INFO:Initializing predict_model()
+2025-04-23 12:22:27,755:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000240578571D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                               feature_types=None, gamma=None, grow_policy=None,
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None, random_state=1440, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002404AEC8860>)
+2025-04-23 12:22:27,755:INFO:Checking exceptions
+2025-04-23 12:22:27,755:INFO:Preloading libraries
+2025-04-23 12:22:27,790:INFO:Set up data.
+2025-04-23 12:22:27,875:INFO:Set up index.
+2025-04-23 12:22:29,160:INFO:Initializing load_model()
+2025-04-23 12:22:29,160:INFO:load_model(model_name=mid_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:29,217:INFO:Initializing predict_model()
+2025-04-23 12:22:29,217:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024063D2A8D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=3431))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000240639822A0>)
+2025-04-23 12:22:29,217:INFO:Checking exceptions
+2025-04-23 12:22:29,217:INFO:Preloading libraries
+2025-04-23 12:22:29,219:INFO:Set up data.
+2025-04-23 12:22:29,378:INFO:Set up index.
+2025-04-23 12:22:33,163:INFO:Initializing load_model()
+2025-04-23 12:22:33,164:INFO:load_model(model_name=fwd_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:33,233:INFO:Initializing predict_model()
+2025-04-23 12:22:33,233:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024063918F10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024063980EA0>)
+2025-04-23 12:22:33,234:INFO:Checking exceptions
+2025-04-23 12:22:33,234:INFO:Preloading libraries
+2025-04-23 12:22:33,234:INFO:Set up data.
+2025-04-23 12:22:33,504:INFO:Set up index.
+2025-04-23 12:22:36,030:INFO:Initializing load_model()
+2025-04-23 12:22:36,030:INFO:load_model(model_name=fwd_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:36,096:INFO:Initializing predict_model()
+2025-04-23 12:22:36,097:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000240628C4950>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1', 'red_ca...
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', OrthogonalMatchingPursuit())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024063C2F560>)
+2025-04-23 12:22:36,097:INFO:Checking exceptions
+2025-04-23 12:22:36,097:INFO:Preloading libraries
+2025-04-23 12:22:36,098:INFO:Set up data.
+2025-04-23 12:22:36,258:INFO:Set up index.
+2025-04-23 12:22:38,185:INFO:Initializing load_model()
+2025-04-23 12:22:38,186:INFO:load_model(model_name=fwd_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-23 12:22:38,420:INFO:Initializing predict_model()
+2025-04-23 12:22:38,421:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002404CE20150>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=6189))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024063C2F4C0>)
+2025-04-23 12:22:38,421:INFO:Checking exceptions
+2025-04-23 12:22:38,421:INFO:Preloading libraries
+2025-04-23 12:22:38,421:INFO:Set up data.
+2025-04-23 12:22:38,495:INFO:Set up index.
+2025-04-28 22:56:16,638:INFO:Initializing load_model()
+2025-04-28 22:56:16,689:INFO:load_model(model_name=gk_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:17,599:INFO:Initializing predict_model()
+2025-04-28 22:56:17,600:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000240628C6110>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024063C139C0>)
+2025-04-28 22:56:17,600:INFO:Checking exceptions
+2025-04-28 22:56:17,601:INFO:Preloading libraries
+2025-04-28 22:56:17,643:INFO:Set up data.
+2025-04-28 22:56:17,802:INFO:Set up index.
+2025-04-28 22:56:26,204:INFO:Initializing load_model()
+2025-04-28 22:56:26,204:INFO:load_model(model_name=gk_saves_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:26,337:INFO:Initializing predict_model()
+2025-04-28 22:56:26,337:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024063AE3610>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...,
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405AE45DA0>)
+2025-04-28 22:56:26,337:INFO:Checking exceptions
+2025-04-28 22:56:26,337:INFO:Preloading libraries
+2025-04-28 22:56:26,337:INFO:Set up data.
+2025-04-28 22:56:26,442:INFO:Set up index.
+2025-04-28 22:56:27,337:INFO:Initializing load_model()
+2025-04-28 22:56:27,337:INFO:load_model(model_name=gk_xgc_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:27,589:INFO:Initializing predict_model()
+2025-04-28 22:56:27,589:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405ACB6790>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2963))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C687560>)
+2025-04-28 22:56:27,589:INFO:Checking exceptions
+2025-04-28 22:56:27,589:INFO:Preloading libraries
+2025-04-28 22:56:27,589:INFO:Set up data.
+2025-04-28 22:56:27,649:INFO:Set up index.
+2025-04-28 22:56:28,469:INFO:Initializing load_model()
+2025-04-28 22:56:28,469:INFO:load_model(model_name=gk_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:28,538:INFO:Initializing predict_model()
+2025-04-28 22:56:28,538:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024063AF5E50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1',
+                                             'clean_sheets_2', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', RidgeClassifier(random_state=7738))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002404F585580>)
+2025-04-28 22:56:28,538:INFO:Checking exceptions
+2025-04-28 22:56:28,538:INFO:Preloading libraries
+2025-04-28 22:56:28,538:INFO:Set up data.
+2025-04-28 22:56:28,571:INFO:Set up index.
+2025-04-28 22:56:29,392:INFO:Initializing load_model()
+2025-04-28 22:56:29,392:INFO:load_model(model_name=def_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:29,535:INFO:Initializing predict_model()
+2025-04-28 22:56:29,535:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405AE85FD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C687740>)
+2025-04-28 22:56:29,535:INFO:Checking exceptions
+2025-04-28 22:56:29,535:INFO:Preloading libraries
+2025-04-28 22:56:29,535:INFO:Set up data.
+2025-04-28 22:56:29,615:INFO:Set up index.
+2025-04-28 22:56:30,642:INFO:Initializing load_model()
+2025-04-28 22:56:30,642:INFO:load_model(model_name=def_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:30,684:INFO:Initializing predict_model()
+2025-04-28 22:56:30,684:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C29F790>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1..._cards_1',
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', OrthogonalMatchingPursuit())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405C6877E0>)
+2025-04-28 22:56:30,684:INFO:Checking exceptions
+2025-04-28 22:56:30,684:INFO:Preloading libraries
+2025-04-28 22:56:30,684:INFO:Set up data.
+2025-04-28 22:56:30,715:INFO:Set up index.
+2025-04-28 22:56:31,702:INFO:Initializing load_model()
+2025-04-28 22:56:31,702:INFO:load_model(model_name=def_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:31,913:INFO:Initializing predict_model()
+2025-04-28 22:56:31,913:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002406ABA9B90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LGBMClassifier(n_jobs=-1, random_state=8430))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB43560>)
+2025-04-28 22:56:31,913:INFO:Checking exceptions
+2025-04-28 22:56:31,913:INFO:Preloading libraries
+2025-04-28 22:56:31,913:INFO:Set up data.
+2025-04-28 22:56:31,999:INFO:Set up index.
+2025-04-28 22:56:32,771:INFO:Initializing load_model()
+2025-04-28 22:56:32,772:INFO:load_model(model_name=def_xgc_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:33,558:INFO:Initializing predict_model()
+2025-04-28 22:56:33,558:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405C24CD50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', 'xP_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 ExtraTreesRegressor(n_jobs=-1, random_state=1076))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002405AC66520>)
+2025-04-28 22:56:33,558:INFO:Checking exceptions
+2025-04-28 22:56:33,558:INFO:Preloading libraries
+2025-04-28 22:56:33,558:INFO:Set up data.
+2025-04-28 22:56:33,584:INFO:Set up index.
+2025-04-28 22:56:34,371:INFO:Initializing load_model()
+2025-04-28 22:56:34,371:INFO:load_model(model_name=def_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:34,435:INFO:Initializing predict_model()
+2025-04-28 22:56:34,435:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024062826D90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=8002))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB43B00>)
+2025-04-28 22:56:34,435:INFO:Checking exceptions
+2025-04-28 22:56:34,435:INFO:Preloading libraries
+2025-04-28 22:56:34,436:INFO:Set up data.
+2025-04-28 22:56:34,498:INFO:Set up index.
+2025-04-28 22:56:35,415:INFO:Initializing load_model()
+2025-04-28 22:56:35,415:INFO:load_model(model_name=mid_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:35,504:INFO:Initializing predict_model()
+2025-04-28 22:56:35,504:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024063D4CC50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=1318))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB41800>)
+2025-04-28 22:56:35,505:INFO:Checking exceptions
+2025-04-28 22:56:35,505:INFO:Preloading libraries
+2025-04-28 22:56:35,506:INFO:Set up data.
+2025-04-28 22:56:35,532:INFO:Set up index.
+2025-04-28 22:56:36,203:INFO:Initializing load_model()
+2025-04-28 22:56:36,203:INFO:load_model(model_name=mid_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:36,326:INFO:Initializing predict_model()
+2025-04-28 22:56:36,326:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405ACFB1D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1', 'red_ca...
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2560))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB43560>)
+2025-04-28 22:56:36,326:INFO:Checking exceptions
+2025-04-28 22:56:36,327:INFO:Preloading libraries
+2025-04-28 22:56:36,327:INFO:Set up data.
+2025-04-28 22:56:36,381:INFO:Set up index.
+2025-04-28 22:56:37,353:INFO:Initializing load_model()
+2025-04-28 22:56:37,353:INFO:load_model(model_name=mid_cs_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:37,414:INFO:Initializing predict_model()
+2025-04-28 22:56:37,414:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405C234E90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                               feature_types=None, gamma=None, grow_policy=None,
+                               importance_type=None,
+                               interaction_constraints=None, learning_rate=None,
+                               max_bin=None, max_cat_threshold=None,
+                               max_cat_to_onehot=None, max_delta_step=None,
+                               max_depth=None, max_leaves=None,
+                               min_child_weight=None, missing=nan,
+                               monotone_constraints=None, multi_strategy=None,
+                               n_estimators=None, n_jobs=-1,
+                               num_parallel_tree=None, random_state=1440, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000240495FC0E0>)
+2025-04-28 22:56:37,414:INFO:Checking exceptions
+2025-04-28 22:56:37,414:INFO:Preloading libraries
+2025-04-28 22:56:37,414:INFO:Set up data.
+2025-04-28 22:56:37,500:INFO:Set up index.
+2025-04-28 22:56:38,550:INFO:Initializing load_model()
+2025-04-28 22:56:38,550:INFO:load_model(model_name=mid_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:38,615:INFO:Initializing predict_model()
+2025-04-28 22:56:38,615:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024063E06010>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 LogisticRegression(max_iter=1000, random_state=3431))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB42660>)
+2025-04-28 22:56:38,615:INFO:Checking exceptions
+2025-04-28 22:56:38,615:INFO:Preloading libraries
+2025-04-28 22:56:38,615:INFO:Set up data.
+2025-04-28 22:56:38,700:INFO:Set up index.
+2025-04-28 22:56:39,516:INFO:Initializing load_model()
+2025-04-28 22:56:39,516:INFO:load_model(model_name=fwd_xg_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:39,583:INFO:Initializing predict_model()
+2025-04-28 22:56:39,583:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002405AE7CC90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1',
+                                             'threat_1', 'minutes_1',
+                                             'red_cards_1', 'yellow_cards_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'goals_1', 'shots_1', 'xG_1',
+                                             'xA_1', 'assists_x_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', BayesianRidge())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB41580>)
+2025-04-28 22:56:39,583:INFO:Checking exceptions
+2025-04-28 22:56:39,583:INFO:Preloading libraries
+2025-04-28 22:56:39,583:INFO:Set up data.
+2025-04-28 22:56:39,613:INFO:Set up index.
+2025-04-28 22:56:40,284:INFO:Initializing load_model()
+2025-04-28 22:56:40,284:INFO:load_model(model_name=fwd_xa_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:40,350:INFO:Initializing predict_model()
+2025-04-28 22:56:40,350:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002406AB57590>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1', 'red_ca...
+                                             'yellow_cards_1', 'starts_1',
+                                             'team_a_score_1', 'team_h_score_1',
+                                             'total_points_1', 'shots_1',
+                                             'xA_1', 'assists_x_1',
+                                             'assists_y_1', 'key_passes_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', OrthogonalMatchingPursuit())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB43F60>)
+2025-04-28 22:56:40,350:INFO:Checking exceptions
+2025-04-28 22:56:40,351:INFO:Preloading libraries
+2025-04-28 22:56:40,352:INFO:Set up data.
+2025-04-28 22:56:40,415:INFO:Set up index.
+2025-04-28 22:56:41,219:INFO:Initializing load_model()
+2025-04-28 22:56:41,219:INFO:load_model(model_name=fwd_yc_model, platform=None, authentication=None, verbose=True)
+2025-04-28 22:56:41,468:INFO:Initializing predict_model()
+2025-04-28 22:56:41,469:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002405AE4BE10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                             'own_goals_1', 'penalties_saved_1',
+                                             'yellow_cards_1', 'saves_1',
+                                             'starts_1', 'team_a_score_1',
+                                             'team_h_score_1', 'total_points_1',
+                                             'xGChain_1', 'xGBuildup_1', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model',
+                 RandomForestClassifier(n_jobs=-1, random_state=6189))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002406AB42660>)
+2025-04-28 22:56:41,469:INFO:Checking exceptions
+2025-04-28 22:56:41,469:INFO:Preloading libraries
+2025-04-28 22:56:41,469:INFO:Set up data.
+2025-04-28 22:56:41,498:INFO:Set up index.

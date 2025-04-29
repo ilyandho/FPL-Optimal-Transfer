@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.22689275443553925,13,Sub,Bournemouth,Manchester United,1,1,2025-04-27,26932,2024,722987,0,0,0,0,0.22689275443553925,0.22689275443553925,0
+0,0,0,19,Sub,Manchester United,Wolverhampton Wanderers,0,1,2025-04-20,26929,2024,721019,0,0,0,0,0,0.2770576775074005,0.2770576775074005
 0,0,0,4,Sub,Leicester,Manchester United,0,3,2025-03-16,26888,2024,714301,0,0,0,0,0,0,0
 0,0,0,14,Sub,Everton,Manchester United,2,2,2025-02-22,26855,2024,707542,0,0,0,0,0,0,0
 0,0,0,1,Sub,Tottenham,Manchester United,1,0,2025-02-16,26850,2024,707009,0,0,0,0,0,0,0

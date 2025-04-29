@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Chelsea,Everton,1,0,2025-04-26,26935,2024,722380,0,0,0,0,0,0,0
 0,0,0,61,AMC,Brentford,Chelsea,0,0,2025-04-06,26903,2024,717470,0.06536677479743958,0,1,0,0,0.06536677479743958,0
 0,0,0,1,Sub,Chelsea,Tottenham,1,0,2025-04-03,26897,2024,716279,0,0,0,0,0,0,0
 0,0,0,11,Sub,Arsenal,Chelsea,1,0,2025-03-16,26883,2024,713681,0,0,0,0,0,0,0

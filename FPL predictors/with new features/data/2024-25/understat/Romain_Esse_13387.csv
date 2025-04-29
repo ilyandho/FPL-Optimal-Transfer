@@ -1,3 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,8,Sub,Arsenal,Crystal Palace,2,2,2025-04-23,26933,2024,722022,0,0,0,0,0,0,0
+0,0,0,6,Sub,Newcastle United,Crystal Palace,5,0,2025-04-16,26890,2024,719953,0.0825091227889061,0,1,0,0,0.12000410258769989,0.03749497979879379
 0,0,0,1,Sub,Crystal Palace,Ipswich,1,0,2025-03-08,26875,2024,711363,0,0,0,0,0,0,0
 1,1,0.5787168145179749,7,Sub,Crystal Palace,Brentford,1,2,2025-01-26,26825,2024,701938,0,0,0,1,0.5787168145179749,0.5787168145179749,0

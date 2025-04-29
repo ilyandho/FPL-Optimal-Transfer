@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Chelsea,Ipswich,2,2,2025-04-13,26915,2024,719241,0,0,0,0,0,0,0
 0,1,0.06411700695753098,6,Sub,Ipswich,Wolverhampton Wanderers,1,2,2025-04-05,26907,2024,716805,0,0,0,0,0.06411700695753098,0.06411700695753098,0
 0,0,0,1,Sub,Bournemouth,Ipswich,1,2,2025-04-02,26896,2024,716110,0,0,0,0,0,0,0
 0,0,0,82,AMR,Ipswich,Nottingham Forest,2,4,2025-03-15,26887,2024,712984,0,0,0,0,0,0,0

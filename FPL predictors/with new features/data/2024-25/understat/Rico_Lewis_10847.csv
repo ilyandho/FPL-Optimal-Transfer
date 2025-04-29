@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Manchester City,Crystal Palace,5,2,2025-04-12,26917,2024,718317,0,0,0,0,0,2.6459715366363525,2.6459715366363525
 0,0,0,14,Sub,Manchester United,Manchester City,0,0,2025-04-06,26909,2024,717817,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester City,Leicester,2,0,2025-04-02,26898,2024,716125,0,0,0,0,0,0,0
 0,0,0,90,DR,Manchester City,Brighton,2,2,2025-03-15,26889,2024,713010,0,0,0,0,0,0.6509798169136047,0.6509798169136047

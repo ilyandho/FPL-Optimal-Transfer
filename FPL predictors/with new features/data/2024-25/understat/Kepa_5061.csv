@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Manchester United,1,1,2025-04-27,26932,2024,722957,0,0,0,0,0,0,0
+0,0,0,90,GK,Crystal Palace,Bournemouth,0,0,2025-04-19,26924,2024,720377,0,0,0,0,0,0.11590450257062912,0.11590450257062912
+0,0,0,90,GK,Bournemouth,Fulham,1,0,2025-04-14,26912,2024,719835,0,0,0,0,0,0.657689094543457,0.657689094543457
 0,0,0,90,GK,West Ham,Bournemouth,2,2,2025-04-05,26911,2024,716873,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Ipswich,1,2,2025-04-02,26896,2024,716080,0,0,0,0,0,0.0905023068189621,0.0905023068189621
 0,0,0,90,GK,Bournemouth,Brentford,1,2,2025-03-15,26882,2024,713286,0,0,0,0,0,0,0

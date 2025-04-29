@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Leicester,3,0,2025-04-26,26941,2024,722663,0,0,0,0,0,0.046119336038827896,0.046119336038827896
+0,0,0,90,GK,Leicester,Liverpool,0,1,2025-04-20,26928,2024,721277,0,0,0,0,0,0,0
+0,0,0,90,GK,Brighton,Leicester,2,2,2025-04-12,26914,2024,718699,0,0,0,0,0,0.09145086258649826,0.09145086258649826
 0,0,0,90,GK,Leicester,Newcastle United,0,3,2025-04-07,26908,2024,718065,0,0,0,0,0,0.05115383490920067,0.05115383490920067
 0,0,0,90,GK,Manchester City,Leicester,2,0,2025-04-02,26898,2024,716126,0,0,0,0,0,0,0
 0,0,0,90,GK,Leicester,Manchester United,0,3,2025-03-16,26888,2024,714270,0,0,0,0,0,0,0
