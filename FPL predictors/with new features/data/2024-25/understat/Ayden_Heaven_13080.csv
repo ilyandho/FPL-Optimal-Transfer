@@ -1,3 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.060109693557024,71,DC,Manchester United,Aston Villa,2,0,2025-05-25,26974,2024,730221,0.012095056474208832,0,1,0,0.060109693557024,0.25108399987220764,0.2389889359474182
+0,0,0,4,Sub,Chelsea,Manchester United,1,0,2025-05-16,26966,2024,727561,0,0,0,0,0,0,0
 0,0,0,52,DC,Leicester,Manchester United,0,3,2025-03-16,26888,2024,714289,0,0,0,0,0,0,0
 0,0,0,40,Sub,Manchester United,Arsenal,1,1,2025-03-09,26877,2024,712194,0,0,0,0,0,0.05563142150640488,0.05563142150640488

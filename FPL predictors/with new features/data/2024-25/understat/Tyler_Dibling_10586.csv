@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,70,AMC,Everton,Southampton,2,0,2025-05-18,26968,2024,728300,0,0,0,0,0,0,0
+0,0,0,68,AMC,Southampton,Manchester City,0,0,2025-05-10,26959,2024,725779,0,0,0,0,0,0,0
+0,0,0,32,Sub,Leicester,Southampton,2,0,2025-05-03,26951,2024,724136,0,0,0,0,0,0.31391265988349915,0.31391265988349915
 0,0,0,10,Sub,Southampton,Fulham,1,2,2025-04-26,26940,2024,722629,0,0,0,0,0,0,0
 0,1,0.34793028235435486,15,Sub,West Ham,Southampton,1,1,2025-04-19,26931,2024,720451,0.026997841894626617,0,1,0,0.34793028235435486,0.026997841894626617,0.026997841894626617
 0,0,0,43,Sub,Southampton,Aston Villa,0,3,2025-04-12,26921,2024,718640,0,0,0,0,0,0,0

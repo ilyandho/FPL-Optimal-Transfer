@@ -1,4 +1,6 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,Sub,Bournemouth,Leicester,2,0,2025-05-25,26979,2024,730059,0,0,0,0,0,0,0
+0,0,0,25,Sub,Leicester,Ipswich,2,0,2025-05-18,26969,2024,728537,0,0,0,0,0,0.08769410848617554,0.08769410848617554
 0,0,0,52,DR,Wolverhampton Wanderers,Leicester,3,0,2025-04-26,26941,2024,722664,0,0,0,0,0,0.046119336038827896,0.046119336038827896
 0,0,0,84,DR,Leicester,Liverpool,0,1,2025-04-20,26928,2024,721278,0,0,0,0,0,0,0
 0,0,0,24,Sub,Brighton,Leicester,2,2,2025-04-12,26914,2024,718711,0,0,0,0,0,0.1477334350347519,0.1477334350347519

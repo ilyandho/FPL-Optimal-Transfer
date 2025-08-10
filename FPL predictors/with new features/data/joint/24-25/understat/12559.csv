@@ -1,4 +1,0 @@
-goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,understat_id
-0,0,0,0.0,90,DML,Manchester United,Wolverhampton Wanderers,0,1,2025-04-20,26929,2024,721009,0.0491649769246578,0,1,0,0.0,0.7089885473251343,0.6598235964775085,12559
-1,0,1,0.0148240774869918,57,DML,Newcastle United,Manchester United,4,1,2025-04-13,26918,2024,719539,0.0,0,0,0,0.0148240774869918,0.0148240774869918,0.0,12559
-2,0,0,0.0,20,Sub,Leicester,Manchester United,0,3,2025-03-16,26888,2024,714299,0.0,0,0,0,0.0,0.0979043692350387,0.0979043692350387,12559

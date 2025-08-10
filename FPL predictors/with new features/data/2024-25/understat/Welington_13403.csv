@@ -1,4 +1,7 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Southampton,Arsenal,1,2,2025-05-25,26977,2024,730098,0,0,0,0,0,0,0
+0,0,0,90,DML,Everton,Southampton,2,0,2025-05-18,26968,2024,728296,0,0,0,0,0,0,0
+0,0,0,90,DML,Southampton,Manchester City,0,0,2025-05-10,26959,2024,725775,0.03195949271321297,0,1,0,0,0.03195949271321297,0
 0,2,0.02787902019917965,4,Sub,West Ham,Southampton,1,1,2025-04-19,26931,2024,720449,0,0,0,0,0.02787902019917965,0,0
 0,0,0,19,Sub,Tottenham,Southampton,3,1,2025-04-06,26910,2024,717504,0,0,0,0,0,0.29833105206489563,0.29833105206489563
 0,0,0,8,Sub,Southampton,Crystal Palace,1,1,2025-04-02,26900,2024,716214,0,0,0,0,0,0,0

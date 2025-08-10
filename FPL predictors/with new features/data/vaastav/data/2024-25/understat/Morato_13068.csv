@@ -1,4 +1,17 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,West Ham,Nottingham Forest,1,2,2025-05-18,26971,2024,728431,0,0,0,0,0,0,0
+0,0,0,90,DC,Nottingham Forest,Leicester,2,2,2025-05-11,26958,2024,726606,0,0,0,0,0,0.06008133292198181,0.06008133292198181
+0,0,0,8,Sub,Crystal Palace,Nottingham Forest,1,1,2025-05-05,26949,2024,725331,0,0,0,0,0,0,0
+0,0,0,41,Sub,Tottenham,Nottingham Forest,1,2,2025-04-21,26930,2024,721682,0,0,0,0,0,0,0
+0,0,0,76,DC,Aston Villa,Nottingham Forest,2,1,2025-04-05,26902,2024,717065,0,0,0,0,0,0.08020255714654922,0.08020255714654922
+0,1,0.04947923123836517,51,Sub,Nottingham Forest,Manchester United,1,0,2025-04-01,26894,2024,716016,0,0,0,0,0.04947923123836517,0,0
+0,0,0,21,Sub,Ipswich,Nottingham Forest,2,4,2025-03-15,26887,2024,713008,0,0,0,0,0,0,0
+0,0,0,1,Sub,Nottingham Forest,Manchester City,1,0,2025-03-08,26878,2024,711018,0,0,0,0,0,0,0
+0,0,0,69,DC,Fulham,Nottingham Forest,2,1,2025-02-15,26845,2024,706201,0,0,0,0,0,0,0
+0,0,0,90,DC,Nottingham Forest,Brighton,7,0,2025-02-01,26840,2024,702730,0,0,0,0,0,1.2609467506408691,1.2609467506408691
+0,1,0.05427884683012962,21,Sub,Bournemouth,Nottingham Forest,5,0,2025-01-25,26822,2024,701556,0,0,0,0,0.05427884683012962,0,0
+0,0,0,13,Sub,Nottingham Forest,Southampton,3,2,2025-01-19,26820,2024,700513,0,0,0,0,0,0,0
+0,0,0,1,Sub,Nottingham Forest,Liverpool,1,1,2025-01-14,26807,2024,699213,0,0,0,0,0,0,0
 0,0,0,28,Sub,Wolverhampton Wanderers,Nottingham Forest,0,3,2025-01-06,26801,2024,697828,0,0,0,0,0,0,0
 0,0,0,90,DC,Everton,Nottingham Forest,0,2,2024-12-29,26785,2024,696688,0,0,0,0,0,0.08106184005737305,0.08106184005737305
 0,0,0,15,Sub,Nottingham Forest,Tottenham,1,0,2024-12-26,26779,2024,696252,0,0,0,0,0,0,0

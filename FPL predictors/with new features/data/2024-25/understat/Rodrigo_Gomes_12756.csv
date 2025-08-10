@@ -1,4 +1,8 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,24,Sub,Wolverhampton Wanderers,Brentford,1,1,2025-05-25,26978,2024,730076,0,0,0,0,0,0,0
+0,1,0.09239976853132248,84,DMR,Crystal Palace,Wolverhampton Wanderers,4,2,2025-05-20,26967,2024,729299,0,0,0,0,0.09239976853132248,0.09239976853132248,0
+0,0,0,24,Sub,Wolverhampton Wanderers,Brighton,0,2,2025-05-10,26961,2024,725814,0,0,0,0,0,0,0
+0,0,0,23,Sub,Manchester City,Wolverhampton Wanderers,1,0,2025-05-02,26942,2024,723763,0,0,0,0,0,0,0
 1,2,0.18568122386932373,7,Sub,Wolverhampton Wanderers,Leicester,3,0,2025-04-26,26941,2024,722659,0.08056320250034332,0,1,1,0.18568122386932373,0.26624441146850586,0
 0,0,0,15,Sub,Manchester United,Wolverhampton Wanderers,0,1,2025-04-20,26929,2024,721033,0.028462331742048264,0,1,0,0,0.028462331742048264,0
 0,0,0,17,Sub,Wolverhampton Wanderers,Tottenham,4,2,2025-04-13,26919,2024,719194,0,0,0,0,0,0.015431439504027367,0.015431439504027367

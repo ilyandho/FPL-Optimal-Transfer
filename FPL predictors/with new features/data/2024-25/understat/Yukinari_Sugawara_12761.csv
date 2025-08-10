@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.013768048025667667,90,DR,Southampton,Arsenal,1,2,2025-05-25,26977,2024,730094,0,0,0,0,0.013768048025667667,0,0
 0,0,0,7,Sub,Southampton,Aston Villa,0,3,2025-04-12,26921,2024,718638,0,0,0,0,0,0,0
 0,1,0.03340929001569748,10,Sub,Tottenham,Southampton,3,1,2025-04-06,26910,2024,717506,0,0,0,0,0.03340929001569748,0.3317403197288513,0.29833105206489563
 0,0,0,1,Sub,Southampton,Crystal Palace,1,1,2025-04-02,26900,2024,716215,0,0,0,0,0,0,0

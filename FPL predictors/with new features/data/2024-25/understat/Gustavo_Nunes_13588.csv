@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Brentford,Manchester United,4,3,2025-05-04,26947,2024,724644,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,Brighton,4,2,2025-04-19,26923,2024,720468,0,0,0,0,0,0,0
 0,0,0,1,Sub,Arsenal,Brentford,1,1,2025-04-12,26913,2024,718808,0,0,0,0,0,0,0

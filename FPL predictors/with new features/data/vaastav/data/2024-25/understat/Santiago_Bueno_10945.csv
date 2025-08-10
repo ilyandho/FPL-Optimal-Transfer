@@ -1,4 +1,20 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Wolverhampton Wanderers,Brentford,1,1,2025-05-25,26978,2024,730077,0,0,0,0,0,0,0
+0,0,0,3,Sub,Manchester City,Wolverhampton Wanderers,1,0,2025-05-02,26942,2024,723765,0,0,0,0,0,0,0
+0,0,0,1,Sub,Wolverhampton Wanderers,Leicester,3,0,2025-04-26,26941,2024,722662,0,0,0,0,0,0,0
+0,0,0,90,DC,Manchester United,Wolverhampton Wanderers,0,1,2025-04-20,26929,2024,721022,0,0,0,0,0,0.028462331742048264,0.028462331742048264
+0,0,0,41,Sub,Wolverhampton Wanderers,Tottenham,4,2,2025-04-13,26919,2024,719196,0,0,0,0,0,0,0
+0,0,0,1,Sub,Ipswich,Wolverhampton Wanderers,1,2,2025-04-05,26907,2024,716823,0,0,0,0,0,0,0
+0,0,0,5,Sub,Wolverhampton Wanderers,West Ham,1,0,2025-04-01,26895,2024,715984,0,0,0,0,0,0,0
+0,0,0,9,Sub,Southampton,Wolverhampton Wanderers,1,2,2025-03-15,26891,2024,713069,0,0,0,0,0,0,0
+0,0,0,1,Sub,Wolverhampton Wanderers,Everton,1,1,2025-03-08,26881,2024,711707,0,0,0,0,0,0,0
+0,0,0,79,DC,Wolverhampton Wanderers,Fulham,1,2,2025-02-25,26867,2024,709029,0,0,0,0,0,0.10066217929124832,0.10066217929124832
+0,0,0,77,DC,Bournemouth,Wolverhampton Wanderers,0,1,2025-02-22,26852,2024,707902,0,0,0,0,0,0.2025013417005539,0.2025013417005539
+0,0,0,26,Sub,Liverpool,Wolverhampton Wanderers,2,1,2025-02-16,26847,2024,706731,0,0,0,0,0,0,0
+0,0,0,1,Sub,Wolverhampton Wanderers,Aston Villa,2,0,2025-02-01,26841,2024,703646,0,0,0,0,0,0,0
+0,0,0,90,DC,Wolverhampton Wanderers,Arsenal,0,1,2025-01-25,26831,2024,701437,0,0,0,0,0,0.08830294013023376,0.08830294013023376
+0,0,0,90,DC,Chelsea,Wolverhampton Wanderers,3,1,2025-01-20,26814,2024,701018,0,0,0,0,0,0,0
+0,0,0,90,DC,Newcastle United,Wolverhampton Wanderers,3,0,2025-01-15,26810,2024,699460,0,0,0,0,0,0.09644576907157898,0.09644576907157898
 0,3,0.19550935924053192,90,DC,Wolverhampton Wanderers,Nottingham Forest,0,3,2025-01-06,26801,2024,697801,0,0,0,0,0.19550935924053192,0.025075256824493408,0.025075256824493408
 0,1,0.019521662965416908,90,DC,Tottenham,Wolverhampton Wanderers,2,2,2024-12-29,26790,2024,696749,0,0,0,0,0.019521662965416908,0.31433790922164917,0.2948162257671356
 0,0,0,90,DC,Wolverhampton Wanderers,Manchester United,2,0,2024-12-26,26781,2024,696306,0,0,0,0,0,0.06182707101106644,0.06182707101106644
