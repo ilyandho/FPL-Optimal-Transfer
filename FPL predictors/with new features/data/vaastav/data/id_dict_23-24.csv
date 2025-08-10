@@ -1,0 +1,614 @@
+FPL_ID,FPL_Name,Understat_ID,Understat_Name
+1,530,Aaron Cresswell,534.0,Aaron Cresswell
+2,104,Aaron Hickey,8942.0,Aaron Hickey
+3,17,Aaron Ramsdale,5603.0,Aaron Ramsdale
+4,675,Aaron Ramsey,9913.0,Aaron Ramsey
+5,401,Aaron Wan-Bissaka,5584.0,Aaron Wan-Bissaka
+6,249,Abdoulaye Doucouré,1726.0,Abdoulaye Doucouré
+8,662,Adama Traoré,900.0,Adama Traoré
+10,138,Adam Lallana,486.0,Adam Lallana
+11,84,Adam Smith,825.0,Adam Smith
+12,153,Adam Webster,7699.0,Adam Webster
+13,807,Adam Wharton,12409.0,Adam Wharton
+18,21,Albert Sambi Lokonga,9689.0,Albert Sambi Lokonga
+19,382,Alejandro Garnacho,10552.0,Alejandro Garnacho
+20,641,Alejo Véliz,12105.0,Alejo Véliz
+22,415,Alexander Isak,5232.0,Alexander Isak
+24,304,Alexis Mac Allister,8379.0,Alexis Mac Allister
+25,256,Alex Iwobi,500.0,Alex Iwobi
+26,718,Alex Matos,12086.0,Alex Matos
+27,456,Alex Mighten,10761.0,Alex Mighten
+28,634,Alex Murphy,12199.0,Alex Murphy
+29,644,Alex Scott,12149.0,Alex Scott
+32,321,Alfie Doughty,11723.0,Alfie Doughty
+33,716,Alfie Gilchrist,11595.0,Alfie Gilchrist
+37,426,Allan Saint-Maximin,101.0,Allan Saint-Maximin
+38,524,Alphonse Areola,2310.0,Alphonse Areola
+40,738,Amadou Diallo,12200.0,Amadou Diallo
+41,261,Amadou Onana,9667.0,Amadou Onana
+46,184,Anass Zaroury,11703.0,Anass Zaroury
+49,711,Andrew Omobamidele,9833.0,Andrew Omobamidele
+50,307,Andrew Robertson,1688.0,Andrew Robertson
+52,655,Andre Brooks,11731.0,Andre Brooks
+53,727,Andros Townsend,775.0,Andros Townsend
+54,597,André Onana,10913.0,André Onana
+58,577,Angelo Ogbonna,528.0,Angelo Ogbonna
+61,378,Anthony Elanga,9524.0,Anthony Elanga
+62,412,Anthony Gordon,8150.0,Anthony Gordon
+64,390,Anthony Martial,553.0,Anthony Martial
+65,82,Antoine Semenyo,11363.0,Antoine Semenyo
+66,283,Antonee Robinson,8940.0,Antonee Robinson
+68,656,Antwoine Hackford,9222.0,Antwoine Hackford
+70,172,Arijanet Muric,7027.0,Arijanet Muric
+71,193,Armando Broja,8384.0,Armando Broja
+72,601,Arnaut Danjuma Groeneveld,8066.0,Arnaut Danjuma Groeneveld
+74,588,Ashley Young,631.0,Ashley Young
+75,27,Auston Trusty,11732.0,Auston Trusty
+76,611,Axel Disasi,6885.0,Axel Disasi
+78,357,Aymeric Laporte,2498.0,Aymeric Laporte
+80,152,Bart Verbruggen,11711.0,Bart Verbruggen
+83,742,Benicio Baker-Boaitey,12204.0,Benicio Baker-Boaitey
+89,195,Ben Chilwell,782.0,Ben Chilwell
+90,495,Ben Davies,660.0,Ben Davies
+91,628,Ben Doak,11231.0,Ben Doak
+92,252,Ben Godfrey,7689.0,Ben Godfrey
+95,536,Ben Johnson,6424.0,Ben Johnson
+96,109,Ben Mee,1654.0,Ben Mee
+97,489,Ben Osborn,7714.0,Ben Osborn
+98,739,Ben Parkinson,12198.0,Ben Parkinson
+99,79,Ben Pearson,10742.0,Ben Pearson
+101,275,Bernd Leno,181.0,Bernd Leno
+102,59,Bertrand Traoré,695.0,Bertrand Traoré
+105,133,Billy Gilmour,7988.0,Billy Gilmour
+106,627,Bobby Clark,10997.0,Bobby Clark
+109,47,Boubacar Kamara,5789.0,Boubacar Kamara
+116,450,Brennan Johnson,10760.0,Brennan Johnson
+120,494,Bryan Gil Salvatierra,7338.0,Bryan Gil Salvatierra
+121,108,Bryan Mbeumo,6552.0,Bryan Mbeumo
+122,19,Bukayo Saka,7322.0,Bukayo Saka
+123,593,Bénie Traoré,11729.0,Bénie Traoré
+125,205,Callum Hudson-Odoi,6456.0,Callum Hudson-Odoi
+128,433,Callum Wilson,468.0,Callum Wilson
+129,37,Calum Chambers,508.0,Calum Chambers
+130,610,Calvin Bassey,11728.0,Calvin Bassey
+131,33,Cameron Archer,9912.0,Cameron Archer
+132,786,Cameron Peupion,11544.0,Cameron Peupion
+133,301,Caoimhin Kelleher,7904.0,Caoimhin Kelleher
+136,690,Carlos Baleba,10527.0,Carlos Baleba
+138,326,Carlton Morris,11717.0,Carlton Morris
+139,196,Carney Chukwuemeka,9356.0,Carney Chukwuemeka
+140,340,Cauley Woodrow,11721.0,Cauley Woodrow
+141,791,Cesare Casadei,10433.0,Cesare Casadei
+144,178,Charlie Taylor,6044.0,Charlie Taylor
+146,451,Cheikhou Kouyaté,532.0,Cheikhou Kouyaté
+147,328,Chiedozie Ogbene,11719.0,Chiedozie Ogbene
+149,379,Christian Eriksen,646.0,Christian Eriksen
+150,110,Christian Nørgaard,7083.0,Christian Nørgaard
+151,213,Christian Pulisic,2662.0,Christian Pulisic
+152,212,Christopher Nkunku,3300.0,Christopher Nkunku
+153,474,Chris Basham,7704.0,Chris Basham
+154,75,Chris Mepham,7384.0,Chris Mepham
+155,238,Chris Richards,8430.0,Chris Richards
+156,468,Chris Wood,4456.0,Chris Wood
+159,297,Cody Gakpo,11296.0,Cody Gakpo
+160,362,Cole Palmer,8497.0,Cole Palmer
+161,176,Connor Roberts,5568.0,Connor Roberts
+162,757,Conor Bradley,10120.0,Conor Bradley
+163,529,Conor Coventry,7239.0,Conor Coventry
+164,202,Conor Gallagher,9040.0,Conor Gallagher
+165,551,Craig Dawson,804.0,Craig Dawson
+166,511,Cristian Romero,7218.0,Cristian Romero
+167,300,Curtis Jones,6665.0,Curtis Jones
+169,189,César Azpilicueta,681.0,César Azpilicueta
+170,798,Daiki Hashioka,12509.0,Daiki Hashioka
+171,640,Dane Scarlett,9332.0,Dane Scarlett
+172,78,Dango Ouattara,9662.0,Dango Ouattara
+173,546,Daniel Bentley,11361.0,Daniel Bentley
+175,685,Daniel Gore,11987.0,Daniel Gore
+176,483,Daniel Jebbison,9509.0,Daniel Jebbison
+177,792,Daniel Muñoz,12408.0,Daniel Muñoz
+179,535,Danny Ings,986.0,Danny Ings
+180,154,Danny Welbeck,501.0,Danny Welbeck
+181,407,Dan Burn,7382.0,Dan Burn
+188,200,David Datro Fofana,11295.0,David Datro Fofana
+189,64,David Brooks,6820.0,David Brooks
+190,721,David Ozoh,11268.0,David Ozoh
+192,512,Davinson Sánchez,6249.0,Davinson Sánchez
+193,385,Dean Henderson,7702.0,Dean Henderson
+194,540,Declan Rice,5553.0,Declan Rice
+196,501,Dejan Kulusevski,6691.0,Dejan Kulusevski
+197,248,Dele Alli,645.0,Dele Alli
+198,253,Demarai Gray,762.0,Demarai Gray
+200,149,Deniz Undav,10804.0,Deniz Undav
+210,538,Divin Mubama,11242.0,Divin Mubama
+211,714,Divock Origi,484.0,Divock Origi
+212,517,Djed Spence,10764.0,Djed Spence
+213,687,Djordje Petrovic,12032.0,Djordje Petrovic
+214,246,Dominic Calvert-Lewin,5555.0,Dominic Calvert-Lewin
+216,811,Dominic Sadi,11300.0,Dominic Sadi
+217,85,Dominic Solanke,1679.0,Dominic Solanke
+218,309,Dominik Szoboszlai,9788.0,Dominik Szoboszlai
+219,400,Donny van de Beek,8821.0,Donny van de Beek
+222,259,Dwight McNeil,6756.0,Dwight McNeil
+223,226,Eberechi Eze,8706.0,Eberechi Eze
+225,13,Eddie Nketiah,6482.0,Eddie Nketiah
+228,314,Elijah Adebayo,11718.0,Elijah Adebayo
+231,403,Elliot Anderson,9154.0,Elliot Anderson
+233,264,Ellis Simms,8582.0,Ellis Simms
+238,74,Emiliano Marcondes,10745.0,Emiliano Marcondes
+240,417,Emil Krafth,1545.0,Emil Krafth
+241,443,Emmanuel Dennis,9301.0,Emmanuel Dennis
+242,804,Enes Ünal,6219.0,Enes Ünal
+244,698,Enso González,12047.0,Enso González
+245,199,Enzo Fernández,11356.0,Enzo Fernández
+247,496,Eric Dier,643.0,Eric Dier
+248,355,Erling Haaland,8260.0,Erling Haaland
+252,772,Ethan Nwaneri,11132.0,Ethan Nwaneri
+253,112,Ethan Pinnock,9678.0,Ethan Pinnock
+254,850,Ethan Wheatley,12568.0,Ethan Wheatley
+255,132,Evan Ferguson,10177.0,Evan Ferguson
+256,48,Ezri Konsa Ngoyo,7726.0,Ezri Konsa Ngoyo
+258,427,Fabian Schär,76.0,Fabian Schär
+260,125,Facundo Buonanotte,11362.0,Facundo Buonanotte
+265,854,Finley Munroe,12581.0,Finley Munroe
+267,531,Flynn Downes,10845.0,Flynn Downes
+272,111,Frank Onyeka,9681.0,Frank Onyeka
+273,498,Fraser Forster,831.0,Fraser Forster
+275,329,Fred Onyedinma,12549.0,Fred Onyedinma
+281,330,Gabriel Osho,12151.0,Gabriel Osho
+285,473,George Baldock,7706.0,George Baldock
+286,829,George Earthy,12474.0,George Earthy
+288,541,Gianluca Scamacca,6253.0,Gianluca Scamacca
+289,503,Giovani Lo Celso,5681.0,Giovani Lo Celso
+290,801,Giovanni Reyna,8191.0,Giovanni Reyna
+291,438,Giulian Biancone,7282.0,Giulian Biancone
+293,679,Gonzalo Montiel,9897.0,Gonzalo Montiel
+295,30,Granit Xhaka,204.0,Granit Xhaka
+296,520,Guglielmo Vicario,8858.0,Guglielmo Vicario
+298,663,Gustavo Hamer,11839.0,Gustavo Hamer
+300,218,Hakim Ziyech,8992.0,Hakim Ziyech
+303,694,Han-Noah Massengo,7264.0,Han-Noah Massengo
+304,674,Hannes Delcroix,11998.0,Hannes Delcroix
+305,383,Hannibal Mejbri,9558.0,Hannibal Mejbri
+307,282,Harrison Reed,910.0,Harrison Reed
+310,500,Harry Kane,647.0,Harry Kane
+311,387,Harry Maguire,1687.0,Harry Maguire
+312,465,Harry Toffolo,10758.0,Harry Toffolo
+313,288,Harry Wilson,5596.0,Harry Wilson
+314,603,Harvey Barnes,6681.0,Harvey Barnes
+315,295,Harvey Elliott,7546.0,Harvey Elliott
+317,167,Hjalmar Ekdal,11704.0,Hjalmar Ekdal
+319,502,Hugo Lloris,637.0,Hugo Lloris
+323,609,Ian Maatsen,11807.0,Ian Maatsen
+324,302,Ibrahima Konaté,6326.0,Ibrahima Konaté
+326,254,Idrissa Gueye,668.0,Idrissa Gueye
+329,89,Illia Zabarnyi,11486.0,Illia Zabarnyi
+334,271,Issa Diop,3203.0,Issa Diop
+338,117,Ivan Toney,998.0,Ivan Toney
+339,790,Ivo Grbic,8923.0,Ivo Grbic
+340,163,Jack Cork,712.0,Jack Cork
+341,354,Jack Grealish,675.0,Jack Grealish
+342,661,Jack Harrison,8720.0,Jack Harrison
+343,621,Jack Hinshelwood,11269.0,Jack Hinshelwood
+344,576,Jack Robinson,8286.0,Jack Robinson
+346,631,Jacob Brown,11720.0,Jacob Brown
+347,608,Jacob Bruun Larsen,5355.0,Jacob Bruun Larsen
+348,423,Jacob Murphy,6063.0,Jacob Murphy
+349,55,Jacob Ramsey,8941.0,Jacob Ramsey
+352,54,Jaden Philogene-Bidace,9415.0,Jaden Philogene-Bidace
+353,397,Jadon Sancho,6345.0,Jadon Sancho
+354,62,Jaidon Anthony,10746.0,Jaidon Anthony
+355,239,Jairo Riedewald,6027.0,Jairo Riedewald
+357,10,Jakub Kiwior,10012.0,Jakub Kiwior
+358,144,Jakub Moder,9284.0,Jakub Moder
+359,419,Jamaal Lascelles,766.0,Jamaal Lascelles
+360,420,Jamal Lewis,7691.0,Jamal Lewis
+361,73,Jamal Lowe,10865.0,Jamal Lowe
+362,250,James Garner,7438.0,James Garner
+363,69,James Hill,10747.0,James Hill
+364,504,James Maddison,6818.0,James Maddison
+365,360,James McAtee,10126.0,James McAtee
+366,629,James McConnell,11811.0,James McConnell
+367,142,James Milner,489.0,James Milner
+368,335,James Shea,11724.0,James Shea
+370,265,James Tarkowski,1665.0,James Tarkowski
+371,241,James Tomkins,530.0,James Tomkins
+372,596,James Trafford,9077.0,James Trafford
+373,664,James Ward-Prowse,843.0,James Ward-Prowse
+375,722,Jamie Donley,12118.0,Jamie Donley
+377,150,Jan Paul van Hecke,10807.0,Jan Paul van Hecke
+378,518,Japhet Tanganga,8222.0,Japhet Tanganga
+379,626,Jarell Quansah,10187.0,Jarell Quansah
+380,245,Jarrad Branthwaite,8476.0,Jarrad Branthwaite
+381,526,Jarrod Bowen,1776.0,Jarrod Bowen
+382,148,Jason Steele,7235.0,Jason Steele
+384,476,Jayden Bogle,9205.0,Jayden Bogle
+385,824,Jayden Danns,12455.0,Jayden Danns
+387,177,Jay Rodriguez,844.0,Jay Rodriguez
+388,651,Jay Stansfield,10718.0,Jay Stansfield
+390,232,Jean-Philippe Mateta,5735.0,Jean-Philippe Mateta
+391,715,Jean-Ricner Bellegarde,7762.0,Jean-Ricner Bellegarde
+393,240,Jeffrey Schlupp,757.0,Jeffrey Schlupp
+397,657,Jesurun Rak-Sakyi,9461.0,Jesurun Rak-Sakyi
+398,44,Jhon Durán,11366.0,Jhon Durán
+401,830,Jimi Tauriainen,12497.0,Jimi Tauriainen
+402,220,Joachim Andersen,6314.0,Joachim Andersen
+404,305,Joel Matip,332.0,Joel Matip
+405,242,Joel Ward,510.0,Joel Ward
+412,81,Joe Rothwell,561.0,Joe Rothwell
+414,794,Joe White,9959.0,Joe White
+416,432,Joe Willock,6630.0,Joe Willock
+417,469,Joe Worrall,10756.0,Joe Worrall
+419,480,John Egan,7703.0,John Egan
+420,481,John Fleck,7709.0,John Fleck
+422,50,John McGinn,7723.0,John McGinn
+423,368,John Stones,586.0,John Stones
+426,463,Jonjo Shelvey,769.0,Jonjo Shelvey
+427,703,Jonny Evans,807.0,Jonny Evans
+429,221,Jordan Ayew,672.0,Jordan Ayew
+431,320,Jordan Clark,12187.0,Jordan Clark
+432,299,Jordan Henderson,605.0,Jordan Henderson
+433,263,Jordan Pickford,741.0,Jordan Pickford
+436,682,Joseph Johnson,11980.0,Joseph Johnson
+439,838,Josh Acheampong,12535.0,Josh Acheampong
+442,161,Josh Brownhill,8323.0,Josh Brownhill
+443,165,Josh Cullen,1018.0,Josh Cullen
+444,99,Josh Dasilva,10405.0,Josh Dasilva
+449,346,João Cancelo,2379.0,João Cancelo
+452,151,Joël Veltman,8780.0,Joël Veltman
+454,130,Julio Enciso,11058.0,Julio Enciso
+455,343,Julián Álvarez,10846.0,Julián Álvarez
+456,585,Jurriën Timber,11707.0,Jurriën Timber
+458,72,Justin Kluivert,6963.0,Justin Kluivert
+464,774,Kaelan Casey,11409.0,Kaelan Casey
+465,783,Kaide Gordon,10118.0,Kaide Gordon
+467,6,Kai Havertz,5220.0,Kai Havertz
+468,364,Kalvin Phillips,8719.0,Kalvin Phillips
+469,143,Kaoru Mitoma,10806.0,Kaoru Mitoma
+472,107,Keane Lewis-Potter,10809.0,Keane Lewis-Potter
+475,285,Kenny Tete,5973.0,Kenny Tete
+477,349,Kevin De Bruyne,447.0,Kevin De Bruyne
+478,277,Kevin Mbabu,983.0,Kevin Mbabu
+479,115,Kevin Schade,9156.0,Kevin Schade
+482,76,Kieffer Moore,10743.0,Kieffer Moore
+483,24,Kieran Tierney,8089.0,Kieran Tierney
+484,430,Kieran Trippier,652.0,Kieran Trippier
+486,388,Kobbie Mainoo,11174.0,Kobbie Mainoo
+487,676,Konstantinos Mavropanos,6722.0,Konstantinos Mavropanos
+488,311,Konstantinos Tsimikas,8852.0,Konstantinos Tsimikas
+491,90,Kristoffer Ajer,9677.0,Kristoffer Ajer
+492,544,Kurt Zouma,935.0,Kurt Zouma
+493,369,Kyle Walker,638.0,Kyle Walker
+496,40,Leander Dendoncker,7236.0,Leander Dendoncker
+497,26,Leandro Trossard,7698.0,Leandro Trossard
+499,34,Leon Bailey,5221.0,Leon Bailey
+500,836,Leon Chiwome,12532.0,Leon Chiwome
+503,197,Levi Colwill,10805.0,Levi Colwill
+504,66,Lewis Cook,1789.0,Lewis Cook
+505,624,Lewis Dobbin,10027.0,Lewis Dobbin
+506,129,Lewis Dunk,6048.0,Lewis Dunk
+507,204,Lewis Hall,10216.0,Lewis Hall
+509,635,Lewis Miley,11386.0,Lewis Miley
+512,841,Lewis Warrington,10775.0,Lewis Warrington
+513,391,Lisandro Martínez,10802.0,Lisandro Martínez
+514,70,Lloyd Kelly,8090.0,Lloyd Kelly
+515,805,Lorenz Assignon,8973.0,Lorenz Assignon
+516,580,Loris Karius,37.0,Loris Karius
+522,42,Lucas Digne,1823.0,Lucas Digne
+525,605,Luca Koleosho,10620.0,Luca Koleosho
+527,303,Luis Díaz,10408.0,Luis Díaz
+528,705,Luis Sinisterra,10866.0,Luis Sinisterra
+529,533,Lukasz Fabianski,706.0,Lukasz Fabianski
+530,317,Luke Berry,11722.0,Luke Berry
+534,683,Luke Harris,10719.0,Luke Harris
+537,398,Luke Shaw,1006.0,Luke Shaw
+538,693,Luke Thomas,8562.0,Luke Thomas
+539,168,Lyle Foster,7498.0,Lyle Foster
+542,93,Mads Bech Sørensen,9683.0,Mads Bech Sørensen
+546,128,Mahmoud Dahoud,205.0,Mahmoud Dahoud
+548,224,Malcolm Ebiowei,10698.0,Malcolm Ebiowei
+549,203,Malo Gusto,9017.0,Malo Gusto
+550,583,Manor Solomon,10716.0,Manor Solomon
+552,341,Manuel Akanji,6490.0,Manuel Akanji
+554,83,Marcos Senesi,10864.0,Marcos Senesi
+557,396,Marcus Rashford,556.0,Marcus Rashford
+558,86,Marcus Tavernier,10741.0,Marcus Tavernier
+561,284,Marek Rodák,8704.0,Marek Rodák
+562,565,Mario Lemina,1299.0,Mario Lemina
+563,101,Mark Flekken,7047.0,Mark Flekken
+565,741,Mark O’Mahony,12205.0,Mark O’Mahony
+566,88,Mark Travers,7582.0,Mark Travers
+567,409,Martin Dubravka,6532.0,Martin Dubravka
+569,52,Marvelous Nakamba,8040.0,Marvelous Nakamba
+570,623,Mason Burstow,11810.0,Mason Burstow
+571,255,Mason Holgate,985.0,Mason Holgate
+572,209,Mason Mount,7768.0,Mason Mount
+577,106,Mathias Jensen,7166.0,Mathias Jensen
+584,598,Matt Doherty,6852.0,Matt Doherty
+586,425,Matt Ritchie,461.0,Matt Ritchie
+587,428,Matt Targett,884.0,Matt Targett
+588,28,Matt Turner,10700.0,Matt Turner
+589,808,Matz Sels,6903.0,Matz Sels
+592,527,Maxwel Cornet,3278.0,Maxwel Cornet
+593,643,Max Aarons,7688.0,Max Aarons
+594,563,Max Kilman,7332.0,Max Kilman
+597,484,Max Lowe,8918.0,Max Lowe
+600,257,Michael Keane,1653.0,Michael Keane
+601,745,Michael Ndiweni,12215.0,Michael Ndiweni
+602,174,Michael Obafemi,6504.0,Michael Obafemi
+603,620,Michael Olakigbe,11487.0,Michael Olakigbe
+604,236,Michael Olise,9948.0,Michael Olise
+605,523,Michail Antonio,531.0,Michail Antonio
+608,639,Micky van de Ven,10050.0,Micky van de Ven
+610,860,Mikey Moore,12603.0,Mikey Moore
+611,706,Mike Trésor,12094.0,Mike Trésor
+612,98,Mikkel Damsgaard,8859.0,Mikkel Damsgaard
+613,595,Milos Kerkez,11709.0,Milos Kerkez
+615,3,Mohamed Elneny,496.0,Mohamed Elneny
+616,308,Mohamed Salah,1250.0,Mohamed Salah
+617,689,Mohammed Kudus,12027.0,Mohammed Kudus
+619,447,Morgan Gibbs-White,6857.0,Morgan Gibbs-White
+620,803,Morgan Rogers,12412.0,Morgan Rogers
+621,56,Morgan Sanson,3696.0,Morgan Sanson
+622,599,Moussa Diaby,6556.0,Moussa Diaby
+625,210,Mykhailo Mudryk,11305.0,Mykhailo Mudryk
+627,744,Myles Peart-Harris,10205.0,Myles Peart-Harris
+628,363,Máximo Perrone,11378.0,Máximo Perrone
+629,219,Naouirou Ahamada,9274.0,Naouirou Ahamada
+630,222,Nathaniel Clyne,603.0,Nathaniel Clyne
+631,306,Nathaniel Phillips,8228.0,Nathaniel Phillips
+632,342,Nathan Aké,579.0,Nathan Aké
+633,96,Nathan Collins,9733.0,Nathan Collins
+634,704,Nathan Fraser,11210.0,Nathan Fraser
+635,262,Nathan Patterson,10292.0,Nathan Patterson
+636,600,Nathan Redmond,790.0,Nathan Redmond
+638,258,Neal Maupay,3621.0,Neal Maupay
+639,467,Neco Williams,8204.0,Neco Williams
+640,424,Nick Pope,5552.0,Nick Pope
+641,211,Nicolas Jackson,10048.0,Nicolas Jackson
+643,712,Nicolás Domínguez,8252.0,Nicolás Domínguez
+647,208,Noni Madueke,11357.0,Noni Madueke
+653,845,Odeluga Offiah,10453.0,Odeluga Offiah
+654,225,Odsonne Edouard,3697.0,Odsonne Edouard
+656,31,Oleksandr Zinchenko,2958.0,Oleksandr Zinchenko
+657,823,Oliver Arblaster,12449.0,Oliver Arblaster
+658,485,Oliver McBurnie,1736.0,Oliver McBurnie
+659,488,Oliver Norwood,7710.0,Oliver Norwood
+661,515,Oliver Skipp,7198.0,Oliver Skipp
+664,60,Ollie Watkins,8865.0,Ollie Watkins
+666,632,Omari Forson,12340.0,Omari Forson
+667,618,Omari Kellyman,11739.0,Omari Kellyman
+669,453,Orel Mangala,6088.0,Orel Mangala
+670,345,Oscar Bobb,11903.0,Oscar Bobb
+671,782,Owen Beck,10119.0,Owen Beck
+676,570,Pablo Sarabia,2199.0,Pablo Sarabia
+678,134,Pascal Groß,239.0,Pascal Groß
+679,581,Paul Dummett,853.0,Paul Dummett
+680,584,Pau Torres,6221.0,Pau Torres
+682,506,Pedro Porro,6912.0,Pedro Porro
+683,582,Pelly Ruddock Mpanzu,11716.0,Pelly Ruddock Mpanzu
+686,63,Philip Billing,6034.0,Philip Billing
+687,353,Phil Foden,6055.0,Phil Foden
+688,188,Pierre-Emerick Aubameyang,318.0,Pierre-Emerick Aubameyang
+689,499,Pierre-Emile Højbjerg,343.0,Pierre-Emile Højbjerg
+691,777,Radu Dragusin,9105.0,Radu Dragusin
+692,216,Raheem Sterling,618.0,Raheem Sterling
+694,617,Rasmus Højlund,11055.0,Rasmus Højlund
+696,558,Raúl Jiménez,4105.0,Raúl Jiménez
+697,318,Reece Burke,1771.0,Reece Burke
+698,206,Reece James,8067.0,Reece James
+699,578,Reiss Nelson,6492.0,Reiss Nelson
+700,233,Remi Matthews,9834.0,Remi Matthews
+701,446,Remo Freuler,1488.0,Remo Freuler
+703,477,Rhian Brewster,5569.0,Rhian Brewster
+705,487,Rhys Norrington-Davies,12291.0,Rhys Norrington-Davies
+708,103,Rico Henry,9679.0,Rico Henry
+709,358,Rico Lewis,10847.0,Rico Lewis
+710,359,Riyad Mahrez,750.0,Riyad Mahrez
+711,145,Robert Sánchez,9098.0,Robert Sánchez
+712,53,Robin Olsen,6962.0,Robin Olsen
+713,7,Rob Holding,1749.0,Rob Holding
+714,492,Rodrigo Bentancur,6108.0,Rodrigo Bentancur
+718,799,Romain Faivre,6420.0,Romain Faivre
+723,630,Ross Barkley,592.0,Ross Barkley
+724,65,Ryan Christie,10744.0,Ryan Christie
+725,410,Ryan Fraser,1683.0,Ryan Fraser
+726,68,Ryan Fredericks,6891.0,Ryan Fredericks
+728,708,Ryan Gravenberch,10697.0,Ryan Gravenberch
+729,730,Ryan Oné,12158.0,Ryan Oné
+730,514,Ryan Sessegnon,6837.0,Ryan Sessegnon
+732,470,Ryan Yates,11003.0,Ryan Yates
+735,701,Saman Ghoddos,7069.0,Saman Ghoddos
+738,828,Sam Curtis,12465.0,Sam Curtis
+739,230,Sam Johnstone,978.0,Sam Johnstone
+741,464,Sam Surridge,5602.0,Sam Surridge
+742,475,Sander Berge,8285.0,Sander Berge
+743,429,Sandro Tonali,7958.0,Sandro Tonali
+744,697,Santiago Bueno,10945.0,Santiago Bueno
+745,562,Sasa Kalajdzic,8812.0,Sasa Kalajdzic
+749,455,Scott McKenna,10757.0,Scott McKenna
+750,392,Scott McTominay,5560.0,Scott McTominay
+752,247,Seamus Coleman,585.0,Seamus Coleman
+753,421,Sean Longstaff,7078.0,Sean Longstaff
+755,436,Serge Aurier,3600.0,Serge Aurier
+756,366,Sergio Gómez,6656.0,Sergio Gómez
+757,508,Sergio Reguilón,7187.0,Sergio Reguilón
+759,92,Shandon Baptiste,9914.0,Shandon Baptiste
+760,348,Shea Charles,11594.0,Shea Charles
+762,122,Simon Adingra,11710.0,Simon Adingra
+763,67,Siriki Dembélé,10749.0,Siriki Dembélé
+764,709,Sofyan Amrabat,7927.0,Sofyan Amrabat
+765,140,Solly March,6049.0,Solly March
+767,292,Stefan Bajcetic,10723.0,Stefan Bajcetic
+768,361,Stefan Ortega Moreno,8786.0,Stefan Ortega Moreno
+771,441,Steve Cook,458.0,Steve Cook
+772,405,Sven Botman,8635.0,Sven Botman
+773,759,Sydie Peck,12251.0,Sydie Peck
+774,586,Tahith Chong,7439.0,Tahith Chong
+775,437,Taiwo Awoniyi,7814.0,Taiwo Awoniyi
+776,25,Takehiro Tomiyasu,7931.0,Takehiro Tomiyasu
+778,139,Tariq Lamptey,8226.0,Tariq Lamptey
+779,750,Tawanda Chirewa,12234.0,Tawanda Chirewa
+783,393,Teden Mengi,12073.0,Teden Mengi
+789,537,Thilo Kehrer,2674.0,Thilo Kehrer
+790,649,Thomas Cannon,11232.0,Thomas Cannon
+791,614,Thomas Kaminski,11712.0,Thomas Kaminski
+792,15,Thomas Partey,2328.0,Thomas Partey
+793,116,Thomas Strakosha,1214.0,Thomas Strakosha
+794,688,Timothy Castagne,6157.0,Timothy Castagne
+795,776,Timo Werner,65.0,Timo Werner
+796,46,Tim Iroegbunam,9554.0,Tim Iroegbunam
+798,281,Tim Ream,7184.0,Tim Ream
+802,351,Tommy Doyle,8496.0,Tommy Doyle
+803,268,Tom Cairney,6835.0,Tom Cairney
+804,666,Tom Davies,1042.0,Tom Davies
+807,575,Tom Lockyer,11714.0,Tom Lockyer
+810,286,Tosin Adarabioyo,5590.0,Tosin Adarabioyo
+813,290,Trent Alexander-Arnold,1791.0,Trent Alexander-Arnold
+814,194,Trevoh Chalobah,6615.0,Trevoh Chalobah
+816,673,Tyler Adams,7352.0,Tyler Adams
+817,650,Tyler Onyango,9287.0,Tyler Onyango
+818,389,Tyrell Malacia,10803.0,Tyrell Malacia
+819,272,Tyrese Francois,9552.0,Tyrese Francois
+821,234,Tyrick Mitchell,8214.0,Tyrick Mitchell
+823,51,Tyrone Mings,1024.0,Tyrone Mings
+825,816,Valentín Barco,12498.0,Valentín Barco
+827,227,Vicente Guaita,2190.0,Vicente Guaita
+829,386,Victor Lindelöf,6080.0,Victor Lindelöf
+833,313,Virgil van Dijk,833.0,Virgil van Dijk
+834,260,Vitalii Mykolenko,10291.0,Vitalii Mykolenko
+835,105,Vitaly Janelt,9680.0,Vitaly Janelt
+837,668,Wataru Endo,8808.0,Wataru Endo
+838,448,Wayne Hennessey,509.0,Wayne Hennessey
+839,201,Wesley Fofana,7589.0,Wesley Fofana
+842,482,Wes Foderingham,8776.0,Wes Foderingham
+843,490,William Osula,9556.0,William Osula
+844,20,William Saliba,6888.0,William Saliba
+846,439,Willy Boly,6850.0,Willy Boly
+847,766,Willy Kambwala,12275.0,Willy Kambwala
+848,229,Will Hughes,6104.0,Will Hughes
+849,660,Wilson Odobert,10822.0,Wilson Odobert
+850,183,Wout Weghorst,7052.0,Wout Weghorst
+852,124,Yasin Ayari,11385.0,Yasin Ayari
+853,592,Yasser Larouci,10041.0,Yasser Larouci
+857,119,Yoane Wissa,5786.0,Yoane Wissa
+858,58,Youri Tielemans,5956.0,Youri Tielemans
+861,493,Yves Bissouma,5609.0,Yves Bissouma
+862,734,Zack Nelson,12188.0,Zack Nelson
+865,594,Zeki Amdouni,11701.0,Zeki Amdouni
+7,278,Aleksandar Mitrović,773.0,Aleksandar Mitrovic
+8,32,Alexandre Moreno Lopera,4120.0,Álex Moreno
+12,291,Alisson Ramses Becker,1257.0,Alisson
+15,371,Amad Diallo,12200.0,Amadou Diallo
+17,316,Amari'i Bell,11713.0,Amari&#039;i Bell
+18,157,Ameen Al-Dakhil,11699.0,Ameen Al Dakhil
+20,267,Andreas Hoelgebaum Pereira,922.0,Andreas Pereira
+21,186,Andrey Nascimento dos Santos,11808.0,Andrey Santos
+24,471,Anel Ahmedhodžić,10386.0,Anel Ahmedhodzic
+25,587,Anis Slimane,11730.0,Anis Ben Slimane
+26,700,Anssumane Fati Vieira,7967.0,Anssumane Fati
+28,372,Antony Matheus dos Santos,11094.0,Antony
+37,29,Benjamin White,7298.0,Ben White
+38,191,Benoît Badiashile,7240.0,Benoit Badiashile Mukinayi
+39,775,Ben Brereton,11815.0,Ben Brereton Díaz
+42,344,Bernardo Veiga de Carvalho e Silva,3635.0,Bernardo Silva
+45,270,Bobby De Cordova-Reid,6827.0,Bobby Reid
+47,574,Boubacar Traoré,8119.0,Boubacar Traore
+50,434,Brandon Aguilera Zamora,12034.0,Brandon Aguilera
+59,376,Carlos Henrique Casimiro,2248.0,Casemiro
+60,287,Carlos Vinícius Alves Morais,7395.0,Carlos Vinicius
+64,223,Cheick Doucouré,8666.0,Cheick Oumar Doucoure
+67,699,Clément Lenglet,5050.0,Clement Lenglet
+68,2,Cédric Alves Soares,847.0,Cédric Soares
+69,568,Daniel Castelo Podence,8291.0,Daniel Podence
+70,442,Danilo dos Santos de Oliveira,11317.0,Danilo
+73,173,Dara O'Shea,8756.0,Dara O&#039;Shea
+76,293,Darwin Núñez Ribeiro,10720.0,Darwin Núñez
+77,113,David Raya Martin,9676.0,David Raya
+78,677,Deivid Washington de Souza Eugênio,12033.0,Deivid Washington
+81,519,Destiny Udogie,8831.0,Iyenoma Destiny Udogie
+84,41,Diego Carlos Santos Silva,5712.0,Diego Carlos
+85,681,Diego Manuel Jadon da Silva Moreira,802.0,Diego Costa
+86,377,Diogo Dalot Teixeira,7281.0,Diogo Dalot
+87,294,Diogo Teixeira da Silva,6854.0,Diogo Jota
+90,43,Douglas Luiz Soares de Paulo,6122.0,Douglas Luiz
+93,352,Ederson Santana de Moraes,6054.0,Ederson
+94,642,Edson Álvarez Velázquez,11926.0,Edson Álvarez
+98,497,Emerson Leite de Souza Junior,7430.0,Emerson
+99,532,Emerson Palmieri dos Santos,1245.0,Emerson
+100,22,Emile Smith Rowe,7230.0,Emile Smith-Rowe
+101,35,Emiliano Buendía Stati,2203.0,Emiliano Buendía
+102,49,Emiliano Martínez Romero,4401.0,Emiliano Martinez
+109,296,Fabio Henrique Tavares,3420.0,Fabinho
+110,394,Facundo Pellistri Rebollo,9324.0,Facundo Pellistri
+111,445,Felipe Augusto de Almeida Monteiro,7921.0,Felipe
+115,707,Fodé Ballo-Touré,5803.0,Fode Toure
+119,381,Frederico Rodrigues de Paula Santos,6817.0,Fred
+122,5,Gabriel dos Santos Magalhães,5613.0,Gabriel
+123,8,Gabriel Fernando de Jesus,5543.0,Gabriel Jesus
+124,12,Gabriel Martinelli Silva,7752.0,Gabriel Martinelli
+130,554,Gonçalo Manuel Ganchinho Guedes,5682.0,Gonçalo Guedes
+131,462,Gustavo Henrique Furtado Scarpa,11284.0,Gustavo Scarpa
+133,100,Halil Dervişoğlu,9686.0,Halil Dervisoglu
+134,87,Hamed Traorè,6986.0,Hamed Junior Traore
+139,548,Hugo Bueno López,10140.0,Hugo Bueno
+140,557,Hwang Hee-chan,8845.0,Hee-Chan Hwang
+143,713,Ibrahim Sangaré,5722.0,Ibrahim Sangare
+144,606,Igor Julio dos Santos de Paulo,7943.0,Igor Julio
+146,607,Ionuț Radu,1830.0,Ionut Radu
+150,602,Issa Kaboré,9619.0,Issa Kabore
+152,507,Ivan Perišić,448.0,Ivan Perisic
+160,422,Javier Manquillo Gaitán,1719.0,Javier Manquillo
+163,231,Jefferson Lerma Solís,2182.0,Jefferson Lerma
+166,146,Jeremy Sarmiento Morante,10036.0,Jeremy Sarmiento
+169,416,Joelinton Cássio Apolinário de Lira,87.0,Joelinton
+184,9,Jorge Luiz Frello Filho,1389.0,Jorginho
+191,569,José Malheiro de Sá,9740.0,José Sá
+192,135,João Pedro Junqueira de Jesus,8272.0,João Pedro
+193,559,João Victor Gomes da Silva,11384.0,João Gomes
+195,280,João Palhinha Gonçalves,10715.0,João Palhinha
+196,616,Joško Gvardiol,9790.0,Josko Gvardiol
+198,678,Jérémy Doku,8981.0,Jéremy Doku
+199,170,Jóhann Berg Gudmundsson,1663.0,Johann Berg Gudmundsson
+203,793,Kaine Kesler-Hayden,9409.0,Kaine Hayden
+208,187,Kepa Arrizabalaga,5061.0,Kepa
+220,458,Lewis O'Brien,10759.0,Lewis O&#039;Brien
+227,539,Lucas Tolentino Coelho de Lima,7365.0,Lucas Paquetá
+236,315,Mads Juel Andersen,11715.0,Mads Andersen
+238,114,Mads Roerslev Rasmussen,9685.0,Mads Roerslev
+241,159,Manuel Benson Hedilazio,11702.0,Benson Manuel
+246,228,Marc Guéhi,7603.0,Marc Guehi
+248,14,Martin Ødegaard,2517.0,Martin Odegaard
+249,356,Mateo Kovačić,2254.0,Mateo Kovacic
+250,566,Matheus Luiz Nunes,11000.0,Matheus Nunes
+251,615,Matheus França de Oliveira,12152.0,Matheus França
+252,590,Matheus Santos Carneiro Da Cunha,7080.0,Matheus Cunha
+253,121,Mathias Jorgensen,6030.0,Zanka
+268,402,Miguel Almirón Rejala,7420.0,Miguel Almirón
+270,126,Moisés Caicedo Corozo,9453.0,Moisés Caicedo
+271,457,Moussa Niakhaté,5989.0,Moussa Niakhate
+272,696,Murillo Santiago Costa dos Santos,12123.0,Murillo
+274,522,Nayef Aguerd,6935.0,Naif Aguerd
+279,691,Norberto Bercique Gomes Betuncal,9983.0,Beto
+280,77,Norberto Murara Neto,1297.0,Neto
+282,23,Nuno Varela Tavares,9691.0,Nuno Tavares
+283,572,Nélson Cabral Semedo,6163.0,Nélson Semedo
+284,710,Odysseas Vlachodimos,375.0,Odisseas Vlachodimos
+296,131,Pervis Estupiñán,5136.0,Estupiñán
+297,38,Philippe Coutinho Correia,488.0,Philippe Coutinho
+299,395,Raphaël Varane,2245.0,Raphael Varane
+300,545,Rayan Aït-Nouri,6674.0,Rayan Ait Nouri
+303,509,Richarlison de Andrade,6026.0,Richarlison
+305,809,Rodrigo Duarte Ribeiro,12418.0,Rodrigo Ribeiro
+307,279,Rodrigo Muniz Carvalho,2496.0,Rodri
+309,667,Roméo Lavia,10004.0,Romeo Lavia
+314,350,Rúben Gato Alves Dias,8961.0,Rúben Dias
+320,276,Saša Lukić,1537.0,Sasa Lukic
+324,95,Sergi Canós Tenés,1078.0,Sergi Canos
+326,516,Son Heung-min,453.0,Son Heung-Min
+336,310,Thiago Alcántara do Nascimento,229.0,Thiago Alcántara
+337,217,Thiago Emiliano da Silva,3288.0,Thiago Silva
+346,573,Toti António Gomes,10293.0,Toti
+356,638,Vini de Souza Costa,10872.0,Vinicius Souza
+360,591,Willian Borges da Silva,700.0,Willian
+365,645,Youssef Ramalho Chermiti,11984.0,Youssef Chermiti
