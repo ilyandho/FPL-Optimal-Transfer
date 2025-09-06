@@ -15804,3 +15804,2139 @@ Try using .loc[row_indexer,col_indexer] = value instead
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
   data_38_fwd['xG_preds'] = predicted
 
+2025-08-31 18:37:01,340:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 18:37:01,364:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 18:37:01,364:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 18:37:01,364:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 19:00:21,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 19:00:21,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 19:00:21,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 19:00:21,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-08-31 19:00:23,862:INFO:Initializing load_model()
+2025-08-31 19:00:23,862:INFO:load_model(model_name=../def_xg_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:00:24,597:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1766718703.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:24,678:INFO:Initializing predict_model()
+2025-08-31 19:00:24,678:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16A764A50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesRegressor(n_jobs=-1, random_state=5079))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B520F40>)
+2025-08-31 19:00:24,678:INFO:Checking exceptions
+2025-08-31 19:00:24,678:INFO:Preloading libraries
+2025-08-31 19:00:24,678:INFO:Set up data.
+2025-08-31 19:00:24,729:INFO:Set up index.
+2025-08-31 19:00:25,011:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1766718703.py:11: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def['xG_preds'] = predicted
+
+2025-08-31 19:00:26,644:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\4034698818.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:26,678:INFO:Initializing predict_model()
+2025-08-31 19:00:26,678:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C168299A50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesRegressor(n_jobs=-1, random_state=5079))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61DEE0>)
+2025-08-31 19:00:26,678:INFO:Checking exceptions
+2025-08-31 19:00:26,678:INFO:Preloading libraries
+2025-08-31 19:00:26,678:INFO:Set up data.
+2025-08-31 19:00:26,744:INFO:Set up index.
+2025-08-31 19:00:27,113:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\4034698818.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def['xG_preds'] = predicted
+
+2025-08-31 19:00:28,436:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1002305843.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:28,494:INFO:Initializing predict_model()
+2025-08-31 19:00:28,494:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16C6E97D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesRegressor(n_jobs=-1, random_state=5079))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C15CE52020>)
+2025-08-31 19:00:28,494:INFO:Checking exceptions
+2025-08-31 19:00:28,494:INFO:Preloading libraries
+2025-08-31 19:00:28,494:INFO:Set up data.
+2025-08-31 19:00:28,541:INFO:Set up index.
+2025-08-31 19:00:28,940:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1002305843.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def['xG_preds'] = predicted
+
+2025-08-31 19:00:30,260:INFO:Initializing load_model()
+2025-08-31 19:00:30,260:INFO:load_model(model_name=../mid_xg_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:00:31,059:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1569287174.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:31,093:INFO:Initializing predict_model()
+2025-08-31 19:00:31,093:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E3B2450>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=3306))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C681BC0>)
+2025-08-31 19:00:31,093:INFO:Checking exceptions
+2025-08-31 19:00:31,093:INFO:Preloading libraries
+2025-08-31 19:00:31,093:INFO:Set up data.
+2025-08-31 19:00:31,126:INFO:Set up index.
+2025-08-31 19:00:31,576:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1569287174.py:11: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid['xG_preds'] = predicted
+
+2025-08-31 19:00:33,342:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1460296985.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:33,376:INFO:Initializing predict_model()
+2025-08-31 19:00:33,376:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C15CE77C50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=3306))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C70DD00>)
+2025-08-31 19:00:33,376:INFO:Checking exceptions
+2025-08-31 19:00:33,392:INFO:Preloading libraries
+2025-08-31 19:00:33,392:INFO:Set up data.
+2025-08-31 19:00:33,442:INFO:Set up index.
+2025-08-31 19:00:33,725:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1460296985.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid['xG_preds'] = predicted
+
+2025-08-31 19:00:35,766:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1710043576.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:35,808:INFO:Initializing predict_model()
+2025-08-31 19:00:35,809:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C1668CC550>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=3306))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C15DFF1620>)
+2025-08-31 19:00:35,809:INFO:Checking exceptions
+2025-08-31 19:00:35,810:INFO:Preloading libraries
+2025-08-31 19:00:35,810:INFO:Set up data.
+2025-08-31 19:00:35,841:INFO:Set up index.
+2025-08-31 19:00:36,102:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1710043576.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid['xG_preds'] = predicted
+
+2025-08-31 19:00:38,142:INFO:Initializing load_model()
+2025-08-31 19:00:38,142:INFO:load_model(model_name=../fwd_xg_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:00:38,355:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1861646744.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_fwd_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:38,424:INFO:Initializing predict_model()
+2025-08-31 19:00:38,424:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E46AF10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=2255))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E812160>)
+2025-08-31 19:00:38,424:INFO:Checking exceptions
+2025-08-31 19:00:38,424:INFO:Preloading libraries
+2025-08-31 19:00:38,424:INFO:Set up data.
+2025-08-31 19:00:38,536:INFO:Set up index.
+2025-08-31 19:00:38,890:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1861646744.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_fwd['xG_preds'] = predicted
+
+2025-08-31 19:00:40,173:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2257107111.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_fwd_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:40,319:INFO:Initializing predict_model()
+2025-08-31 19:00:40,319:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16B628650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=2255))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B5BA8E0>)
+2025-08-31 19:00:40,319:INFO:Checking exceptions
+2025-08-31 19:00:40,319:INFO:Preloading libraries
+2025-08-31 19:00:40,320:INFO:Set up data.
+2025-08-31 19:00:40,404:INFO:Set up index.
+2025-08-31 19:00:40,705:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2257107111.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_fwd['xG_preds'] = predicted
+
+2025-08-31 19:00:42,056:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1391899560.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_fwd_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-08-31 19:00:42,125:INFO:Initializing predict_model()
+2025-08-31 19:00:42,125:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16C636350>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=2255))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B5BA8E0>)
+2025-08-31 19:00:42,125:INFO:Checking exceptions
+2025-08-31 19:00:42,125:INFO:Preloading libraries
+2025-08-31 19:00:42,125:INFO:Set up data.
+2025-08-31 19:00:42,239:INFO:Set up index.
+2025-08-31 19:00:42,506:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1391899560.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_fwd['xG_preds'] = predicted
+
+2025-08-31 19:00:43,792:INFO:Initializing load_model()
+2025-08-31 19:00:43,792:INFO:load_model(model_name=../def_xa_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:00:44,140:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1286060865.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:00:44,205:INFO:Initializing predict_model()
+2025-08-31 19:00:44,205:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E869650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=812))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E3ABEC0>)
+2025-08-31 19:00:44,205:INFO:Checking exceptions
+2025-08-31 19:00:44,205:INFO:Preloading libraries
+2025-08-31 19:00:44,208:INFO:Set up data.
+2025-08-31 19:00:44,249:INFO:Set up index.
+2025-08-31 19:00:44,794:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1286060865.py:11: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def['xA_preds'] = predicted
+
+2025-08-31 19:00:46,527:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2235968509.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:00:46,577:INFO:Initializing predict_model()
+2025-08-31 19:00:46,577:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16C6E84D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=812))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C1680E8A40>)
+2025-08-31 19:00:46,577:INFO:Checking exceptions
+2025-08-31 19:00:46,577:INFO:Preloading libraries
+2025-08-31 19:00:46,577:INFO:Set up data.
+2025-08-31 19:00:46,621:INFO:Set up index.
+2025-08-31 19:00:46,982:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2235968509.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def['xA_preds'] = predicted
+
+2025-08-31 19:00:48,627:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1502491043.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:00:48,707:INFO:Initializing predict_model()
+2025-08-31 19:00:48,707:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E8A7390>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=812))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C1680E8A40>)
+2025-08-31 19:00:48,707:INFO:Checking exceptions
+2025-08-31 19:00:48,707:INFO:Preloading libraries
+2025-08-31 19:00:48,712:INFO:Set up data.
+2025-08-31 19:00:48,770:INFO:Set up index.
+2025-08-31 19:00:49,132:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1502491043.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def['xA_preds'] = predicted
+
+2025-08-31 19:00:50,720:INFO:Initializing load_model()
+2025-08-31 19:00:50,720:INFO:load_model(model_name=../mid_xa_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:00:51,319:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2404194884.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:00:51,403:INFO:Initializing predict_model()
+2025-08-31 19:00:51,403:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E3937D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=2810))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E813C40>)
+2025-08-31 19:00:51,403:INFO:Checking exceptions
+2025-08-31 19:00:51,403:INFO:Preloading libraries
+2025-08-31 19:00:51,407:INFO:Set up data.
+2025-08-31 19:00:51,451:INFO:Set up index.
+2025-08-31 19:00:51,857:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2404194884.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid['xA_preds'] = predicted
+
+2025-08-31 19:00:53,962:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\353010864.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:00:54,032:INFO:Initializing predict_model()
+2025-08-31 19:00:54,032:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E502AD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=2810))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61F4C0>)
+2025-08-31 19:00:54,032:INFO:Checking exceptions
+2025-08-31 19:00:54,032:INFO:Preloading libraries
+2025-08-31 19:00:54,032:INFO:Set up data.
+2025-08-31 19:00:54,079:INFO:Set up index.
+2025-08-31 19:00:54,402:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\353010864.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid['xA_preds'] = predicted
+
+2025-08-31 19:00:56,077:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2601050171.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:00:56,121:INFO:Initializing predict_model()
+2025-08-31 19:00:56,121:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E448750>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=2810))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C691120>)
+2025-08-31 19:00:56,121:INFO:Checking exceptions
+2025-08-31 19:00:56,121:INFO:Preloading libraries
+2025-08-31 19:00:56,121:INFO:Set up data.
+2025-08-31 19:00:56,157:INFO:Set up index.
+2025-08-31 19:00:56,512:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2601050171.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid['xA_preds'] = predicted
+
+2025-08-31 19:00:59,329:INFO:Initializing load_model()
+2025-08-31 19:00:59,329:INFO:load_model(model_name=../fwd_xa_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:00:59,837:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1637177864.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_fwd_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:00:59,955:INFO:Initializing predict_model()
+2025-08-31 19:00:59,955:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16C71E010>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=2566))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61DDA0>)
+2025-08-31 19:00:59,955:INFO:Checking exceptions
+2025-08-31 19:00:59,955:INFO:Preloading libraries
+2025-08-31 19:00:59,955:INFO:Set up data.
+2025-08-31 19:01:00,174:INFO:Set up index.
+2025-08-31 19:01:00,877:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1637177864.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_fwd['xA_preds'] = predicted
+
+2025-08-31 19:01:02,097:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1382519671.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_fwd_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:01:02,176:INFO:Initializing predict_model()
+2025-08-31 19:01:02,176:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16B03A390>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=2566))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C6916C0>)
+2025-08-31 19:01:02,177:INFO:Checking exceptions
+2025-08-31 19:01:02,177:INFO:Preloading libraries
+2025-08-31 19:01:02,177:INFO:Set up data.
+2025-08-31 19:01:02,227:INFO:Set up index.
+2025-08-31 19:01:02,495:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1382519671.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_fwd['xA_preds'] = predicted
+
+2025-08-31 19:01:03,417:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3948311769.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_fwd_xa.drop(columns=['position', 'xA'], inplace=True)
+
+2025-08-31 19:01:03,484:INFO:Initializing predict_model()
+2025-08-31 19:01:03,485:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E451050>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat', 'starts',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'ict_index_1', 'influence_1',
+                                             'creativity_1', 'threat_1',
+                                             'minutes_1...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=15,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=2566))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E52AB60>)
+2025-08-31 19:01:03,485:INFO:Checking exceptions
+2025-08-31 19:01:03,485:INFO:Preloading libraries
+2025-08-31 19:01:03,485:INFO:Set up data.
+2025-08-31 19:01:03,518:INFO:Set up index.
+2025-08-31 19:01:03,733:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3948311769.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_fwd['xA_preds'] = predicted
+
+2025-08-31 19:01:04,676:INFO:Initializing load_model()
+2025-08-31 19:01:04,676:INFO:load_model(model_name=../g_saves_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:04,953:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\127723658.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk_saves.drop(columns=['position', 'saves'], inplace=True)
+
+2025-08-31 19:01:05,023:INFO:Initializing predict_model()
+2025-08-31 19:01:05,023:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E3EFA10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=5408))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E50D080>)
+2025-08-31 19:01:05,023:INFO:Checking exceptions
+2025-08-31 19:01:05,024:INFO:Preloading libraries
+2025-08-31 19:01:05,024:INFO:Set up data.
+2025-08-31 19:01:05,065:INFO:Set up index.
+2025-08-31 19:01:05,379:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\127723658.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk['saves_preds'] = predicted
+
+2025-08-31 19:01:06,566:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1962156808.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk_saves.drop(columns=['position', 'saves'], inplace=True)
+
+2025-08-31 19:01:06,645:INFO:Initializing predict_model()
+2025-08-31 19:01:06,645:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E46D910>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=5408))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E45F060>)
+2025-08-31 19:01:06,645:INFO:Checking exceptions
+2025-08-31 19:01:06,645:INFO:Preloading libraries
+2025-08-31 19:01:06,646:INFO:Set up data.
+2025-08-31 19:01:06,686:INFO:Set up index.
+2025-08-31 19:01:07,084:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1962156808.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk['saves_preds'] = predicted
+
+2025-08-31 19:01:07,987:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3764586901.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk_saves.drop(columns=['position', 'saves'], inplace=True)
+
+2025-08-31 19:01:08,075:INFO:Initializing predict_model()
+2025-08-31 19:01:08,075:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E52C410>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=5408))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C6AFEC0>)
+2025-08-31 19:01:08,075:INFO:Checking exceptions
+2025-08-31 19:01:08,075:INFO:Preloading libraries
+2025-08-31 19:01:08,076:INFO:Set up data.
+2025-08-31 19:01:08,128:INFO:Set up index.
+2025-08-31 19:01:08,354:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3764586901.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk['saves_preds'] = predicted
+
+2025-08-31 19:01:09,547:INFO:Initializing load_model()
+2025-08-31 19:01:09,547:INFO:load_model(model_name=../g_xgc_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:09,701:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\702450570.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk_xgc.drop(columns=['position', 'expected_goals_conceded'], inplace=True)
+
+2025-08-31 19:01:09,748:INFO:Initializing predict_model()
+2025-08-31 19:01:09,748:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E494910>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=13,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=7685))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B5E5620>)
+2025-08-31 19:01:09,749:INFO:Checking exceptions
+2025-08-31 19:01:09,749:INFO:Preloading libraries
+2025-08-31 19:01:09,749:INFO:Set up data.
+2025-08-31 19:01:09,786:INFO:Set up index.
+2025-08-31 19:01:09,978:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\702450570.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk['xgc_preds'] = predicted
+
+2025-08-31 19:01:10,732:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1323881549.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk_xgc.drop(columns=['position', 'expected_goals_conceded'], inplace=True)
+
+2025-08-31 19:01:10,814:INFO:Initializing predict_model()
+2025-08-31 19:01:10,814:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E4C4B10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=13,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=7685))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E50D760>)
+2025-08-31 19:01:10,815:INFO:Checking exceptions
+2025-08-31 19:01:10,815:INFO:Preloading libraries
+2025-08-31 19:01:10,815:INFO:Set up data.
+2025-08-31 19:01:10,871:INFO:Set up index.
+2025-08-31 19:01:11,104:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1323881549.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk['xgc_preds'] = predicted
+
+2025-08-31 19:01:12,556:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3705190149.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk_xgc.drop(columns=['position', 'expected_goals_conceded'], inplace=True)
+
+2025-08-31 19:01:12,632:INFO:Initializing predict_model()
+2025-08-31 19:01:12,632:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16C67A990>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=13,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingRegressor(random_state=7685))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E8C4860>)
+2025-08-31 19:01:12,632:INFO:Checking exceptions
+2025-08-31 19:01:12,633:INFO:Preloading libraries
+2025-08-31 19:01:12,633:INFO:Set up data.
+2025-08-31 19:01:12,701:INFO:Set up index.
+2025-08-31 19:01:12,919:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3705190149.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk['xgc_preds'] = predicted
+
+2025-08-31 19:01:13,716:INFO:Initializing load_model()
+2025-08-31 19:01:13,716:INFO:load_model(model_name=../def_xgc_final_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:14,181:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1970645865.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def_xgc.drop(columns=['position', 'expected_goals_conceded'], inplace=True)
+
+2025-08-31 19:01:14,256:INFO:Initializing predict_model()
+2025-08-31 19:01:14,256:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E3F5A10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=2059, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E52A980>)
+2025-08-31 19:01:14,256:INFO:Checking exceptions
+2025-08-31 19:01:14,256:INFO:Preloading libraries
+2025-08-31 19:01:14,257:INFO:Set up data.
+2025-08-31 19:01:14,291:INFO:Set up index.
+2025-08-31 19:01:14,554:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1970645865.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def['xgc_preds'] = predicted
+
+2025-08-31 19:01:16,352:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1602403833.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def_xgc.drop(columns=['position', 'expected_goals_conceded'], inplace=True)
+
+2025-08-31 19:01:16,431:INFO:Initializing predict_model()
+2025-08-31 19:01:16,431:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16E39CC10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=2059, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C6DD260>)
+2025-08-31 19:01:16,436:INFO:Checking exceptions
+2025-08-31 19:01:16,436:INFO:Preloading libraries
+2025-08-31 19:01:16,436:INFO:Set up data.
+2025-08-31 19:01:16,484:INFO:Set up index.
+2025-08-31 19:01:16,711:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1602403833.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def['xgc_preds'] = predicted
+
+2025-08-31 19:01:18,465:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1141747292.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def_xgc.drop(columns=['position', 'expected_goals_conceded'], inplace=True)
+
+2025-08-31 19:01:18,542:INFO:Initializing predict_model()
+2025-08-31 19:01:18,543:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001C16A65E650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1', 'ict_index_1',
+                                             'influence_1', 'creativity_1'...
+                              feature_types=None, gamma=None, grow_policy=None,
+                              importance_type=None,
+                              interaction_constraints=None, learning_rate=None,
+                              max_bin=None, max_cat_threshold=None,
+                              max_cat_to_onehot=None, max_delta_step=None,
+                              max_depth=None, max_leaves=None,
+                              min_child_weight=None, missing=nan,
+                              monotone_constraints=None, multi_strategy=None,
+                              n_estimators=None, n_jobs=-1,
+                              num_parallel_tree=None, random_state=2059, ...))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E3DFA60>)
+2025-08-31 19:01:18,544:INFO:Checking exceptions
+2025-08-31 19:01:18,544:INFO:Preloading libraries
+2025-08-31 19:01:18,545:INFO:Set up data.
+2025-08-31 19:01:18,608:INFO:Set up index.
+2025-08-31 19:01:18,863:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1141747292.py:12: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def['xgc_preds'] = predicted
+
+2025-08-31 19:01:20,790:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36[cols_to_add] = preds_36[cols_to_add]
+
+2025-08-31 19:01:20,791:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36[cols_to_add] = preds_36[cols_to_add]
+
+2025-08-31 19:01:20,792:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36[cols_to_add] = preds_36[cols_to_add]
+
+2025-08-31 19:01:20,795:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36[cols_to_add] = preds_36[cols_to_add]
+
+2025-08-31 19:01:21,178:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:14: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37[cols_to_add] = preds_37[cols_to_add]
+
+2025-08-31 19:01:21,179:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:14: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37[cols_to_add] = preds_37[cols_to_add]
+
+2025-08-31 19:01:21,180:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:14: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37[cols_to_add] = preds_37[cols_to_add]
+
+2025-08-31 19:01:21,181:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:14: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37[cols_to_add] = preds_37[cols_to_add]
+
+2025-08-31 19:01:21,342:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:22: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38[cols_to_add] = preds_38[cols_to_add]
+
+2025-08-31 19:01:21,342:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:22: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38[cols_to_add] = preds_38[cols_to_add]
+
+2025-08-31 19:01:21,342:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:22: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38[cols_to_add] = preds_38[cols_to_add]
+
+2025-08-31 19:01:21,342:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\207275070.py:22: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38[cols_to_add] = preds_38[cols_to_add]
+
+2025-08-31 19:01:23,139:INFO:Initializing load_model()
+2025-08-31 19:01:23,139:INFO:load_model(model_name=../gk_cs_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:23,525:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1457494303.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:23,626:INFO:Initializing predict_model()
+2025-08-31 19:01:23,626:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E559FD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RidgeClassifier(alpha=7.68, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E5B8F40>)
+2025-08-31 19:01:23,626:INFO:Checking exceptions
+2025-08-31 19:01:23,626:INFO:Preloading libraries
+2025-08-31 19:01:23,626:INFO:Set up data.
+2025-08-31 19:01:23,745:INFO:Set up index.
+2025-08-31 19:01:24,268:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1457494303.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk['cs_preds'] = cs_preds_36[['cs_preds_trans']]
+
+2025-08-31 19:01:24,957:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3361044651.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:25,165:INFO:Initializing predict_model()
+2025-08-31 19:01:25,165:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E625590>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RidgeClassifier(alpha=7.68, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E3EAC00>)
+2025-08-31 19:01:25,165:INFO:Checking exceptions
+2025-08-31 19:01:25,165:INFO:Preloading libraries
+2025-08-31 19:01:25,166:INFO:Set up data.
+2025-08-31 19:01:25,263:INFO:Set up index.
+2025-08-31 19:01:25,644:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3361044651.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk['cs_preds'] = cs_preds_37[['cs_preds_trans']]
+
+2025-08-31 19:01:25,958:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2444389044.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:26,020:INFO:Initializing predict_model()
+2025-08-31 19:01:26,020:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16C6D8690>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RidgeClassifier(alpha=7.68, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61E7A0>)
+2025-08-31 19:01:26,020:INFO:Checking exceptions
+2025-08-31 19:01:26,020:INFO:Preloading libraries
+2025-08-31 19:01:26,020:INFO:Set up data.
+2025-08-31 19:01:26,102:INFO:Set up index.
+2025-08-31 19:01:26,388:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2444389044.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk['cs_preds'] = cs_preds_38[['cs_preds_trans']]
+
+2025-08-31 19:01:26,776:INFO:Initializing load_model()
+2025-08-31 19:01:26,776:INFO:load_model(model_name=../def_cs_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:27,481:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\785466848.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:27,544:INFO:Initializing predict_model()
+2025-08-31 19:01:27,544:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C15A95E110>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61DF80>)
+2025-08-31 19:01:27,544:INFO:Checking exceptions
+2025-08-31 19:01:27,544:INFO:Preloading libraries
+2025-08-31 19:01:27,544:INFO:Set up data.
+2025-08-31 19:01:27,581:INFO:Set up index.
+2025-08-31 19:01:27,923:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\785466848.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def['cs_preds'] = cs_preds_36[['cs_preds_trans']]
+
+2025-08-31 19:01:28,257:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3392911798.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:28,371:INFO:Initializing predict_model()
+2025-08-31 19:01:28,372:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16C659950>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E45FF60>)
+2025-08-31 19:01:28,372:INFO:Checking exceptions
+2025-08-31 19:01:28,373:INFO:Preloading libraries
+2025-08-31 19:01:28,375:INFO:Set up data.
+2025-08-31 19:01:28,442:INFO:Set up index.
+2025-08-31 19:01:28,777:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3392911798.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def['cs_preds'] = cs_preds_37[['cs_preds_trans']]
+
+2025-08-31 19:01:29,093:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3391097665.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:29,252:INFO:Initializing predict_model()
+2025-08-31 19:01:29,252:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E52C710>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E812160>)
+2025-08-31 19:01:29,253:INFO:Checking exceptions
+2025-08-31 19:01:29,253:INFO:Preloading libraries
+2025-08-31 19:01:29,253:INFO:Set up data.
+2025-08-31 19:01:29,342:INFO:Set up index.
+2025-08-31 19:01:29,679:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3391097665.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def['cs_preds'] = cs_preds_38[['cs_preds_trans']]
+
+2025-08-31 19:01:30,005:INFO:Initializing load_model()
+2025-08-31 19:01:30,005:INFO:load_model(model_name=../mid_cs_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:31,426:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\4061020326.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:31,480:INFO:Initializing predict_model()
+2025-08-31 19:01:31,480:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E3CFF50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E3DDDA0>)
+2025-08-31 19:01:31,480:INFO:Checking exceptions
+2025-08-31 19:01:31,480:INFO:Preloading libraries
+2025-08-31 19:01:31,480:INFO:Set up data.
+2025-08-31 19:01:31,523:INFO:Set up index.
+2025-08-31 19:01:31,842:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\4061020326.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid['cs_preds'] = cs_preds_36[['cs_preds_trans']]
+
+2025-08-31 19:01:32,194:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1000335410.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:32,246:INFO:Initializing predict_model()
+2025-08-31 19:01:32,247:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16EADCAD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C693CE0>)
+2025-08-31 19:01:32,247:INFO:Checking exceptions
+2025-08-31 19:01:32,247:INFO:Preloading libraries
+2025-08-31 19:01:32,247:INFO:Set up data.
+2025-08-31 19:01:32,299:INFO:Set up index.
+2025-08-31 19:01:32,741:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1000335410.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid['cs_preds'] = cs_preds_37[['cs_preds_trans']]
+
+2025-08-31 19:01:32,973:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2812807366.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid_cs.drop(columns=['position', 'clean_sheets'], inplace=True)
+
+2025-08-31 19:01:33,043:INFO:Initializing predict_model()
+2025-08-31 19:01:33,043:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E544A50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 ExtraTreesClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E45FF60>)
+2025-08-31 19:01:33,043:INFO:Checking exceptions
+2025-08-31 19:01:33,043:INFO:Preloading libraries
+2025-08-31 19:01:33,043:INFO:Set up data.
+2025-08-31 19:01:33,094:INFO:Set up index.
+2025-08-31 19:01:33,377:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2812807366.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid['cs_preds'] = cs_preds_38[['cs_preds_trans']]
+
+2025-08-31 19:01:33,677:INFO:Initializing load_model()
+2025-08-31 19:01:33,677:INFO:load_model(model_name=../gk_y_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:33,988:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1617082131.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:34,042:INFO:Initializing predict_model()
+2025-08-31 19:01:34,042:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E8A7DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingClassifier(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C700C20>)
+2025-08-31 19:01:34,042:INFO:Checking exceptions
+2025-08-31 19:01:34,042:INFO:Preloading libraries
+2025-08-31 19:01:34,042:INFO:Set up data.
+2025-08-31 19:01:34,098:INFO:Set up index.
+2025-08-31 19:01:34,305:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1617082131.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_gk['y_preds'] = y_preds_36[['y_preds_trans']]
+
+2025-08-31 19:01:34,710:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1183157391.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:34,822:INFO:Initializing predict_model()
+2025-08-31 19:01:34,823:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16C6648D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingClassifier(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E3EB880>)
+2025-08-31 19:01:34,823:INFO:Checking exceptions
+2025-08-31 19:01:34,823:INFO:Preloading libraries
+2025-08-31 19:01:34,824:INFO:Set up data.
+2025-08-31 19:01:34,863:INFO:Set up index.
+2025-08-31 19:01:35,178:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1183157391.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_gk['y_preds'] = y_preds_37[['y_preds_trans']]
+
+2025-08-31 19:01:35,769:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3872014283.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:35,876:INFO:Initializing predict_model()
+2025-08-31 19:01:35,876:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E4E0510>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 GradientBoostingClassifier(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61E480>)
+2025-08-31 19:01:35,876:INFO:Checking exceptions
+2025-08-31 19:01:35,876:INFO:Preloading libraries
+2025-08-31 19:01:35,878:INFO:Set up data.
+2025-08-31 19:01:36,009:INFO:Set up index.
+2025-08-31 19:01:36,245:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3872014283.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_gk['y_preds'] = y_preds_38[['y_preds_trans']]
+
+2025-08-31 19:01:36,562:INFO:Initializing load_model()
+2025-08-31 19:01:36,562:INFO:load_model(model_name=../def_y_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:36,971:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\760469649.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:37,036:INFO:Initializing predict_model()
+2025-08-31 19:01:37,036:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E6B9290>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 LGBMClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16C7022A0>)
+2025-08-31 19:01:37,036:INFO:Checking exceptions
+2025-08-31 19:01:37,036:INFO:Preloading libraries
+2025-08-31 19:01:37,036:INFO:Set up data.
+2025-08-31 19:01:37,078:INFO:Set up index.
+2025-08-31 19:01:37,304:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\760469649.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_def['y_preds'] = y_preds_36[['y_preds_trans']]
+
+2025-08-31 19:01:37,706:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1000463912.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:37,774:INFO:Initializing predict_model()
+2025-08-31 19:01:37,774:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E376F90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 LGBMClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61E660>)
+2025-08-31 19:01:37,774:INFO:Checking exceptions
+2025-08-31 19:01:37,774:INFO:Preloading libraries
+2025-08-31 19:01:37,774:INFO:Set up data.
+2025-08-31 19:01:37,828:INFO:Set up index.
+2025-08-31 19:01:38,075:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1000463912.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_def['y_preds'] = y_preds_37[['y_preds_trans']]
+
+2025-08-31 19:01:38,426:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3796280288.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:38,526:INFO:Initializing predict_model()
+2025-08-31 19:01:38,526:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E604B10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 LGBMClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E813600>)
+2025-08-31 19:01:38,526:INFO:Checking exceptions
+2025-08-31 19:01:38,526:INFO:Preloading libraries
+2025-08-31 19:01:38,527:INFO:Set up data.
+2025-08-31 19:01:38,584:INFO:Set up index.
+2025-08-31 19:01:38,909:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\3796280288.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_def['y_preds'] = y_preds_38[['y_preds_trans']]
+
+2025-08-31 19:01:39,290:INFO:Initializing load_model()
+2025-08-31 19:01:39,290:INFO:load_model(model_name=../mid_y_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:39,884:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\4202327116.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:39,929:INFO:Initializing predict_model()
+2025-08-31 19:01:39,929:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16C7048D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RidgeClassifier(alpha=7.68, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E3DC360>)
+2025-08-31 19:01:39,929:INFO:Checking exceptions
+2025-08-31 19:01:39,929:INFO:Preloading libraries
+2025-08-31 19:01:39,929:INFO:Set up data.
+2025-08-31 19:01:39,986:INFO:Set up index.
+2025-08-31 19:01:40,198:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\4202327116.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_mid['y_preds'] = y_preds_36[['y_preds_trans']]
+
+2025-08-31 19:01:40,577:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\748900506.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:40,680:INFO:Initializing predict_model()
+2025-08-31 19:01:40,680:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E499890>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RidgeClassifier(alpha=7.68, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E8128E0>)
+2025-08-31 19:01:40,680:INFO:Checking exceptions
+2025-08-31 19:01:40,680:INFO:Preloading libraries
+2025-08-31 19:01:40,681:INFO:Set up data.
+2025-08-31 19:01:40,736:INFO:Set up index.
+2025-08-31 19:01:41,077:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\748900506.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_mid['y_preds'] = y_preds_37[['y_preds_trans']]
+
+2025-08-31 19:01:41,437:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\534717350.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:41,523:INFO:Initializing predict_model()
+2025-08-31 19:01:41,523:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16E3E2750>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE(random_state=123)))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RidgeClassifier(alpha=7.68, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61FA60>)
+2025-08-31 19:01:41,523:INFO:Checking exceptions
+2025-08-31 19:01:41,523:INFO:Preloading libraries
+2025-08-31 19:01:41,523:INFO:Set up data.
+2025-08-31 19:01:41,575:INFO:Set up index.
+2025-08-31 19:01:41,800:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\534717350.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_mid['y_preds'] = y_preds_38[['y_preds_trans']]
+
+2025-08-31 19:01:42,095:INFO:Initializing load_model()
+2025-08-31 19:01:42,096:INFO:load_model(model_name=../fwd_y_model, platform=None, authentication=None, verbose=True)
+2025-08-31 19:01:42,788:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1527568222.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_fwd_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:42,864:INFO:Initializing predict_model()
+2025-08-31 19:01:42,865:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16EA21050>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 DecisionTreeClassifier(criterion='entropy', max_depth=6,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=5, min_samples_split=5,
+                                        random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E3E93A0>)
+2025-08-31 19:01:42,865:INFO:Checking exceptions
+2025-08-31 19:01:42,865:INFO:Preloading libraries
+2025-08-31 19:01:42,865:INFO:Set up data.
+2025-08-31 19:01:42,924:INFO:Set up index.
+2025-08-31 19:01:43,226:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1527568222.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_36_fwd['y_preds'] = y_preds_36[['y_preds_trans']]
+
+2025-08-31 19:01:43,572:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1446382472.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_fwd_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:43,648:INFO:Initializing predict_model()
+2025-08-31 19:01:43,648:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16C671210>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 DecisionTreeClassifier(criterion='entropy', max_depth=6,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=5, min_samples_split=5,
+                                        random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16B61F2E0>)
+2025-08-31 19:01:43,648:INFO:Checking exceptions
+2025-08-31 19:01:43,648:INFO:Preloading libraries
+2025-08-31 19:01:43,648:INFO:Set up data.
+2025-08-31 19:01:43,696:INFO:Set up index.
+2025-08-31 19:01:43,902:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\1446382472.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_37_fwd['y_preds'] = y_preds_37[['y_preds_trans']]
+
+2025-08-31 19:01:44,207:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2534606343.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_fwd_y.drop(columns=['position', 'yellow_cards'], inplace=True)
+
+2025-08-31 19:01:44,274:INFO:Initializing predict_model()
+2025-08-31 19:01:44,274:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001C16C65B910>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'ownership_change',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'clean_sheets_1',
+                                             'expected_goals_conceded_1',
+                                             'goals_conceded_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_...
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=14,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 DecisionTreeClassifier(criterion='entropy', max_depth=6,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.002,
+                                        min_samples_leaf=5, min_samples_split=5,
+                                        random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001C16E8132E0>)
+2025-08-31 19:01:44,274:INFO:Checking exceptions
+2025-08-31 19:01:44,275:INFO:Preloading libraries
+2025-08-31 19:01:44,275:INFO:Set up data.
+2025-08-31 19:01:44,326:INFO:Set up index.
+2025-08-31 19:01:44,517:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_17672\2534606343.py:9: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_38_fwd['y_preds'] = y_preds_38[['y_preds_trans']]
+
