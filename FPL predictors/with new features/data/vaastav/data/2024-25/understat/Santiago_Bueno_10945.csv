@@ -1,10 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
-0,0,0,2,Sub,Wolverhampton Wanderers,Brentford,1,1,2025-05-25,26978,2024,730077,0,0,0,0,0,0,0
-0,0,0,3,Sub,Manchester City,Wolverhampton Wanderers,1,0,2025-05-02,26942,2024,723765,0,0,0,0,0,0,0
-0,0,0,1,Sub,Wolverhampton Wanderers,Leicester,3,0,2025-04-26,26941,2024,722662,0,0,0,0,0,0,0
-0,0,0,90,DC,Manchester United,Wolverhampton Wanderers,0,1,2025-04-20,26929,2024,721022,0,0,0,0,0,0.028462331742048264,0.028462331742048264
-0,0,0,41,Sub,Wolverhampton Wanderers,Tottenham,4,2,2025-04-13,26919,2024,719196,0,0,0,0,0,0,0
-0,0,0,1,Sub,Ipswich,Wolverhampton Wanderers,1,2,2025-04-05,26907,2024,716823,0,0,0,0,0,0,0
 0,0,0,5,Sub,Wolverhampton Wanderers,West Ham,1,0,2025-04-01,26895,2024,715984,0,0,0,0,0,0,0
 0,0,0,9,Sub,Southampton,Wolverhampton Wanderers,1,2,2025-03-15,26891,2024,713069,0,0,0,0,0,0,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Everton,1,1,2025-03-08,26881,2024,711707,0,0,0,0,0,0,0

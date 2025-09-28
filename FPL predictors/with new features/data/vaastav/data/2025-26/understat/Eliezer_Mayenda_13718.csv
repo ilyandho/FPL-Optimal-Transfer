@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739259,0,0,0,0,0,0,0
+0,0,0,67,FW,Sunderland,Brentford,2,1,2025-08-30,28801,2025,735077,0,0,0,0,0,0,0
+0,1,0.5299577713012695,67,FW,Burnley,Sunderland,2,0,2025-08-23,28791,2025,733284,0,0,0,0,0.5299577713012695,0,0
+1,2,0.12669655680656433,76,FW,Sunderland,West Ham,3,0,2025-08-16,28781,2025,731793,0.30460771918296814,0,1,1,0.12669655680656433,0.3412873148918152,0

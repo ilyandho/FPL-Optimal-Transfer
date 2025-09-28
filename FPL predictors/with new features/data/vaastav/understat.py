@@ -21,7 +21,7 @@ def get_data(url):
     return scripts
 
 def get_epl_data():
-    scripts = get_data("https://understat.com/league/EPL/2024")
+    scripts = get_data("https://understat.com/league/EPL/2025")
     teamData = {}
     playerData = {}
     for script in scripts:
@@ -85,7 +85,7 @@ class PlayerID:
         self.fpl_id = str(fpl_id)
         self.us_name = us_name
         self.fpl_name = fpl_name
-        
+
 
 def match_ids(understat_dir, data_dir):
     with open(os.path.join(understat_dir, 'understat_player.csv')) as understat_file:
@@ -125,7 +125,7 @@ def main():
     #md, sd, gd = get_player_data(318)
     #match_frame = pd.DataFrame.from_records(md)
     #match_frame.to_csv('auba.csv', index=False)
-    match_ids('data/2024-25/understat', 'data/2024-25')
+    match_ids('data/2025-26/understat', 'data/2025-26')
 
 if __name__ == '__main__':
     main()

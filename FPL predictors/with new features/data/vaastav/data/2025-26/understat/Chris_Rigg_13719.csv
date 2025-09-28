@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.07086944580078125,36,MC,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739253,0.06845347583293915,0,1,0,0.07086944580078125,0.09821019321680069,0.029756717383861542
+0,0,0,1,Sub,Crystal Palace,Sunderland,0,0,2025-09-13,28811,2025,736961,0,0,0,0,0,0,0
+0,0,0,1,Sub,Sunderland,West Ham,3,0,2025-08-16,28781,2025,731798,0,0,0,0,0,0,0

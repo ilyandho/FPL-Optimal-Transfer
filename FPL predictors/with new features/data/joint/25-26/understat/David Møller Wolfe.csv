@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,0,12,Sub,Wolverhampton Wanderers,Everton,2,3,2025-08-30,28800,2025,735052,0.3058866262435913,1,1,0,0,0.3241066038608551,0.0182199608534574
+1,0,0,0,51,DML,Bournemouth,Wolverhampton Wanderers,1,0,2025-08-23,28792,2025,733216,0.0,0,0,0,0,0.0,0.0
+2,0,0,0,77,DML,Wolverhampton Wanderers,Manchester City,0,4,2025-08-16,28783,2025,732739,0.0,0,0,0,0,0.0,0.0

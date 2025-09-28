@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Wolfsburg,FC Cologne,3,3,2025-09-13,30246,2025,736855,0,0,0,0,0,0.07586653530597687,0.07586653530597687
+0,0,0,82,Sub,Burnley,Sunderland,2,0,2025-08-23,28791,2025,733288,0,0,0,0,0,0,0
+0,0,0,53,DC,Sunderland,West Ham,3,0,2025-08-16,28781,2025,731786,0,0,0,0,0,0.30460771918296814,0.30460771918296814

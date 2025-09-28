@@ -1,5 +1,0 @@
-goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
-0,0,0,0,90,GK,Manchester United,Aston Villa,2,0,2025-05-25,26974,2024,730218,0,0,0,0,0,0.0707331374287605,0.0707331374287605
-1,0,0,0,90,GK,Manchester United,West Ham,0,2,2025-05-11,26956,2024,726571,0,0,0,0,0,0.0489384941756725,0.0489384941756725
-2,0,0,0,90,GK,Brentford,Manchester United,4,3,2025-05-04,26947,2024,724645,0,0,0,0,0,0.0556191615760326,0.0556191615760326
-3,0,0,0,90,GK,Newcastle United,Manchester United,4,1,2025-04-13,26918,2024,719534,0,0,0,0,0,0.0,0.0

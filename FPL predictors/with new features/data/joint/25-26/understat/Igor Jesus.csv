@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,1,0.0382646657526493,14,Sub,Burnley,Nottingham Forest,1,1,2025-09-20,28822,2025,738670,0.0747322440147399,0,1,0,0.0382646657526493,0.0382646657526493,0.0
+1,0,0,0.0,16,Sub,Nottingham Forest,West Ham,0,3,2025-08-31,28804,2025,735665,0.0,0,0,0,0.0,0.0,0.0
+2,0,1,0.1078068763017654,1,Sub,Crystal Palace,Nottingham Forest,1,1,2025-08-24,28794,2025,733819,0.0,0,0,0,0.1078068763017654,0.19534532725811,0.0875384509563446
+3,0,0,0.0,7,Sub,Nottingham Forest,Brentford,3,1,2025-08-17,28785,2025,732259,0.0,0,0,0,0.0,0.0,0.0

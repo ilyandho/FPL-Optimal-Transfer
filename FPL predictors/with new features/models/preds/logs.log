@@ -17940,3 +17940,55 @@ Try using .loc[row_indexer,col_indexer] = value instead
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
   data_38_fwd['y_preds'] = y_preds_38[['y_preds_trans']]
 
+2025-09-25 23:56:05,335:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-25 23:56:05,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-25 23:56:05,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-25 23:56:05,408:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-25 23:58:19,408:INFO:Initializing load_model()
+2025-09-25 23:58:19,408:INFO:load_model(model_name=../def_xg_final_model, platform=None, authentication=None, verbose=True)
+2025-09-25 23:58:35,734:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_18244\4091637353.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_6_def_xg.drop(columns=['position', 'xG'], inplace=True)
+
+2025-09-25 23:58:35,787:INFO:Initializing predict_model()
+2025-09-25 23:58:35,787:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001BA37496F90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['whh', 'whd', 'wha',
+                                             'team_h_difficulty',
+                                             'team_a_difficulty',
+                                             'percenatge_net_transfers',
+                                             'ict_index', 'influence',
+                                             'creativity', 'threat',
+                                             'expected_assists_1',
+                                             'expected_goal_involvements_1',
+                                             'expected_goals_1',
+                                             'goals_scored_1', 'ict_index_1',
+                                             'influence_1', 'creativi...
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('remove_multicollinearity',
+                 TransformerWrapper(exclude=[],
+                                    transformer=RemoveMulticollinearity(threshold=0.9))),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMRegressor(),
+                                                                max_features=18,
+                                                                threshold=-inf))),
+                ('actual_estimator',
+                 RandomForestRegressor(n_jobs=-1, random_state=5760))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001BA35312AC0>)
+2025-09-25 23:58:35,788:INFO:Checking exceptions
+2025-09-25 23:58:35,788:INFO:Preloading libraries
+2025-09-25 23:58:35,788:INFO:Set up data.
+2025-09-25 23:58:35,859:INFO:Set up index.
+2025-09-25 23:58:36,097:WARNING:C:\Users\Ilyas\AppData\Local\Temp\ipykernel_18244\4091637353.py:11: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data_6_def['xG_preds'] = predicted
+

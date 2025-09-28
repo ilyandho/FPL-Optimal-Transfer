@@ -1,0 +1,6 @@
+assists,bonus,bps,clean_sheets,clearances_blocks_interceptions,creativity,defensive_contribution,element,expected_assists,expected_goal_involvements,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,modified,opponent_team,own_goals,penalties_missed,penalties_saved,recoveries,red_cards,round,saves,selected,starts,tackles,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,fpl_id,position,team
+0,0,0,19,1,5,3.0,14,59,0.01,0.01,0.0,1.43,2,0,0,2.2,19.4,2025-08-16T11:30:00Z,90,False,15,0,0,0,7,0,1,0,148612,1,2,0,0,0.0,5,0,0,0,50,True,0,59,,
+1,0,0,10,0,4,3.2,9,59,0.04,0.27,0.23,1.11,13,1,0,3.4,14.6,2025-08-23T14:00:00Z,63,False,5,0,0,0,3,0,2,0,206140,1,2,0,1,16.0,1,16927,41577,24650,50,False,1,59,,
+2,0,0,0,0,0,0.0,0,59,0.0,0.0,0.0,0.0,21,0,0,0.0,0.0,2025-08-31T18:00:00Z,0,False,8,0,0,0,0,0,3,0,182975,0,0,3,0,0.0,0,-26626,16382,43008,50,True,0,59,,
+3,0,0,0,0,0,0.0,0,59,0.0,0.0,0.0,0.0,36,0,0,0.0,0.0,2025-09-13T14:00:00Z,0,False,9,0,0,0,0,0,4,0,125947,0,0,0,0,0.0,0,-58802,631,59433,50,False,0,59,,
+4,0,0,0,0,0,0.0,0,59,0.0,0.0,0.0,0.0,48,0,0,0.0,0.0,2025-09-21T13:00:00Z,0,False,17,0,0,0,0,0,5,0,98726,0,0,1,1,0.0,0,-29880,132,30012,49,False,0,59,,

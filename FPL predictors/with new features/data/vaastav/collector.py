@@ -25,7 +25,7 @@ def get_fixtures(directory):
 def get_positions(directory):
     positions = {}
     names = {}
-    pos_dict = {'1': "GK", '2': "DEF", '3': "MID", '4': "FWD"}
+    pos_dict = {'1': "GK", '2': "DEF", '3': "MID", '4': "FWD", '5': "AM"}
     fin = open(directory + "/players_raw.csv", 'r',encoding="utf-8")
     reader = csv.DictReader(fin)
     for row in reader:
@@ -65,7 +65,7 @@ def merge_gw(gw, gw_directory):
     for row in rows:
         writer.writerow(row)
 
-def collect_gw(gw, directory_name, output_dir, root_directory_name="data/2024-25"):
+def collect_gw(gw, directory_name, output_dir, root_directory_name="data/2025-26"):
     rows = []
     fieldnames = []
     fixtures_home, fixtures_away = get_fixtures(root_directory_name)
@@ -115,7 +115,7 @@ def merge_all_gws(num_gws, gw_directory):
 def main():
     #collect_all_gws(sys.argv[1], sys.argv[2], sys.argv[3])
     merge_all_gws(int(sys.argv[1]), sys.argv[2])
-    #collect_gw(26, sys.argv[1], sys.argv[2])
+    #collect_gw(34, sys.argv[1], sys.argv[2])
 
 if __name__ == '__main__':
     main()

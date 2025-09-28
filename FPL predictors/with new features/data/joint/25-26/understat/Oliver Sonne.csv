@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,0.0,1,Sub,Manchester United,Burnley,3,2,2025-08-30,28802,2025,735123,0.0,0,0,0,0.0,0.0,0.0
+1,0,0,0.0,17,Sub,Burnley,Sunderland,2,0,2025-08-23,28791,2025,733272,0.0,0,0,0,0.0,0.0,0.0
+2,0,1,0.016889376565814,75,DR,Tottenham,Burnley,3,0,2025-08-16,28782,2025,731830,0.0269181225448846,0,1,0,0.016889376565814,0.1495741754770279,0.1226560547947883
