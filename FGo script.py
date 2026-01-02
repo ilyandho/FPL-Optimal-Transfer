@@ -8,7 +8,6 @@ import os
 # poniZION1
 # --- 1. CONFIGURATION & AUTOMATED LOGIN ---
 # Enter your credentials here to avoid manual token updates
-
 raw_username = input("Please paste your username: ")
 raw_password = input("Please paste your password: ")
 
