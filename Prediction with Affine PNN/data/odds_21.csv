@@ -1,0 +1,20 @@
+team_h_name,team_a_name,win_prob,draw_prob,lose_prob
+Bournemouth,Tottenham,0.436,0.269,0.295
+Brentford,Sunderland,0.515,0.265,0.221
+Crystal Palace,Aston Villa,0.307,0.283,0.409
+Everton,Wolves,0.531,0.273,0.196
+Fulham,Chelsea,0.282,0.274,0.444
+Man City,Brighton,0.664,0.194,0.143
+Burnley,Man Utd,0.194,0.246,0.56
+Newcastle,Leeds,0.556,0.251,0.193
+Arsenal,Liverpool,0.586,0.23,0.184
+Man Utd,Man City,0.236,0.236,0.527
+Chelsea,Brentford,0.579,0.234,0.187
+Leeds,Fulham,0.417,0.296,0.287
+Liverpool,Burnley,0.761,0.155,0.085
+Sunderland,Crystal Palace,0.328,0.306,0.367
+Tottenham,West Ham,0.555,0.244,0.201
+Nottingham Forest,Arsenal,0.168,0.237,0.596
+Wolves,Newcastle,0.213,0.246,0.541
+Aston Villa,Everton,0.518,0.267,0.215
+Brighton,Bournemouth,0.498,0.246,0.256
