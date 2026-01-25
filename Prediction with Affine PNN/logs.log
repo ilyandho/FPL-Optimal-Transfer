@@ -206264,3 +206264,11 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2026-01-25 10:01:44,079:INFO:Lasso Least Angle Regression Imported successfully
 2026-01-25 10:01:44,096:INFO:Starting cross validation
 2026-01-25 10:01:44,098:INFO:Cross validating with KFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2026-01-25 10:08:42,480:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-01-25 10:08:42,480:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-01-25 10:08:42,480:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-01-25 10:08:42,480:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
