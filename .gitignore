@@ -1,3 +1,4 @@
 /content
 *.zip
 *.pkl
+/Prediction with Affine PNN/data/all_data.csv

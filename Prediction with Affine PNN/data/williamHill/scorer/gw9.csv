@@ -1,0 +1,412 @@
+home_team,away_team,player_name,anytime_odds,two_or_more,hatrick
+Chelsea,Sunderland,Joao Pedro,6/5,22/1,15/4
+Chelsea,Sunderland,Tyrique George,6/4,35/1,4/1
+Chelsea,Sunderland,Alejandro Garnacho,17/10,35/1,4/1
+Chelsea,Sunderland,Marc Guiu,29/20,33/1,4/1
+Chelsea,Sunderland,Jamie Bynoe-Gittens,15/8,45/1,9/2
+Chelsea,Sunderland,Enzo Fernandez,21/10,55/1,5/1
+Chelsea,Sunderland,Estevao,21/10,55/1,11/2
+Chelsea,Sunderland,Facundo Buonanotte,12/5,70/1,6/1
+Chelsea,Sunderland,Pedro Neto,14/5,90/1,13/2
+Chelsea,Sunderland,Andrey Santos,17/5,125/1,8/1
+Chelsea,Sunderland,Moises Caicedo,19/5,150/1,17/2
+Chelsea,Sunderland,Reece James,6/1,250/1,11/1
+Chelsea,Sunderland,Josh Acheampong,13/2,250/1,12/1
+Chelsea,Sunderland,Marc Cucurella,7/1,400/1,14/1
+Chelsea,Sunderland,Trevoh Chalobah,7/1,400/1,14/1
+Chelsea,Sunderland,Romeo Lavia,15/2,400/1,16/1
+Chelsea,Sunderland,Wesley Fofana,9/1,250/1,18/1
+Chelsea,Sunderland,Tosin Adarabioyo,9/1,400/1,20/1
+Chelsea,Sunderland,Jorrel Hato,10/1,400/1,22/1
+Chelsea,Sunderland,Wilson Isidor,29/10,90/1,13/2
+Chelsea,Sunderland,Brian Brobbey,15/4,150/1,17/2
+Chelsea,Sunderland,Eliezer Mayenda,18/5,150/1,17/2
+Chelsea,Sunderland,Chemsdine Talbi,9/2,150/1,9/1
+Chelsea,Sunderland,Chris Rigg,11/2,200/1,10/1
+Chelsea,Sunderland,Bertrand Traore,24/5,200/1,10/1
+Chelsea,Sunderland,Simon Adingra,11/2,250/1,11/1
+Chelsea,Sunderland,Enzo Le Fee,13/2,300/1,12/1
+Chelsea,Sunderland,Daniel Ballard,9/1,300/1,18/1
+Chelsea,Sunderland,Granit Xhaka,9/1,400/1,20/1
+Chelsea,Sunderland,Omar Alderete,12/1,400/1,28/1
+Chelsea,Sunderland,Lutsharel Geertruida,12/1,400/1,28/1
+Chelsea,Sunderland,Trai Hume,16/1,400/1,35/1
+Chelsea,Sunderland,Nordi Mukiele,16/1,400/1,35/1
+Chelsea,Sunderland,Noah Sadiki,16/1,400/1,35/1
+Chelsea,Sunderland,Luke O'Nien,18/1,400/1,45/1
+Chelsea,Sunderland,Daniel Neil,18/1,400/1,45/1
+Chelsea,Sunderland,Arthur Masuaku,18/1,400/1,45/1
+Chelsea,Sunderland,Reinildo Mandava,22/1,400/1,65/1
+Newcastle,Fulham,Nick Woltemade,13/10,25/1,15/4
+Newcastle,Fulham,Anthony Gordon,17/10,35/1,9/2
+Newcastle,Fulham,William Osula,7/4,40/1,24/5
+Newcastle,Fulham,Jacob Murphy,23/10,66/1,5/1
+Newcastle,Fulham,Harvey Barnes,2/1,55/1,5/1
+Newcastle,Fulham,Anthony Elanga,11/4,90/1,13/2
+Newcastle,Fulham,Sandro Tonali,15/4,100/1,8/1
+Newcastle,Fulham,Joelinton,15/4,125/1,8/1
+Newcastle,Fulham,Jacob Ramsey,15/4,150/1,17/2
+Newcastle,Fulham,Lewis Miley,9/2,125/1,9/1
+Newcastle,Fulham,Joe Willock,24/5,200/1,10/1
+Newcastle,Fulham,Bruno Guimaraes,24/5,200/1,10/1
+Newcastle,Fulham,Fabian Schar,15/2,400/1,14/1
+Newcastle,Fulham,Malick Thiaw,15/2,400/1,14/1
+Newcastle,Fulham,Sven Botman,9/1,300/1,18/1
+Newcastle,Fulham,Alex Murphy,10/1,400/1,20/1
+Newcastle,Fulham,Kieran Trippier,10/1,300/1,20/1
+Newcastle,Fulham,Dan Burn,10/1,400/1,20/1
+Newcastle,Fulham,Jamaal Lascelles,11/1,400/1,25/1
+Newcastle,Fulham,Emil Krafth,11/1,400/1,25/1
+Newcastle,Fulham,Harry Wilson,15/4,125/1,8/1
+Newcastle,Fulham,Raul Jimenez,15/4,125/1,8/1
+Newcastle,Fulham,Joshua King,19/5,125/1,8/1
+Newcastle,Fulham,Jonah Kusi-Asare,4/1,150/1,9/1
+Newcastle,Fulham,Samuel Chukwueze,24/5,200/1,10/1
+Newcastle,Fulham,Alex Iwobi,24/5,200/1,10/1
+Newcastle,Fulham,Emile Smith Rowe,5/1,200/1,10/1
+Newcastle,Fulham,Kevin,5/1,250/1,11/1
+Newcastle,Fulham,Adama Traore,13/2,300/1,12/1
+Newcastle,Fulham,Ryan Sessegnon,17/2,300/1,16/1
+Newcastle,Fulham,Tom Cairney,11/1,400/1,22/1
+Newcastle,Fulham,Sasa Lukic,11/1,400/1,22/1
+Newcastle,Fulham,Harrison Reed,12/1,400/1,28/1
+Newcastle,Fulham,Joachim Andersen,12/1,300/1,33/1
+Newcastle,Fulham,Calvin Bassey,14/1,250/1,35/1
+Newcastle,Fulham,Timothy Castagne,16/1,400/1,35/1
+Newcastle,Fulham,Sander Berge,16/1,400/1,35/1
+Newcastle,Fulham,Issa Diop,14/1,250/1,35/1
+Newcastle,Fulham,Jorge Cuenca,16/1,250/1,35/1
+Man Utd,Brighton,Benjamin Sesko,7/5,28/1,4/1
+Man Utd,Brighton,Matheus Cunha,8/5,35/1,24/5
+Man Utd,Brighton,Bryan Mbeumo,15/8,45/1,11/2
+Man Utd,Brighton,Joshua Zirkzee,11/5,60/1,6/1
+Man Utd,Brighton,Bruno Fernandes,23/10,66/1,13/2
+Man Utd,Brighton,Mason Mount,3/1,100/1,8/1
+Man Utd,Brighton,Amad Diallo,7/2,125/1,17/2
+Man Utd,Brighton,Casemiro,9/2,125/1,9/1
+Man Utd,Brighton,Manuel Ugarte,13/2,250/1,12/1
+Man Utd,Brighton,Kobbie Mainoo,5/1,250/1,12/1
+Man Utd,Brighton,Harry Maguire,8/1,300/1,16/1
+Man Utd,Brighton,Patrick Dorgu,15/2,300/1,16/1
+Man Utd,Brighton,Diego Leon,17/2,400/1,20/1
+Man Utd,Brighton,Matthijs de Ligt,9/1,400/1,20/1
+Man Utd,Brighton,Noussair Mazraoui,9/1,250/1,22/1
+Man Utd,Brighton,Diogo Dalot,11/1,400/1,25/1
+Man Utd,Brighton,Ayden Heaven,12/1,400/1,28/1
+Man Utd,Brighton,Leny Yoro,11/1,400/1,28/1
+Man Utd,Brighton,Luke Shaw,11/1,300/1,33/1
+Man Utd,Brighton,Tyler Fredricson,16/1,400/1,45/1
+Man Utd,Brighton,Georginio Rutter,23/10,66/1,6/1
+Man Utd,Brighton,Danny Welbeck,9/4,65/1,6/1
+Man Utd,Brighton,Yankuba Minteh,11/4,80/1,7/1
+Man Utd,Brighton,Stefanos Tzimas,5/2,70/1,7/1
+Man Utd,Brighton,Kaoru Mitoma,11/4,80/1,7/1
+Man Utd,Brighton,Charalampos Kostoulas,11/4,90/1,15/2
+Man Utd,Brighton,Diego Gomez,16/5,125/1,17/2
+Man Utd,Brighton,Brajan Gruda,16/5,125/1,17/2
+Man Utd,Brighton,Tom Watson,10/3,125/1,17/2
+Man Utd,Brighton,Nehemiah Oriola,19/5,150/1,9/1
+Man Utd,Brighton,Yasin Ayari,9/2,150/1,10/1
+Man Utd,Brighton,James Milner,13/2,300/1,14/1
+Man Utd,Brighton,Maxim De Cuyper,8/1,250/1,16/1
+Man Utd,Brighton,Ferdi Kadioglu,17/2,300/1,18/1
+Man Utd,Brighton,Carlos Baleba,8/1,300/1,18/1
+Man Utd,Brighton,Mats Wieffer,10/1,300/1,22/1
+Man Utd,Brighton,Lewis Dunk,11/1,400/1,25/1
+Man Utd,Brighton,Jan Paul van Hecke,11/1,400/1,25/1
+Man Utd,Brighton,Olivier Boscagli,12/1,400/1,28/1
+Man Utd,Brighton,Diego Coppola,12/1,400/1,35/1
+Man Utd,Brighton,Joel Veltman,16/1,400/1,45/1
+Brentford,Liverpool,Igor Thiago,19/10,50/1,5/1
+Brentford,Liverpool,Dango Ouattara,27/10,70/1,13/2
+Brentford,Liverpool,Kevin Schade,5/2,70/1,13/2
+Brentford,Liverpool,Gustavo Nunes,3/1,125/1,8/1
+Brentford,Liverpool,Fabio Carvalho,16/5,125/1,17/2
+Brentford,Liverpool,Reiss Nelson,4/1,150/1,10/1
+Brentford,Liverpool,Mikkel Damsgaard,6/1,250/1,12/1
+Brentford,Liverpool,Yegor Yarmolyuk,15/2,300/1,16/1
+Brentford,Liverpool,Paris Maghoma,15/2,400/1,16/1
+Brentford,Liverpool,Mathias Jensen,17/2,400/1,18/1
+Brentford,Liverpool,Keane Lewis-Potter,9/1,400/1,20/1
+Brentford,Liverpool,Jordan Henderson,10/1,300/1,22/1
+Brentford,Liverpool,Aaron Hickey,10/1,250/1,22/1
+Brentford,Liverpool,Frank Onyeka,10/1,400/1,22/1
+Brentford,Liverpool,Rico Henry,11/1,400/1,25/1
+Brentford,Liverpool,Sepp van den Berg,11/1,400/1,25/1
+Brentford,Liverpool,Ethan Pinnock,11/1,400/1,25/1
+Brentford,Liverpool,Kristoffer Ajer,11/1,300/1,25/1
+Brentford,Liverpool,Vitaly Janelt,11/1,400/1,25/1
+Brentford,Liverpool,Nathan Collins,11/1,400/1,25/1
+Brentford,Liverpool,Michael Kayode,12/1,300/1,33/1
+Brentford,Liverpool,Benjamin Arthur,14/1,400/1,35/1
+Brentford,Liverpool,Hugo Ekitike,11/10,20/1,18/5
+Brentford,Liverpool,Alexander Isak,6/5,25/1,19/5
+Brentford,Liverpool,Mohamed Salah,29/20,28/1,4/1
+Brentford,Liverpool,Cody Gakpo,19/10,45/1,5/1
+Brentford,Liverpool,Florian Wirtz,5/2,70/1,13/2
+Brentford,Liverpool,Federico Chiesa,11/4,90/1,7/1
+Brentford,Liverpool,Rio Ngumoha,29/10,100/1,15/2
+Brentford,Liverpool,Dominik Szoboszlai,7/2,150/1,17/2
+Brentford,Liverpool,Alexis Mac Allister,5/1,150/1,10/1
+Brentford,Liverpool,Curtis Jones,24/5,200/1,10/1
+Brentford,Liverpool,Ryan Gravenberch,24/5,200/1,10/1
+Brentford,Liverpool,Conor Bradley,8/1,300/1,16/1
+Brentford,Liverpool,Virgil van Dijk,9/1,400/1,20/1
+Brentford,Liverpool,Milos Kerkez,10/1,250/1,22/1
+Brentford,Liverpool,Andrew Robertson,10/1,250/1,22/1
+Brentford,Liverpool,Ibrahima Konate,11/1,300/1,25/1
+Brentford,Liverpool,Joseph Gomez,12/1,400/1,28/1
+Brentford,Liverpool,Wataru Endo,12/1,400/1,28/1
+Arsenal,Crystal Palace,Viktor Gyokeres,11/10,20/1,10/3
+Arsenal,Crystal Palace,Bukayo Saka,9/5,40/1,24/5
+Arsenal,Crystal Palace,Eberechi Eze,9/5,40/1,24/5
+Arsenal,Crystal Palace,Gabriel Martinelli,11/5,60/1,5/1
+Arsenal,Crystal Palace,Mikel Merino,9/4,65/1,5/1
+Arsenal,Crystal Palace,Leandro Trossard,11/5,60/1,5/1
+Arsenal,Crystal Palace,Max Dowman,23/10,66/1,6/1
+Arsenal,Crystal Palace,Ethan Nwaneri,16/5,90/1,7/1
+Arsenal,Crystal Palace,Declan Rice,4/1,150/1,9/1
+Arsenal,Crystal Palace,Christian Norgaard,5/1,200/1,10/1
+Arsenal,Crystal Palace,Martin Zubimendi,11/2,250/1,11/1
+Arsenal,Crystal Palace,Jurrien Timber,13/2,300/1,12/1
+Arsenal,Crystal Palace,Riccardo Calafiori,8/1,300/1,14/1
+Arsenal,Crystal Palace,Gabriel Magalhaes,8/1,400/1,16/1
+Arsenal,Crystal Palace,Piero Hincapie,9/1,250/1,18/1
+Arsenal,Crystal Palace,Myles Lewis-Skelly,9/1,250/1,18/1
+Arsenal,Crystal Palace,Cristhian Mosquera,10/1,250/1,20/1
+Arsenal,Crystal Palace,Ben White,10/1,400/1,20/1
+Arsenal,Crystal Palace,William Saliba,12/1,400/1,25/1
+Arsenal,Crystal Palace,Jean-Philippe Mateta,23/10,66/1,6/1
+Arsenal,Crystal Palace,Eddie Nketiah,7/2,100/1,15/2
+Arsenal,Crystal Palace,Christantus Uche,9/2,125/1,9/1
+Arsenal,Crystal Palace,Ismaila Sarr,4/1,150/1,9/1
+Arsenal,Crystal Palace,Yeremi Pino,11/2,250/1,11/1
+Arsenal,Crystal Palace,Justin Devenny,13/2,250/1,11/1
+Arsenal,Crystal Palace,Romain Esse,13/2,300/1,12/1
+Arsenal,Crystal Palace,Daichi Kamada,17/2,300/1,16/1
+Arsenal,Crystal Palace,Jefferson Lerma,10/1,250/1,20/1
+Arsenal,Crystal Palace,Daniel Munoz,9/1,400/1,20/1
+Arsenal,Crystal Palace,Rio Cardines,12/1,400/1,25/1
+Arsenal,Crystal Palace,Will Hughes,11/1,250/1,28/1
+Arsenal,Crystal Palace,Adam Wharton,12/1,400/1,28/1
+Arsenal,Crystal Palace,Marc Guehi,14/1,400/1,28/1
+Arsenal,Crystal Palace,Chadi Riad,16/1,400/1,35/1
+Arsenal,Crystal Palace,Jaydee Canvot,20/1,400/1,45/1
+Arsenal,Crystal Palace,Tyrick Mitchell,20/1,400/1,45/1
+Arsenal,Crystal Palace,Borna Sosa,16/1,250/1,55/1
+Arsenal,Crystal Palace,Chris Richards,20/1,400/1,65/1
+Arsenal,Crystal Palace,Maxence Lacroix,20/1,400/1,65/1
+Arsenal,Crystal Palace,Kaden Rodney,25/1,400/1,70/1
+Arsenal,Crystal Palace,Nathaniel Clyne,25/1,400/1,70/1
+Aston Villa,Man City,Ollie Watkins,15/8,40/1,24/5
+Aston Villa,Man City,Donyell Malen,17/5,125/1,8/1
+Aston Villa,Man City,Morgan Rogers,18/5,150/1,17/2
+Aston Villa,Man City,Evann Guessand,19/5,125/1,17/2
+Aston Villa,Man City,Emiliano Buendia,4/1,200/1,9/1
+Aston Villa,Man City,Harvey Elliott,4/1,150/1,9/1
+Aston Villa,Man City,Bradley Burrowes,5/1,200/1,11/1
+Aston Villa,Man City,Jadon Sancho,5/1,200/1,11/1
+Aston Villa,Man City,Ross Barkley,5/1,250/1,11/1
+Aston Villa,Man City,John McGinn,11/2,250/1,12/1
+Aston Villa,Man City,Amadou Onana,13/2,250/1,12/1
+Aston Villa,Man City,Matthew Cash,10/1,400/1,22/1
+Aston Villa,Man City,Boubacar Kamara,12/1,400/1,25/1
+Aston Villa,Man City,Ian Maatsen,11/1,400/1,25/1
+Aston Villa,Man City,Lucas Digne,12/1,300/1,25/1
+Aston Villa,Man City,Tyrone Mings,14/1,400/1,35/1
+Aston Villa,Man City,Ezri Konsa,16/1,400/1,35/1
+Aston Villa,Man City,Pau Torres,16/1,400/1,35/1
+Aston Villa,Man City,Lamare Bogarde,14/1,400/1,35/1
+Aston Villa,Man City,Victor Lindelof,18/1,400/1,45/1
+Aston Villa,Man City,Erling Haaland,4/6,12/1,12/5
+Aston Villa,Man City,Divine Mukasa,21/10,60/1,11/2
+Aston Villa,Man City,Tijjani Reijnders,11/4,80/1,6/1
+Aston Villa,Man City,Omar Marmoush,5/2,80/1,13/2
+Aston Villa,Man City,Phil Foden,11/4,90/1,13/2
+Aston Villa,Man City,Oscar Bobb,16/5,125/1,15/2
+Aston Villa,Man City,Rayan Cherki,3/1,100/1,15/2
+Aston Villa,Man City,Jeremy Doku,15/4,100/1,8/1
+Aston Villa,Man City,Savinho,19/5,125/1,17/2
+Aston Villa,Man City,Bernardo Silva,11/2,200/1,11/1
+Aston Villa,Man City,Rodri,13/2,300/1,12/1
+Aston Villa,Man City,Mateo Kovacic,6/1,250/1,12/1
+Aston Villa,Man City,Nico Gonzalez,15/2,400/1,14/1
+Aston Villa,Man City,Nico O'Reilly,17/2,400/1,18/1
+Aston Villa,Man City,Josko Gvardiol,10/1,400/1,20/1
+Aston Villa,Man City,Rayan Ait Nouri,9/1,400/1,20/1
+Aston Villa,Man City,Abdukodir Khusanov,10/1,250/1,22/1
+Aston Villa,Man City,Rico Lewis,10/1,400/1,22/1
+Aston Villa,Man City,John Stones,10/1,300/1,22/1
+Aston Villa,Man City,Matheus Nunes,11/1,300/1,25/1
+Aston Villa,Man City,Nathan Ake,11/1,400/1,25/1
+Aston Villa,Man City,Ruben Dias,12/1,400/1,28/1
+Aston Villa,Man City,Ollie Watkins,15/8,40/1,24/5
+Aston Villa,Man City,Donyell Malen,17/5,125/1,8/1
+Aston Villa,Man City,Morgan Rogers,18/5,150/1,17/2
+Aston Villa,Man City,Evann Guessand,19/5,125/1,17/2
+Aston Villa,Man City,Emiliano Buendia,4/1,200/1,9/1
+Aston Villa,Man City,Harvey Elliott,4/1,150/1,9/1
+Aston Villa,Man City,Bradley Burrowes,5/1,200/1,11/1
+Aston Villa,Man City,Jadon Sancho,5/1,200/1,11/1
+Aston Villa,Man City,Ross Barkley,5/1,250/1,11/1
+Aston Villa,Man City,John McGinn,11/2,250/1,12/1
+Aston Villa,Man City,Amadou Onana,13/2,250/1,12/1
+Aston Villa,Man City,Matthew Cash,10/1,400/1,22/1
+Aston Villa,Man City,Boubacar Kamara,12/1,400/1,25/1
+Aston Villa,Man City,Ian Maatsen,11/1,400/1,25/1
+Aston Villa,Man City,Lucas Digne,12/1,300/1,25/1
+Aston Villa,Man City,Tyrone Mings,14/1,400/1,35/1
+Aston Villa,Man City,Ezri Konsa,16/1,400/1,35/1
+Aston Villa,Man City,Pau Torres,16/1,400/1,35/1
+Aston Villa,Man City,Lamare Bogarde,14/1,400/1,35/1
+Aston Villa,Man City,Victor Lindelof,18/1,400/1,45/1
+Aston Villa,Man City,Erling Haaland,4/6,12/1,12/5
+Aston Villa,Man City,Divine Mukasa,21/10,60/1,11/2
+Aston Villa,Man City,Tijjani Reijnders,11/4,80/1,6/1
+Aston Villa,Man City,Omar Marmoush,5/2,80/1,13/2
+Aston Villa,Man City,Phil Foden,11/4,90/1,13/2
+Aston Villa,Man City,Oscar Bobb,16/5,125/1,15/2
+Aston Villa,Man City,Rayan Cherki,3/1,100/1,15/2
+Aston Villa,Man City,Jeremy Doku,15/4,100/1,8/1
+Aston Villa,Man City,Savinho,19/5,125/1,17/2
+Aston Villa,Man City,Bernardo Silva,11/2,200/1,11/1
+Aston Villa,Man City,Rodri,13/2,300/1,12/1
+Aston Villa,Man City,Mateo Kovacic,6/1,250/1,12/1
+Aston Villa,Man City,Nico Gonzalez,15/2,400/1,14/1
+Aston Villa,Man City,Nico O'Reilly,17/2,400/1,18/1
+Aston Villa,Man City,Josko Gvardiol,10/1,400/1,20/1
+Aston Villa,Man City,Rayan Ait Nouri,9/1,400/1,20/1
+Aston Villa,Man City,Abdukodir Khusanov,10/1,250/1,22/1
+Aston Villa,Man City,Rico Lewis,10/1,400/1,22/1
+Aston Villa,Man City,John Stones,10/1,300/1,22/1
+Aston Villa,Man City,Matheus Nunes,11/1,300/1,25/1
+Aston Villa,Man City,Nathan Ake,11/1,400/1,25/1
+Aston Villa,Man City,Ruben Dias,12/1,400/1,28/1
+Bournemouth,Nottingham Forest,Antoine Semenyo,29/20,33/1,19/5
+Bournemouth,Nottingham Forest,Eli Junior Kroupi,13/8,40/1,4/1
+Bournemouth,Nottingham Forest,Evanilson,17/10,35/1,9/2
+Bournemouth,Nottingham Forest,Justin Kluivert,23/10,66/1,5/1
+Bournemouth,Nottingham Forest,Marcus Tavernier,16/5,100/1,7/1
+Bournemouth,Nottingham Forest,Amine Adli,3/1,100/1,7/1
+Bournemouth,Nottingham Forest,Ben Doak,10/3,125/1,15/2
+Bournemouth,Nottingham Forest,Ryan Christie,9/2,125/1,9/1
+Bournemouth,Nottingham Forest,Alex Scott,5/1,200/1,10/1
+Bournemouth,Nottingham Forest,Tyler Adams,17/2,400/1,16/1
+Bournemouth,Nottingham Forest,Alex Jimenez,11/1,400/1,22/1
+Bournemouth,Nottingham Forest,Adrien Truffert,11/1,400/1,25/1
+Bournemouth,Nottingham Forest,Lewis Cook,12/1,400/1,25/1
+Bournemouth,Nottingham Forest,Julio Soler,11/1,400/1,25/1
+Bournemouth,Nottingham Forest,Marcos Senesi,12/1,400/1,25/1
+Bournemouth,Nottingham Forest,Veljko Milosavljevic,12/1,400/1,25/1
+Bournemouth,Nottingham Forest,James Hill,11/1,400/1,25/1
+Bournemouth,Nottingham Forest,Bafode Diakite,12/1,400/1,28/1
+Bournemouth,Nottingham Forest,Julian Araujo,12/1,400/1,28/1
+Bournemouth,Nottingham Forest,Adam Smith,14/1,400/1,35/1
+Bournemouth,Nottingham Forest,Igor Jesus,11/5,60/1,24/5
+Bournemouth,Nottingham Forest,Chris Wood,11/5,60/1,24/5
+Bournemouth,Nottingham Forest,Arnaud Kalimuendo,5/2,80/1,6/1
+Bournemouth,Nottingham Forest,Taiwo Awoniyi,14/5,90/1,13/2
+Bournemouth,Nottingham Forest,Callum Hudson-Odoi,19/5,125/1,8/1
+Bournemouth,Nottingham Forest,Morgan Gibbs-White,7/2,150/1,8/1
+Bournemouth,Nottingham Forest,Dilane Bakwa,24/5,200/1,10/1
+Bournemouth,Nottingham Forest,Dan Ndoye,24/5,200/1,10/1
+Bournemouth,Nottingham Forest,James McAtee,24/5,200/1,10/1
+Bournemouth,Nottingham Forest,Omari Hutchinson,5/1,200/1,10/1
+Bournemouth,Nottingham Forest,Douglas Luiz,6/1,250/1,11/1
+Bournemouth,Nottingham Forest,Ryan Yates,15/2,400/1,14/1
+Bournemouth,Nottingham Forest,Elliot Anderson,17/2,400/1,16/1
+Bournemouth,Nottingham Forest,Ibrahim Sangare,9/1,300/1,18/1
+Bournemouth,Nottingham Forest,Neco Williams,10/1,400/1,20/1
+Bournemouth,Nottingham Forest,Nicolas Dominguez,10/1,400/1,20/1
+Bournemouth,Nottingham Forest,Nikola Milenkovic,12/1,400/1,25/1
+Bournemouth,Nottingham Forest,Oleksandr Zinchenko,12/1,400/1,28/1
+Bournemouth,Nottingham Forest,Murillo,14/1,300/1,33/1
+Bournemouth,Nottingham Forest,Nicolo Savona,14/1,400/1,35/1
+Bournemouth,Nottingham Forest,Morato,18/1,300/1,40/1
+Bournemouth,Nottingham Forest,Jair Cunha,18/1,400/1,45/1
+Bournemouth,Nottingham Forest,Willy Boly,18/1,400/1,45/1
+Bournemouth,Nottingham Forest,Zach Abbott,22/1,400/1,65/1
+Wolves,Burnley,Jorgen Strand Larsen,8/5,35/1,15/4
+Wolves,Burnley,Tolu Arokodare,2/1,50/1,24/5
+Wolves,Burnley,Jhon Arias,14/5,90/1,11/2
+Wolves,Burnley,Hwang Hee-chan,13/5,80/1,11/2
+Wolves,Burnley,Marshall Munetsi,10/3,125/1,13/2
+Wolves,Burnley,Fernando Lopez,18/5,150/1,15/2
+Wolves,Burnley,Rodrigo Gomes,7/2,150/1,15/2
+Wolves,Burnley,Jean-Ricner Bellegarde,24/5,200/1,9/1
+Wolves,Burnley,Ladislav Krejci,11/2,250/1,10/1
+Wolves,Burnley,Joao Gomes,15/2,300/1,12/1
+Wolves,Burnley,Matt Doherty,17/2,250/1,14/1
+Wolves,Burnley,Emmanuel Agbadou,8/1,400/1,14/1
+Wolves,Burnley,Yerson Mosquera,11/1,400/1,20/1
+Wolves,Burnley,Hugo Bueno,11/1,300/1,20/1
+Wolves,Burnley,Ki-Jana Hoever,12/1,400/1,22/1
+Wolves,Burnley,Santiago Bueno,11/1,300/1,22/1
+Wolves,Burnley,Andre Trindade,12/1,300/1,22/1
+Wolves,Burnley,David Moller Wolfe,12/1,400/1,25/1
+Wolves,Burnley,Toti,12/1,400/1,25/1
+Wolves,Burnley,Jackson Tchatchoua,12/1,400/1,25/1
+Wolves,Burnley,Zian Flemming,14/5,90/1,11/2
+Wolves,Burnley,Lyle Foster,14/5,80/1,11/2
+Wolves,Burnley,Jaidon Anthony,13/5,80/1,11/2
+Wolves,Burnley,Armando Broja,16/5,125/1,13/2
+Wolves,Burnley,Ashley Barnes,10/3,125/1,7/1
+Wolves,Burnley,Loum Tchaouna,4/1,125/1,8/1
+Wolves,Burnley,Jacob Bruun Larsen,24/5,200/1,9/1
+Wolves,Burnley,Marcus Edwards,5/1,200/1,10/1
+Wolves,Burnley,Lesley Ugochukwu,15/2,250/1,11/1
+Wolves,Burnley,Josh Laurent,7/1,250/1,11/1
+Wolves,Burnley,Hannibal Mejbri,8/1,400/1,14/1
+Wolves,Burnley,Florentino Luis,11/1,300/1,20/1
+Wolves,Burnley,Josh Cullen,11/1,400/1,20/1
+Wolves,Burnley,Quilindschy Hartman,12/1,400/1,25/1
+Wolves,Burnley,Maxime Esteve,12/1,400/1,25/1
+Wolves,Burnley,Oliver Sonne,12/1,400/1,25/1
+Wolves,Burnley,Hjalmar Ekdal,14/1,400/1,28/1
+Wolves,Burnley,Kyle Walker,18/1,400/1,35/1
+Wolves,Burnley,Joe Worrall,16/1,400/1,35/1
+Wolves,Burnley,Bashir Humphreys,16/1,400/1,35/1
+Wolves,Burnley,Lucas Pires,20/1,400/1,45/1
+Wolves,Burnley,Axel Tuanzebe,20/1,400/1,45/1
+Everton,Tottenham,Beto,9/5,40/1,9/2
+Everton,Tottenham,Thierno Barry,21/10,60/1,5/1
+Everton,Tottenham,Iliman Ndiaye,12/5,66/1,11/2
+Everton,Tottenham,Jack Grealish,29/10,100/1,13/2
+Everton,Tottenham,Carlos Alcaraz,10/3,100/1,7/1
+Everton,Tottenham,Kiernan Dewsbury-Hall,15/4,125/1,8/1
+Everton,Tottenham,Tyler Dibling,19/5,150/1,17/2
+Everton,Tottenham,Dwight McNeil,19/5,150/1,17/2
+Everton,Tottenham,Merlin Rohl,11/2,250/1,10/1
+Everton,Tottenham,James Garner,11/2,250/1,11/1
+Everton,Tottenham,Idrissa 'Gana' Gueye,13/2,250/1,11/1
+Everton,Tottenham,Tim Iroegbunam,15/2,400/1,14/1
+Everton,Tottenham,Michael Keane,9/1,400/1,18/1
+Everton,Tottenham,Jake O'Brien,10/1,400/1,20/1
+Everton,Tottenham,James Tarkowski,12/1,400/1,25/1
+Everton,Tottenham,Vitaliy Mykolenko,12/1,400/1,28/1
+Everton,Tottenham,Seamus Coleman,12/1,400/1,28/1
+Everton,Tottenham,Nathan Patterson,12/1,400/1,28/1
+Everton,Tottenham,Adam Aznou,12/1,400/1,28/1
+Everton,Tottenham,Richarlison,11/5,60/1,24/5
+Everton,Tottenham,Randal Kolo Muani,9/4,65/1,24/5
+Everton,Tottenham,Mathys Tel,12/5,70/1,6/1
+Everton,Tottenham,Xavi Simons,11/4,80/1,6/1
+Everton,Tottenham,Dane Scarlett,11/4,90/1,13/2
+Everton,Tottenham,Mohammed Kudus,14/5,90/1,13/2
+Everton,Tottenham,Brennan Johnson,29/10,100/1,7/1
+Everton,Tottenham,Wilson Odobert,19/5,150/1,17/2
+Everton,Tottenham,Joao Palhinha,9/2,150/1,9/1
+Everton,Tottenham,Pape Matar Sarr,5/1,250/1,11/1
+Everton,Tottenham,Callum Olusesi,6/1,300/1,12/1
+Everton,Tottenham,Lucas Bergvall,13/2,300/1,12/1
+Everton,Tottenham,Rodrigo Bentancur,17/2,400/1,18/1
+Everton,Tottenham,Micky van de Ven,11/1,300/1,22/1
+Everton,Tottenham,Kevin Danso,11/1,300/1,22/1
+Everton,Tottenham,Cristian Romero,11/1,300/1,22/1
+Everton,Tottenham,Junai Byfield,11/1,400/1,22/1
+Everton,Tottenham,Archie Gray,12/1,400/1,25/1
+Everton,Tottenham,Pedro Porro,11/1,400/1,25/1
+Everton,Tottenham,Destiny Udogie,12/1,250/1,28/1
+Everton,Tottenham,Djed Spence,12/1,300/1,33/1
+Everton,Tottenham,Ben Davies,16/1,400/1,35/1
+Everton,Tottenham,Malachi Hardy,16/1,400/1,35/1
