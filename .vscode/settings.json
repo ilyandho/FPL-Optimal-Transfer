@@ -1,5 +1,6 @@
 {
   "cSpell.words": ["importances", "understat"],
   "cSpell.ignoreWords": ["subfolders"],
-  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+  "CodeGPT.apiKey": "CodeGPT Plus Beta",
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
