@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,61,FW,Arsenal,Leeds,5,0,2025-08-23,28793,2025,733410,0,0,0,0,0,0.024242989718914032,0.024242989718914032
+0,3,0.5239394903182983,78,FW,Leeds,Everton,1,0,2025-08-18,28787,2025,732652,0,0,0,0,0.5239394903182983,0.5561109185218811,0.03217145800590515
