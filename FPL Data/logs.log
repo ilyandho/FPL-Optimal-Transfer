@@ -28394,3 +28394,14 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 2026-08-17 08:22:38,506:INFO:HuberRegressor(alpha=0.5156340919429544, epsilon=1.4895810456538316,
                fit_intercept=False)
 2026-08-17 08:22:38,506:INFO:tune_model() successfully completed......................................
+2026-08-23 17:33:05,566:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-23 17:33:05,566:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-23 17:33:05,566:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-23 17:33:05,566:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-23 18:20:14,299:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/preprocessing/_function_transformer.py:394: RuntimeWarning: divide by zero encountered in log1p
+  return func(X, **(kw_args if kw_args else {}))
+
