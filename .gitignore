@@ -1,5 +1,7 @@
 /content
 *.zip
 *.pkl
-/Prediction with Affine PNN/data/all_data.csvFPL Data/rolled_data_24_25.csv
+/Prediction with Affine PNN/data/all_data.csv
+FPL Data/rolled_data_24_25.csv
 FPL Data/models_by_round_gk
+FPL Data/rolled_data_24_25.csv
