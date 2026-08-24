@@ -1,0 +1,1262 @@
+2026-08-24 20:10:32,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:10:32,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:10:32,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:10:32,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:49:29,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:49:29,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:49:29,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:49:29,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:50:59,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:50:59,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:50:59,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:50:59,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 20:59:07,268:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 20:59:07,269:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 20:59:07,269:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 20:59:09,775:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 20:59:09,776:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 20:59:09,776:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 20:59:33,486:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 20:59:33,486:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 20:59:33,486:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 20:59:36,713:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 20:59:36,713:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 20:59:36,713:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:00:00,755:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:00:00,755:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:00:00,756:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:00:04,869:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:00:04,869:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:00:04,869:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:00:11,638:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:00:11,638:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:00:11,638:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:00:19,453:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:00:19,454:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:00:19,454:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:00:48,600:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:00:48,600:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:00:48,600:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:00:52,890:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:00:52,890:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:00:52,890:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:01:01,266:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:01:01,266:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:01:01,266:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:01:05,809:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:01:05,809:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:01:05,809:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:01:49,616:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:01:49,616:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:01:49,616:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:01:53,641:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:01:53,641:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:01:53,641:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:01:58,581:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:01:58,581:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:01:58,581:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:02:10,269:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:02:10,270:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:02:10,270:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:03:08,866:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:03:08,866:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:03:08,866:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:03:11,772:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:03:11,772:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:03:11,773:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:03:17,791:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:03:17,792:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:03:17,792:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:03:23,652:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:03:23,652:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:03:23,652:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:04:32,085:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:04:32,085:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:04:32,086:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:04:35,420:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:04:35,420:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:04:35,420:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:04:39,919:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:04:39,920:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:04:39,920:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:04:48,199:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:04:48,199:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:04:48,199:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:05:55,361:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:05:55,361:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:05:55,362:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:06:00,392:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:06:00,392:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:06:00,392:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:06:29,246:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:06:29,246:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:06:29,246:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:06:33,974:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:06:33,974:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:06:33,975:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:06:40,079:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:06:40,079:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:06:40,080:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:06:46,297:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:06:46,297:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:06:46,297:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:07:08,996:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:07:08,997:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:07:08,997:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:07:12,413:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:07:12,414:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:07:12,414:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:07:22,419:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:07:22,419:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:07:22,420:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:07:35,904:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:07:35,904:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:07:35,904:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:08:22,792:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:08:22,792:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:08:22,792:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:08:29,101:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:08:29,102:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:08:29,102:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:08:35,591:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:08:35,591:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:08:35,591:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:08:43,397:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:08:43,397:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:08:43,397:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:09:21,590:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 21:09:21,590:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 21:09:21,590:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 21:09:21,590:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 21:09:39,776:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:09:39,776:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:09:39,776:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:09:43,515:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:09:43,515:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:09:43,515:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:09:51,301:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:09:51,301:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:09:51,301:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:09:55,986:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:09:55,986:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:09:55,986:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:11:15,650:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:11:15,650:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:11:15,650:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:11:26,122:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:11:26,123:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:11:26,123:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:11:39,710:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:11:39,710:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:11:39,710:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:12:13,959:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:12:13,960:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:12:13,960:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:14:48,320:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:14:48,320:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:14:48,320:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:15:13,533:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:15:13,533:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:15:13,533:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:15:43,147:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:15:43,147:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:15:43,148:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:16:14,029:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:16:14,029:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:16:14,030:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:16:35,236:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:16:35,236:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:16:35,236:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:19:48,988:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:19:48,988:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:19:48,989:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:29:43,965:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:29:43,965:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:29:43,965:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:32:43,962:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:32:43,962:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:32:43,963:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:36:14,578:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:36:14,578:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:36:14,578:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:40:01,122:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:40:01,122:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:40:01,122:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:41:35,710:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:41:35,711:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:41:35,711:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:41:39,614:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:41:39,614:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:41:39,615:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:44:14,714:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:44:14,714:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:44:14,714:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:47:12,992:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:47:12,992:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:47:12,993:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:47:54,953:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:47:54,955:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:47:54,956:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:51:14,802:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:51:14,802:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:51:14,809:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:54:35,412:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:54:35,412:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:54:35,413:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 21:59:42,764:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 21:59:42,764:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 21:59:42,768:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:12:36,152:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:12:36,153:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:12:36,153:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:15:48,935:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:15:48,935:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:15:48,935:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:18:43,771:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:18:43,771:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:18:43,772:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:20:32,735:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:20:32,735:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:20:32,735:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:20:38,088:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:20:38,089:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:20:38,094:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:22:58,511:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:22:58,512:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:22:58,512:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:25:49,832:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:25:49,834:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:25:49,834:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:26:19,640:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:26:19,640:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:26:19,641:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:28:18,497:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:28:18,497:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:28:18,497:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:28:18,497:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:35:48,695:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:35:48,695:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:35:48,695:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:39:45,137:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:39:45,138:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:39:45,138:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:39:45,138:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 22:41:06,723:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:41:06,723:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:41:06,724:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:43:07,986:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:43:07,986:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:43:07,987:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:45:24,342:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:45:24,342:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:45:24,342:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:56:13,718:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:56:13,718:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:56:13,718:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 22:57:02,446:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 22:57:02,447:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 22:57:02,447:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:00:28,788:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:00:28,788:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:00:28,788:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:03:29,151:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:03:29,154:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:03:29,155:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:06:38,488:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:06:38,493:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:06:38,494:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:11:49,282:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:11:49,282:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:11:49,283:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:12:19,758:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:12:19,758:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:12:19,758:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:12:26,352:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:12:26,352:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:12:26,352:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:12:30,886:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:12:30,886:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:12:30,886:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:12:41,633:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:12:41,633:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:12:41,633:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:12:57,999:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 23:12:57,999:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 23:12:57,999:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 23:12:57,999:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-08-24 23:13:35,510:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:13:35,510:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:13:35,510:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:13:42,932:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:13:42,932:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:13:42,932:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:13:50,795:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:13:50,795:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:13:50,795:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:14:07,302:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:14:07,302:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:14:07,302:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:15:02,888:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:15:02,888:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:15:02,888:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:15:05,353:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:15:05,353:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:15:05,353:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:15:10,001:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:15:10,001:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:15:10,002:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:15:14,363:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:15:14,363:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:15:14,364:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:16:29,349:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:16:29,349:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:16:29,350:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:16:32,676:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:16:32,676:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:16:32,676:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:16:36,837:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:16:36,838:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:16:36,838:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:16:43,280:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:16:43,280:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:16:43,281:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:18:13,459:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:18:13,459:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:18:13,460:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:18:18,390:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:18:18,390:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:18:18,390:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:18:23,572:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:18:23,572:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:18:23,572:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:18:32,228:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:18:32,228:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:18:32,228:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:20:21,532:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:20:21,532:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:20:21,532:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:20:25,230:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:20:25,231:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:20:25,231:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:20:31,962:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:20:31,962:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:20:31,962:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:20:37,138:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:20:37,138:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:20:37,138:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:22:28,115:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:22:28,115:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:22:28,115:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:22:31,357:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:22:31,357:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:22:31,357:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:22:35,403:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:22:35,403:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:22:35,403:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:22:39,801:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:22:39,801:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:22:39,801:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:24:51,469:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:24:51,469:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:24:51,470:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:24:57,574:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:24:57,574:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:24:57,574:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:25:01,570:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:25:01,570:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:25:01,571:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:25:06,161:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:25:06,162:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:25:06,162:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:27:44,906:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:27:44,906:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:27:44,907:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:27:54,619:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:27:54,619:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:27:54,620:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:27:57,778:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:27:57,778:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:27:57,780:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:28:04,230:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:28:04,230:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:28:04,230:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:30:56,514:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:30:56,514:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:30:56,514:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:31:06,713:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:31:06,713:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:31:06,713:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:31:20,788:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:31:20,788:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:31:20,788:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:31:26,878:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:31:26,878:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:31:26,878:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:35:09,562:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:35:09,562:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:35:09,562:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:35:16,939:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:35:16,939:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:35:16,939:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:35:23,058:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:35:23,059:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:35:23,059:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:35:36,782:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:35:36,782:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:35:36,782:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:40:11,535:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:40:11,535:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:40:11,535:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:40:15,137:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:40:15,137:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:40:15,138:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:40:20,346:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:40:20,346:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:40:20,346:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:40:25,407:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:40:25,407:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:40:25,408:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:45:13,725:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:45:13,725:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:45:13,725:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:45:16,947:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:45:16,947:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:45:16,947:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:45:25,509:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:45:25,509:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:45:25,509:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
+2026-08-24 23:45:33,181:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1137: RuntimeWarning: invalid value encountered in divide
+  updated_mean = (last_sum + new_sum) / updated_sample_count
+
+2026-08-24 23:45:33,181:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1142: RuntimeWarning: invalid value encountered in divide
+  T = new_sum / new_sample_count
+
+2026-08-24 23:45:33,181:WARNING:/home/ilyandho/micromamba/envs/pycaret/lib/python3.10/site-packages/sklearn/utils/extmath.py:1162: RuntimeWarning: invalid value encountered in divide
+  new_unnormalized_variance -= correction**2 / new_sample_count
+
