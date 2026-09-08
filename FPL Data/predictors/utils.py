@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -21,7 +22,7 @@ from sklearn.linear_model import Ridge, ElasticNet
 # Optional libraries — only used if installed
 try:
     from xgboost import XGBRegressor
-    HAS_XGB = True
+    HAS_XGB = False#True
 except ImportError:
     HAS_XGB = False
 
@@ -125,7 +126,6 @@ def select_features_by_correlation(df, candidate_feats, target_col='xP', redunda
         print(X_feats)
 
     return X_feats
-
 
 # --------------------------------------------------------------------------
 # 1. Chronological split
@@ -266,11 +266,6 @@ Usage:
     )
 """
 
-import numpy as np
-import pandas as pd
-from sklearn.compose import TransformedTargetRegressor
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-
 # --------------------------------------------------------------------------
 # 4. Search spaces, keyed by the same names used in build_models()
 # --------------------------------------------------------------------------
@@ -391,6 +386,7 @@ def tune_best_model(
         n_jobs=-1,
         verbose=1 if verbose else 0,
     )
+
     search.fit(X_pool, y_pool_shifted)
 
     if verbose:
@@ -404,6 +400,7 @@ def tune_best_model(
     X_train_final, X_holdout, y_train_final, y_holdout = chronological_split(
         df, final_test_gw, target_col, drop_cols
     )
+
     c_final = abs(y_train_final.min()) + 1.0
     best_estimator = search.best_estimator_
     best_estimator.fit(X_train_final, y_train_final + c_final)
