@@ -81,14 +81,20 @@ def select_features_by_correlation(df, candidate_feats, target_col='xP', redunda
         deduped.append(f)
     # candidate_feats = deduped
 
-    df_valid = df[candidate_feats].dropna()
+    # target_col isn't necessarily one of candidate_feats (e.g. ranking candidate
+    # features against 'total_points' as the training target, which is excluded from
+    # the candidate list itself to avoid it being selected as its own predictor) -- so
+    # it's pulled in separately here rather than assumed to already be a column of
+    # df[candidate_feats].
+    cols_needed = list(dict.fromkeys(candidate_feats + [target_col]))
+    df_valid = df[cols_needed].dropna()
 
     if len(df_valid) < len(df):
         dropped = len(df) - len(df_valid)
         if verbose:
             print(f"  dropped {dropped} rows with NaNs before computing correlations")
 
-    target_corr = df_valid[candidate_feats].corr(method="pearson")["xP"].abs()#.sort_values(ascending=False).abs() #.corrwith(df_valid[target_col]).abs()
+    target_corr = df_valid[candidate_feats].corrwith(df_valid[target_col]).abs()
     ranked = target_corr.sort_values(ascending=False)
 
     feat_corr = df_valid[candidate_feats].corr().abs()
@@ -130,7 +136,7 @@ def select_features_by_correlation(df, candidate_feats, target_col='xP', redunda
 # --------------------------------------------------------------------------
 # 1. Chronological split
 # --------------------------------------------------------------------------
-def chronological_split(df, gw, target_col="xP", drop_cols=("xP", "round", "element")):
+def chronological_split(df, gw, target_col="points", drop_cols=("points", "round", "element")):
     """Train on rounds < gw, test on round == gw. No random shuffling —
     this mirrors how the model will actually be used (predict an unseen
     upcoming gameweek from past ones)."""
@@ -179,7 +185,7 @@ def build_models(random_state=42):
 # --------------------------------------------------------------------------
 # 3. Evaluate all models on one chronological split
 # --------------------------------------------------------------------------
-def evaluate_all(df, gw, target_col="xP", drop_cols=("xP", "round", "element"),
+def evaluate_all(df, gw, target_col="points", drop_cols=("points", "round", "element"),
                   use_log_transform=True, verbose=True):
     X_train, X_test, y_train, y_test = chronological_split(df, gw, target_col, drop_cols)
 
@@ -343,8 +349,8 @@ def tune_best_model(
     summary_df,
     val_gws,
     final_test_gw,
-    target_col="xP",
-    drop_cols=("xP", "round", "element"),
+    target_col="points",
+    drop_cols=("points", "round", "element"),
     n_iter=40,
     random_state=42,
     verbose=True,
@@ -372,6 +378,13 @@ def tune_best_model(
     cv_splits = rolling_origin_splits(rounds_pool, val_gws)
 
     base_model = build_models(random_state=random_state)[best_name]
+    if hasattr(base_model, "n_jobs"):
+        # RandomizedSearchCV below is itself parallel (n_jobs=-1) -- an inner estimator
+        # that's ALSO n_jobs=-1 (RandomForest, XGBoost, LightGBM) means every one of the
+        # search's parallel workers tries to spawn its own full set of threads, causing
+        # oversubscription that makes the search slower, not faster. Force the inner
+        # model single-threaded so only the outer search parallelizes.
+        base_model.set_params(n_jobs=1)
     wrapped = TransformedTargetRegressor(
         regressor=base_model, func=np.log1p, inverse_func=np.expm1
     )

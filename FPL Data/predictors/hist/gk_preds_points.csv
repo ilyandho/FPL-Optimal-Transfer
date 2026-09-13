@@ -1,0 +1,2487 @@
+element,name,points_pred,points_actual,round
+5,Karl Hein,0.0,0.0,6
+14,Aaron Ramsdale,2.3499999999999996,2.0,6
+15,David Raya Martin,3.62,1.0,6
+39,Joe Gauci,0.2999999999999998,0.0,6
+46,Filip Marschall,0.020000000000000018,0.0,6
+47,Emiliano Martínez Romero,4.72,2.0,6
+51,Robin Olsen,0.040000000000000036,0.0,6
+55,Viljami Sinisalo,0.020000000000000018,0.0,6
+73,Norberto Murara Neto,0.31000000000000005,0.0,6
+75,Alex Paulsen,0.0,0.0,6
+84,Mark Travers,0.0,0.0,6
+91,Mark Flekken,4.3,2.0,6
+109,Hákon Valdimarsson,0.27,0.0,6
+142,Jason Steele,0.0,0.0,6
+146,Bart Verbruggen,2.3499999999999996,0.0,6
+152,Kepa Arrizabalaga,3.5300000000000002,2.0,6
+154,Lucas Bergström,0.0,0.0,6
+155,Marcus Bettinelli,0.0,0.0,6
+183,Đorđe Petrović,0.08000000000000007,0.0,6
+185,Robert Sánchez,4.38,2.0,6
+201,Dean Henderson,3.1399999999999997,1.0,6
+204,Sam Johnstone,1.8900000000000001,2.0,6
+209,Remi Matthews,0.0,0.0,6
+227,João Neves Virgínia,0.06000000000000005,0.0,6
+235,Jordan Pickford,1.92,2.0,6
+242,Steven Benda,0.98,0.0,6
+248,Bernd Leno,2.7800000000000002,5.0,6
+280,Cieran Slicker,0.040000000000000036,0.0,6
+283,Christian Walton,0.0,0.0,6
+293,Mads Hermansen,1.8900000000000001,4.0,6
+294,Daniel Iversen,0.16000000000000014,0.0,6
+304,Jakub Stolarczyk,0.0,0.0,6
+308,Danny Ward,0.0,0.0,6
+310,Alisson Ramses Becker,0.10999999999999988,2.0,6
+325,Caoimhin Kelleher,4.94,0.0,6
+344,Scott Carson,0.06000000000000005,0.0,6
+347,Ederson Santana de Moraes,3.63,2.0,6
+358,Stefan Ortega Moreno,0.14000000000000012,0.0,6
+367,Altay Bayindir,0.0,0.0,6
+374,Tom Heaton,0.0,0.0,6
+383,André Onana,5.05,3.0,6
+396,Martin Dúbravka,0.0,0.0,6
+412,Odysseas Vlachodimos,0.0,0.0,6
+413,Nick Pope,2.49,3.0,6
+414,John Ruddy,0.0,0.0,6
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,6
+443,Matz Sels,3.6399999999999997,2.0,6
+445,Matt Turner,0.06000000000000005,0.0,6
+454,Gavin Bazunu,0.0,0.0,6
+465,Mateusz Lis,0.0,0.0,6
+466,Joe Lumley,0.0,0.0,6
+469,Alex McCarthy,0.0,0.0,6
+479,Brandon Austin,0.6200000000000001,0.0,6
+488,Fraser Forster,0.6800000000000002,0.0,6
+508,Guglielmo Vicario,3.3499999999999996,6.0,6
+510,Alfie Whiteman,1.0699999999999998,0.0,6
+513,Alphonse Areola,2.3200000000000003,2.0,6
+521,Łukasz Fabiański,0.9500000000000002,0.0,6
+522,Wes Foderingham,0.0,0.0,6
+536,Daniel Bentley,0.08000000000000007,0.0,6
+554,José Malheiro de Sá,0.0,0.0,6
+556,Tom King,0.08000000000000007,0.0,6
+568,Arijanet Muric,2.7199999999999998,1.0,6
+581,Filip Jørgensen,0.0,0.0,6
+599,Will Dennis,0.2400000000000002,0.0,6
+615,Carl Rushworth,0.0,0.0,6
+624,Asmir Begovic,0.3500000000000001,0.0,6
+639,Tommy Setford,0.0,0.0,6
+641,Oliwier Zych,1.06,0.0,6
+660,Vítezslav Jaros,0.0,0.0,6
+5,Karl Hein,0.040000000000000036,0.0,7
+14,Aaron Ramsdale,1.9100000000000001,2.0,7
+15,David Raya Martin,3.5599999999999996,2.0,7
+39,Joe Gauci,0.06000000000000005,0.0,7
+46,Filip Marschall,0.040000000000000036,0.0,7
+47,Emiliano Martínez Romero,2.8099999999999996,7.0,7
+51,Robin Olsen,0.040000000000000036,0.0,7
+55,Viljami Sinisalo,0.040000000000000036,0.0,7
+73,Norberto Murara Neto,0.1499999999999999,0.0,7
+75,Alex Paulsen,0.0,0.0,7
+84,Mark Travers,0.0,0.0,7
+91,Mark Flekken,2.41,2.0,7
+109,Hákon Valdimarsson,0.0,0.0,7
+142,Jason Steele,0.0,0.0,7
+146,Bart Verbruggen,4.16,0.0,7
+152,Kepa Arrizabalaga,3.1399999999999997,2.0,7
+154,Lucas Bergström,0.020000000000000018,0.0,7
+155,Marcus Bettinelli,0.040000000000000036,0.0,7
+183,Đorđe Petrović,0.040000000000000036,0.0,7
+185,Robert Sánchez,2.83,4.0,7
+201,Dean Henderson,5.62,3.0,7
+204,Sam Johnstone,1.7200000000000002,2.0,7
+209,Remi Matthews,0.0,0.0,7
+227,João Neves Virgínia,0.06000000000000005,0.0,7
+235,Jordan Pickford,3.17,12.0,7
+242,Steven Benda,0.1200000000000001,0.0,7
+248,Bernd Leno,4.21,2.0,7
+280,Cieran Slicker,0.0,0.0,7
+283,Christian Walton,0.0,0.0,7
+293,Mads Hermansen,1.7000000000000002,6.0,7
+294,Daniel Iversen,0.0,0.0,7
+304,Jakub Stolarczyk,0.0,0.0,7
+308,Danny Ward,0.029999999999999805,0.0,7
+310,Alisson Ramses Becker,2.0599999999999996,7.0,7
+325,Caoimhin Kelleher,0.16999999999999993,0.0,7
+344,Scott Carson,0.029999999999999805,0.0,7
+347,Ederson Santana de Moraes,3.9000000000000004,0.0,7
+358,Stefan Ortega Moreno,0.06999999999999984,0.0,7
+367,Altay Bayindir,0.0,0.0,7
+374,Tom Heaton,0.0,0.0,7
+383,André Onana,2.4000000000000004,6.0,7
+396,Martin Dúbravka,0.029999999999999805,0.0,7
+412,Odysseas Vlachodimos,0.0,0.0,7
+413,Nick Pope,3.0700000000000003,6.0,7
+414,John Ruddy,0.020000000000000018,0.0,7
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,7
+443,Matz Sels,2.05,3.0,7
+445,Matt Turner,0.1200000000000001,0.0,7
+454,Gavin Bazunu,0.0,0.0,7
+465,Mateusz Lis,0.0,0.0,7
+466,Joe Lumley,0.0,0.0,7
+469,Alex McCarthy,0.0,0.0,7
+479,Brandon Austin,0.0,0.0,7
+488,Fraser Forster,0.0,0.0,7
+508,Guglielmo Vicario,3.6799999999999997,1.0,7
+510,Alfie Whiteman,0.08999999999999986,0.0,7
+513,Alphonse Areola,1.6400000000000001,2.0,7
+521,Łukasz Fabiański,0.69,0.0,7
+522,Wes Foderingham,0.0,0.0,7
+536,Daniel Bentley,0.0,0.0,7
+554,José Malheiro de Sá,0.96,0.0,7
+556,Tom King,0.0,0.0,7
+568,Arijanet Muric,2.2800000000000002,2.0,7
+581,Filip Jørgensen,0.06000000000000005,0.0,7
+599,Will Dennis,0.0,0.0,7
+615,Carl Rushworth,0.0,0.0,7
+624,Asmir Begovic,0.0,0.0,7
+639,Tommy Setford,0.040000000000000036,0.0,7
+641,Oliwier Zych,2.79,0.0,7
+660,Vítezslav Jaros,0.0,1.0,7
+5,Karl Hein,0.0,0.0,8
+14,Aaron Ramsdale,1.67,1.0,8
+15,David Raya Martin,4.84,1.0,8
+39,Joe Gauci,0.0,0.0,8
+46,Filip Marschall,0.0,0.0,8
+47,Emiliano Martínez Romero,2.9800000000000004,8.0,8
+51,Robin Olsen,0.0,0.0,8
+55,Viljami Sinisalo,0.0,0.0,8
+73,Norberto Murara Neto,0.0,0.0,8
+75,Alex Paulsen,0.0,0.0,8
+84,Mark Travers,0.0,0.0,8
+91,Mark Flekken,2.6799999999999997,4.0,8
+109,Hákon Valdimarsson,0.0,0.0,8
+142,Jason Steele,0.0,0.0,8
+146,Bart Verbruggen,2.45,8.0,8
+152,Kepa Arrizabalaga,1.6,6.0,8
+154,Lucas Bergström,0.0,0.0,8
+155,Marcus Bettinelli,0.0,0.0,8
+183,Đorđe Petrović,0.0,0.0,8
+185,Robert Sánchez,4.58,2.0,8
+201,Dean Henderson,2.58,3.0,8
+204,Sam Johnstone,1.8399999999999999,0.0,8
+209,Remi Matthews,0.040000000000000036,0.0,8
+227,João Neves Virgínia,0.0,0.0,8
+235,Jordan Pickford,2.6100000000000003,6.0,8
+242,Steven Benda,0.0,0.0,8
+248,Bernd Leno,2.5700000000000003,5.0,8
+280,Cieran Slicker,0.0,0.0,8
+283,Christian Walton,0.0,0.0,8
+293,Mads Hermansen,2.91,3.0,8
+294,Daniel Iversen,0.0,0.0,8
+304,Jakub Stolarczyk,0.0,0.0,8
+308,Danny Ward,0.0,0.0,8
+310,Alisson Ramses Becker,2.87,0.0,8
+325,Caoimhin Kelleher,0.77,2.0,8
+344,Scott Carson,0.0,0.0,8
+347,Ederson Santana de Moraes,2.7300000000000004,2.0,8
+358,Stefan Ortega Moreno,0.0,0.0,8
+367,Altay Bayindir,0.0,0.0,8
+374,Tom Heaton,0.0,0.0,8
+383,André Onana,2.55,2.0,8
+396,Martin Dúbravka,0.0,0.0,8
+412,Odysseas Vlachodimos,0.0,0.0,8
+413,Nick Pope,3.79,3.0,8
+414,John Ruddy,0.0,0.0,8
+427,Carlos Miguel dos Santos Pereira,0.029999999999999805,0.0,8
+443,Matz Sels,4.42,8.0,8
+445,Matt Turner,0.0,0.0,8
+454,Gavin Bazunu,0.0,0.0,8
+465,Mateusz Lis,0.0,0.0,8
+466,Joe Lumley,0.0,0.0,8
+469,Alex McCarthy,0.0,0.0,8
+479,Brandon Austin,0.0,0.0,8
+488,Fraser Forster,0.0,0.0,8
+508,Guglielmo Vicario,2.1799999999999997,2.0,8
+510,Alfie Whiteman,0.0,0.0,8
+513,Alphonse Areola,2.1399999999999997,-1.0,8
+521,Łukasz Fabiański,0.1200000000000001,0.0,8
+522,Wes Foderingham,0.0,0.0,8
+536,Daniel Bentley,0.0,0.0,8
+554,José Malheiro de Sá,0.0,2.0,8
+556,Tom King,0.0,0.0,8
+568,Arijanet Muric,2.9299999999999997,3.0,8
+581,Filip Jørgensen,0.0,0.0,8
+599,Will Dennis,0.0,0.0,8
+615,Carl Rushworth,0.0,0.0,8
+624,Asmir Begovic,0.040000000000000036,0.0,8
+639,Tommy Setford,0.1499999999999999,0.0,8
+641,Oliwier Zych,0.41999999999999993,0.0,8
+660,Vítezslav Jaros,0.16000000000000014,0.0,8
+5,Karl Hein,0.0,0.0,9
+14,Aaron Ramsdale,0.2599999999999998,4.0,9
+15,David Raya Martin,2.2199999999999998,0.0,9
+39,Joe Gauci,0.0,0.0,9
+46,Filip Marschall,0.0,0.0,9
+47,Emiliano Martínez Romero,3.6799999999999997,2.0,9
+51,Robin Olsen,0.0,0.0,9
+55,Viljami Sinisalo,0.0,0.0,9
+73,Norberto Murara Neto,0.10000000000000009,0.0,9
+75,Alex Paulsen,0.0,0.0,9
+84,Mark Travers,0.0,4.0,9
+91,Mark Flekken,1.63,1.0,9
+109,Hákon Valdimarsson,0.0,0.0,9
+142,Jason Steele,0.0,0.0,9
+146,Bart Verbruggen,2.6100000000000003,2.0,9
+152,Kepa Arrizabalaga,2.7300000000000004,0.0,9
+154,Lucas Bergström,0.0,0.0,9
+155,Marcus Bettinelli,0.0,0.0,9
+183,Đorđe Petrović,0.0,0.0,9
+185,Robert Sánchez,5.0,1.0,9
+201,Dean Henderson,2.8600000000000003,7.0,9
+204,Sam Johnstone,0.9199999999999999,0.0,9
+209,Remi Matthews,0.0,0.0,9
+227,João Neves Virgínia,0.0,0.0,9
+235,Jordan Pickford,3.0999999999999996,2.0,9
+242,Steven Benda,0.0,0.0,9
+248,Bernd Leno,3.5700000000000003,3.0,9
+280,Cieran Slicker,0.0,0.0,9
+283,Christian Walton,0.0,0.0,9
+293,Mads Hermansen,1.7999999999999998,1.0,9
+294,Daniel Iversen,0.0,0.0,9
+304,Jakub Stolarczyk,0.0,0.0,9
+308,Danny Ward,0.3599999999999999,0.0,9
+310,Alisson Ramses Becker,0.27,0.0,9
+325,Caoimhin Kelleher,1.46,1.0,9
+344,Scott Carson,0.0,0.0,9
+347,Ederson Santana de Moraes,3.0999999999999996,6.0,9
+358,Stefan Ortega Moreno,0.0,0.0,9
+367,Altay Bayindir,0.0,0.0,9
+374,Tom Heaton,0.0,0.0,9
+383,André Onana,4.14,1.0,9
+396,Martin Dúbravka,0.0,0.0,9
+412,Odysseas Vlachodimos,0.0,0.0,9
+413,Nick Pope,2.0300000000000002,2.0,9
+414,John Ruddy,0.77,0.0,9
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,9
+443,Matz Sels,6.48,5.0,9
+445,Matt Turner,0.0,0.0,9
+454,Gavin Bazunu,0.0,0.0,9
+465,Mateusz Lis,0.0,0.0,9
+466,Joe Lumley,0.0,0.0,9
+469,Alex McCarthy,0.0,0.0,9
+479,Brandon Austin,0.0,0.0,9
+488,Fraser Forster,0.0,0.0,9
+508,Guglielmo Vicario,2.3200000000000003,3.0,9
+510,Alfie Whiteman,0.0,0.0,9
+513,Alphonse Areola,2.4000000000000004,0.0,9
+521,Łukasz Fabiański,0.020000000000000018,3.0,9
+522,Wes Foderingham,0.0,0.0,9
+536,Daniel Bentley,0.0,0.0,9
+554,José Malheiro de Sá,1.81,2.0,9
+556,Tom King,0.0,0.0,9
+568,Arijanet Muric,1.38,2.0,9
+581,Filip Jørgensen,0.0,0.0,9
+599,Will Dennis,0.0,0.0,9
+615,Carl Rushworth,0.0,0.0,9
+624,Asmir Begovic,0.0,0.0,9
+639,Tommy Setford,0.0,0.0,9
+641,Oliwier Zych,0.0,0.0,9
+660,Vítezslav Jaros,0.0,0.0,9
+668,Killian Cahill,0.0,0.0,9
+669,Harvey Davies,0.0,0.0,9
+5,Karl Hein,0.0,0.0,10
+14,Aaron Ramsdale,1.77,7.0,10
+15,David Raya Martin,3.84,3.0,10
+39,Joe Gauci,0.0,0.0,10
+46,Filip Marschall,0.0,0.0,10
+47,Emiliano Martínez Romero,3.2300000000000004,0.0,10
+51,Robin Olsen,0.0,0.0,10
+55,Viljami Sinisalo,0.0,0.0,10
+73,Norberto Murara Neto,0.029999999999999805,0.0,10
+75,Alex Paulsen,0.0,0.0,10
+84,Mark Travers,0.7400000000000002,3.0,10
+91,Mark Flekken,2.0300000000000002,4.0,10
+109,Hákon Valdimarsson,0.0,0.0,10
+142,Jason Steele,0.029999999999999805,0.0,10
+146,Bart Verbruggen,3.6500000000000004,3.0,10
+152,Kepa Arrizabalaga,0.08999999999999986,0.0,10
+154,Lucas Bergström,0.0,0.0,10
+155,Marcus Bettinelli,0.0,0.0,10
+183,Đorđe Petrović,0.0,0.0,10
+185,Robert Sánchez,3.3200000000000003,3.0,10
+201,Dean Henderson,4.72,2.0,10
+204,Sam Johnstone,1.23,0.0,10
+209,Remi Matthews,0.0,0.0,10
+227,João Neves Virgínia,0.0,0.0,10
+235,Jordan Pickford,2.7300000000000004,2.0,10
+242,Steven Benda,0.0,0.0,10
+248,Bernd Leno,2.2199999999999998,2.0,10
+280,Cieran Slicker,0.0,0.0,10
+283,Christian Walton,0.7999999999999998,0.0,10
+293,Mads Hermansen,1.9100000000000001,2.0,10
+294,Daniel Iversen,0.0,0.0,10
+304,Jakub Stolarczyk,0.0,0.0,10
+308,Danny Ward,0.0,0.0,10
+310,Alisson Ramses Becker,0.0,0.0,10
+325,Caoimhin Kelleher,3.13,3.0,10
+344,Scott Carson,0.020000000000000018,0.0,10
+347,Ederson Santana de Moraes,3.6100000000000003,2.0,10
+358,Stefan Ortega Moreno,0.20999999999999996,0.0,10
+367,Altay Bayindir,0.0,0.0,10
+374,Tom Heaton,0.0,0.0,10
+383,André Onana,1.9300000000000002,2.0,10
+396,Martin Dúbravka,0.0,0.0,10
+412,Odysseas Vlachodimos,0.0,0.0,10
+413,Nick Pope,2.6799999999999997,5.0,10
+414,John Ruddy,0.0,0.0,10
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,10
+443,Matz Sels,4.6,6.0,10
+445,Matt Turner,0.0,0.0,10
+454,Gavin Bazunu,0.0,0.0,10
+465,Mateusz Lis,0.0,0.0,10
+466,Joe Lumley,0.0,0.0,10
+469,Alex McCarthy,0.029999999999999805,0.0,10
+479,Brandon Austin,0.0,0.0,10
+488,Fraser Forster,0.0,0.0,10
+508,Guglielmo Vicario,1.9300000000000002,2.0,10
+510,Alfie Whiteman,0.0,0.0,10
+513,Alphonse Areola,0.8999999999999999,0.0,10
+521,Łukasz Fabiański,2.0300000000000002,2.0,10
+522,Wes Foderingham,0.0,0.0,10
+536,Daniel Bentley,0.0,0.0,10
+554,José Malheiro de Sá,2.8499999999999996,2.0,10
+556,Tom King,0.0,0.0,10
+568,Arijanet Muric,0.18999999999999995,2.0,10
+581,Filip Jørgensen,0.0,0.0,10
+599,Will Dennis,0.0,0.0,10
+615,Carl Rushworth,0.0,0.0,10
+624,Asmir Begovic,0.0,0.0,10
+639,Tommy Setford,0.0,0.0,10
+641,Oliwier Zych,0.0,0.0,10
+660,Vítezslav Jaros,0.0,0.0,10
+668,Killian Cahill,0.0,0.0,10
+669,Harvey Davies,0.0,0.0,10
+5,Karl Hein,0.0,0.0,11
+14,Aaron Ramsdale,4.16,0.0,11
+15,David Raya Martin,3.26,2.0,11
+39,Joe Gauci,0.0,0.0,11
+46,Filip Marschall,0.0,0.0,11
+47,Emiliano Martínez Romero,1.96,2.0,11
+51,Robin Olsen,0.0,0.0,11
+55,Viljami Sinisalo,0.0,0.0,11
+73,Norberto Murara Neto,0.0,0.0,11
+75,Alex Paulsen,0.0,0.0,11
+84,Mark Travers,1.7999999999999998,0.0,11
+91,Mark Flekken,2.0700000000000003,1.0,11
+109,Hákon Valdimarsson,0.0,0.0,11
+142,Jason Steele,0.0,0.0,11
+146,Bart Verbruggen,3.4800000000000004,3.0,11
+152,Kepa Arrizabalaga,0.0,2.0,11
+154,Lucas Bergström,0.0,0.0,11
+155,Marcus Bettinelli,0.0,0.0,11
+183,Đorđe Petrović,0.0,0.0,11
+185,Robert Sánchez,2.71,2.0,11
+201,Dean Henderson,2.0,2.0,11
+204,Sam Johnstone,1.6099999999999999,0.0,11
+209,Remi Matthews,0.0,0.0,11
+227,João Neves Virgínia,0.0,0.0,11
+235,Jordan Pickford,1.9500000000000002,8.0,11
+242,Steven Benda,0.0,0.0,11
+248,Bernd Leno,1.7999999999999998,7.0,11
+280,Cieran Slicker,0.0,0.0,11
+283,Christian Walton,1.6400000000000001,0.0,11
+293,Mads Hermansen,2.96,1.0,11
+294,Daniel Iversen,0.0,0.0,11
+304,Jakub Stolarczyk,0.0,0.0,11
+308,Danny Ward,0.0,0.0,11
+310,Alisson Ramses Becker,0.0,0.0,11
+325,Caoimhin Kelleher,2.34,6.0,11
+344,Scott Carson,0.0,0.0,11
+347,Ederson Santana de Moraes,4.01,1.0,11
+358,Stefan Ortega Moreno,0.0,0.0,11
+367,Altay Bayindir,0.0,0.0,11
+374,Tom Heaton,0.0,0.0,11
+383,André Onana,2.58,7.0,11
+396,Martin Dúbravka,0.0,0.0,11
+412,Odysseas Vlachodimos,0.0,0.0,11
+413,Nick Pope,2.26,2.0,11
+414,John Ruddy,0.0,0.0,11
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,11
+443,Matz Sels,4.01,2.0,11
+445,Matt Turner,0.0,0.0,11
+454,Gavin Bazunu,0.0,0.0,11
+465,Mateusz Lis,0.0,0.0,11
+466,Joe Lumley,0.0,0.0,11
+469,Alex McCarthy,0.0,0.0,11
+479,Brandon Austin,0.0,0.0,11
+488,Fraser Forster,0.0,0.0,11
+508,Guglielmo Vicario,2.4299999999999997,1.0,11
+510,Alfie Whiteman,0.0,0.0,11
+513,Alphonse Areola,0.8999999999999999,0.0,11
+521,Łukasz Fabiański,4.05,7.0,11
+522,Wes Foderingham,0.0,0.0,11
+536,Daniel Bentley,0.0,0.0,11
+554,José Malheiro de Sá,1.92,6.0,11
+556,Tom King,0.1200000000000001,0.0,11
+568,Arijanet Muric,5.21,3.0,11
+581,Filip Jørgensen,0.0,0.0,11
+599,Will Dennis,0.0,0.0,11
+615,Carl Rushworth,0.0,0.0,11
+624,Asmir Begovic,0.0,0.0,11
+639,Tommy Setford,0.0,0.0,11
+641,Oliwier Zych,0.0,0.0,11
+660,Vítezslav Jaros,0.0,0.0,11
+668,Killian Cahill,0.0,0.0,11
+669,Harvey Davies,0.0,0.0,11
+5,Karl Hein,0.0,0.0,12
+14,Aaron Ramsdale,4.0,0.0,12
+15,David Raya Martin,2.5199999999999996,6.0,12
+39,Joe Gauci,0.0,0.0,12
+46,Filip Marschall,0.0,0.0,12
+47,Emiliano Martínez Romero,2.38,2.0,12
+51,Robin Olsen,0.0,0.0,12
+55,Viljami Sinisalo,0.0,0.0,12
+73,Norberto Murara Neto,0.020000000000000018,0.0,12
+75,Alex Paulsen,0.0,0.0,12
+84,Mark Travers,0.06000000000000005,0.0,12
+91,Mark Flekken,2.5300000000000002,7.0,12
+109,Hákon Valdimarsson,0.0,0.0,12
+142,Jason Steele,0.0,0.0,12
+146,Bart Verbruggen,3.6399999999999997,3.0,12
+152,Kepa Arrizabalaga,0.7200000000000002,1.0,12
+154,Lucas Bergström,0.0,0.0,12
+155,Marcus Bettinelli,0.0,0.0,12
+183,Đorđe Petrović,0.0,0.0,12
+185,Robert Sánchez,3.2300000000000004,1.0,12
+201,Dean Henderson,3.7800000000000002,7.0,12
+204,Sam Johnstone,0.3999999999999999,0.0,12
+209,Remi Matthews,0.0,0.0,12
+227,João Neves Virgínia,0.0,0.0,12
+235,Jordan Pickford,4.34,6.0,12
+242,Steven Benda,0.0,0.0,12
+248,Bernd Leno,2.7199999999999998,0.0,12
+280,Cieran Slicker,0.0,0.0,12
+283,Christian Walton,0.040000000000000036,0.0,12
+293,Mads Hermansen,3.3099999999999996,2.0,12
+294,Daniel Iversen,0.0,0.0,12
+304,Jakub Stolarczyk,0.0,0.0,12
+308,Danny Ward,0.0,0.0,12
+310,Alisson Ramses Becker,0.040000000000000036,0.0,12
+325,Caoimhin Kelleher,3.4800000000000004,7.0,12
+344,Scott Carson,0.0,0.0,12
+347,Ederson Santana de Moraes,2.1100000000000003,1.0,12
+358,Stefan Ortega Moreno,0.0,0.0,12
+367,Altay Bayindir,0.0,0.0,12
+374,Tom Heaton,0.0,0.0,12
+383,André Onana,4.23,3.0,12
+396,Martin Dúbravka,0.0,0.0,12
+412,Odysseas Vlachodimos,0.0,0.0,12
+413,Nick Pope,2.1500000000000004,2.0,12
+414,John Ruddy,0.0,0.0,12
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,12
+443,Matz Sels,3.2800000000000002,2.0,12
+445,Matt Turner,0.08000000000000007,0.0,12
+454,Gavin Bazunu,0.0,0.0,12
+465,Mateusz Lis,0.0,0.0,12
+466,Joe Lumley,0.0,0.0,12
+469,Alex McCarthy,0.0,3.0,12
+479,Brandon Austin,0.0,0.0,12
+488,Fraser Forster,0.0,0.0,12
+508,Guglielmo Vicario,2.95,7.0,12
+510,Alfie Whiteman,0.0,0.0,12
+513,Alphonse Areola,0.56,0.0,12
+521,Łukasz Fabiański,3.6900000000000004,6.0,12
+522,Wes Foderingham,0.0,0.0,12
+536,Daniel Bentley,0.0,0.0,12
+554,José Malheiro de Sá,2.49,2.0,12
+556,Tom King,0.0,0.0,12
+568,Arijanet Muric,2.5199999999999996,3.0,12
+581,Filip Jørgensen,0.0,0.0,12
+599,Will Dennis,0.0,0.0,12
+615,Carl Rushworth,0.0,0.0,12
+624,Asmir Begovic,0.0,0.0,12
+639,Tommy Setford,0.0,0.0,12
+641,Oliwier Zych,0.0,0.0,12
+660,Vítezslav Jaros,0.0,0.0,12
+668,Killian Cahill,1.25,0.0,12
+669,Harvey Davies,0.0,0.0,12
+5,Karl Hein,0.0,0.0,13
+14,Aaron Ramsdale,0.16000000000000014,0.0,13
+15,David Raya Martin,2.6900000000000004,2.0,13
+39,Joe Gauci,0.0,0.0,13
+46,Filip Marschall,0.0,0.0,13
+47,Emiliano Martínez Romero,1.33,1.0,13
+51,Robin Olsen,0.0,1.0,13
+55,Viljami Sinisalo,0.0,0.0,13
+73,Norberto Murara Neto,0.040000000000000036,0.0,13
+75,Alex Paulsen,0.0,0.0,13
+84,Mark Travers,0.06000000000000005,0.0,13
+91,Mark Flekken,2.7199999999999998,2.0,13
+109,Hákon Valdimarsson,0.020000000000000018,0.0,13
+142,Jason Steele,0.08999999999999986,0.0,13
+146,Bart Verbruggen,2.4299999999999997,2.0,13
+152,Kepa Arrizabalaga,1.56,1.0,13
+154,Lucas Bergström,0.0,0.0,13
+155,Marcus Bettinelli,0.0,0.0,13
+183,Đorđe Petrović,0.0,0.0,13
+185,Robert Sánchez,4.11,7.0,13
+201,Dean Henderson,3.6399999999999997,2.0,13
+204,Sam Johnstone,0.0,0.0,13
+209,Remi Matthews,0.0,0.0,13
+227,João Neves Virgínia,0.0,0.0,13
+235,Jordan Pickford,3.38,0.0,13
+242,Steven Benda,0.0,0.0,13
+248,Bernd Leno,3.05,2.0,13
+280,Cieran Slicker,0.0,0.0,13
+283,Christian Walton,0.0,0.0,13
+293,Mads Hermansen,2.3899999999999997,0.0,13
+294,Daniel Iversen,0.0,0.0,13
+304,Jakub Stolarczyk,0.0,0.0,13
+308,Danny Ward,0.0,0.0,13
+310,Alisson Ramses Becker,0.10000000000000009,0.0,13
+325,Caoimhin Kelleher,3.3600000000000003,7.0,13
+344,Scott Carson,0.0,0.0,13
+347,Ederson Santana de Moraes,2.7199999999999998,0.0,13
+358,Stefan Ortega Moreno,0.0,2.0,13
+367,Altay Bayindir,0.0,0.0,13
+374,Tom Heaton,0.0,0.0,13
+383,André Onana,3.7800000000000002,6.0,13
+396,Martin Dúbravka,0.0,0.0,13
+412,Odysseas Vlachodimos,0.0,0.0,13
+413,Nick Pope,2.5700000000000003,2.0,13
+414,John Ruddy,0.0,0.0,13
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,13
+443,Matz Sels,3.05,6.0,13
+445,Matt Turner,0.0,0.0,13
+454,Gavin Bazunu,0.0,0.0,13
+465,Mateusz Lis,0.0,0.0,13
+466,Joe Lumley,0.0,3.0,13
+469,Alex McCarthy,2.2199999999999998,0.0,13
+479,Brandon Austin,0.0,0.0,13
+488,Fraser Forster,0.029999999999999805,3.0,13
+508,Guglielmo Vicario,2.16,0.0,13
+510,Alfie Whiteman,0.06000000000000005,0.0,13
+513,Alphonse Areola,0.96,0.0,13
+521,Łukasz Fabiański,3.3,-1.0,13
+522,Wes Foderingham,0.0,0.0,13
+536,Daniel Bentley,0.0,0.0,13
+554,José Malheiro de Sá,2.17,0.0,13
+556,Tom King,0.0,0.0,13
+568,Arijanet Muric,1.9300000000000002,3.0,13
+581,Filip Jørgensen,0.0,0.0,13
+599,Will Dennis,0.0,0.0,13
+615,Carl Rushworth,0.0,0.0,13
+624,Asmir Begovic,0.009999999999999787,0.0,13
+639,Tommy Setford,0.0,0.0,13
+641,Oliwier Zych,0.0,0.0,13
+660,Vítezslav Jaros,0.0,0.0,13
+668,Killian Cahill,0.3500000000000001,0.0,13
+669,Harvey Davies,0.0,0.0,13
+5,Karl Hein,0.0,0.0,14
+14,Aaron Ramsdale,0.1299999999999999,0.0,14
+15,David Raya Martin,3.4400000000000004,6.0,14
+39,Joe Gauci,0.0,0.0,14
+46,Filip Marschall,0.0,0.0,14
+47,Emiliano Martínez Romero,2.7,2.0,14
+51,Robin Olsen,0.06000000000000005,0.0,14
+55,Viljami Sinisalo,0.0,0.0,14
+73,Norberto Murara Neto,0.10999999999999988,0.0,14
+75,Alex Paulsen,0.0,0.0,14
+84,Mark Travers,0.0,0.0,14
+91,Mark Flekken,2.87,3.0,14
+109,Hákon Valdimarsson,0.0,0.0,14
+142,Jason Steele,0.27,0.0,14
+146,Bart Verbruggen,3.04,1.0,14
+152,Kepa Arrizabalaga,2.6500000000000004,6.0,14
+154,Lucas Bergström,0.06000000000000005,0.0,14
+155,Marcus Bettinelli,0.0,0.0,14
+183,Đorđe Petrović,0.0,0.0,14
+185,Robert Sánchez,4.75,0.0,14
+201,Dean Henderson,2.8899999999999997,6.0,14
+204,Sam Johnstone,0.020000000000000018,0.0,14
+209,Remi Matthews,0.0,0.0,14
+227,João Neves Virgínia,0.0,0.0,14
+235,Jordan Pickford,3.4800000000000004,6.0,14
+242,Steven Benda,0.0,0.0,14
+248,Bernd Leno,1.5099999999999998,2.0,14
+280,Cieran Slicker,0.0,0.0,14
+283,Christian Walton,0.0,0.0,14
+293,Mads Hermansen,1.0699999999999998,4.0,14
+294,Daniel Iversen,0.0,0.0,14
+304,Jakub Stolarczyk,0.0,0.0,14
+308,Danny Ward,0.020000000000000018,0.0,14
+310,Alisson Ramses Becker,0.0,0.0,14
+325,Caoimhin Kelleher,3.17,2.0,14
+344,Scott Carson,0.0,0.0,14
+347,Ederson Santana de Moraes,0.8700000000000001,0.0,14
+358,Stefan Ortega Moreno,0.2799999999999998,7.0,14
+367,Altay Bayindir,0.0,0.0,14
+374,Tom Heaton,0.54,0.0,14
+383,André Onana,3.91,2.0,14
+396,Martin Dúbravka,0.0,0.0,14
+412,Odysseas Vlachodimos,0.0,0.0,14
+413,Nick Pope,1.2799999999999998,0.0,14
+414,John Ruddy,0.0,0.0,14
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,14
+443,Matz Sels,3.5599999999999996,2.0,14
+445,Matt Turner,0.0,0.0,14
+454,Gavin Bazunu,0.0,0.0,14
+465,Mateusz Lis,0.0,0.0,14
+466,Joe Lumley,1.58,2.0,14
+469,Alex McCarthy,0.040000000000000036,0.0,14
+479,Brandon Austin,0.0,0.0,14
+488,Fraser Forster,0.79,4.0,14
+508,Guglielmo Vicario,0.33000000000000007,0.0,14
+510,Alfie Whiteman,0.0,0.0,14
+513,Alphonse Areola,1.3199999999999998,0.0,14
+521,Łukasz Fabiański,3.88,2.0,14
+522,Wes Foderingham,0.0,0.0,14
+536,Daniel Bentley,0.0,0.0,14
+554,José Malheiro de Sá,3.6799999999999997,0.0,14
+556,Tom King,0.0,0.0,14
+568,Arijanet Muric,2.1799999999999997,2.0,14
+581,Filip Jørgensen,0.0,3.0,14
+599,Will Dennis,0.0,0.0,14
+615,Carl Rushworth,0.0,0.0,14
+624,Asmir Begovic,0.0,0.0,14
+639,Tommy Setford,0.0,0.0,14
+641,Oliwier Zych,0.0,0.0,14
+660,Vítezslav Jaros,0.0,0.0,14
+668,Killian Cahill,0.040000000000000036,0.0,14
+669,Harvey Davies,0.0,0.0,14
+5,Karl Hein,0.0,0.0,15
+14,Aaron Ramsdale,0.0,0.0,15
+15,David Raya Martin,2.75,2.0,15
+39,Joe Gauci,0.08999999999999986,0.0,15
+46,Filip Marschall,0.0,0.0,15
+47,Emiliano Martínez Romero,3.45,6.0,15
+51,Robin Olsen,0.0,0.0,15
+55,Viljami Sinisalo,0.0,0.0,15
+73,Norberto Murara Neto,0.0,0.0,15
+75,Alex Paulsen,0.0,0.0,15
+84,Mark Travers,0.009999999999999787,0.0,15
+91,Mark Flekken,1.0099999999999998,3.0,15
+109,Hákon Valdimarsson,0.0,0.0,15
+142,Jason Steele,0.08000000000000007,0.0,15
+146,Bart Verbruggen,2.8600000000000003,1.0,15
+152,Kepa Arrizabalaga,2.0199999999999996,3.0,15
+154,Lucas Bergström,0.0,0.0,15
+155,Marcus Bettinelli,0.0,0.0,15
+183,Đorđe Petrović,0.0,0.0,15
+185,Robert Sánchez,0.33000000000000007,0.0,15
+201,Dean Henderson,1.7999999999999998,1.0,15
+204,Sam Johnstone,0.0,1.0,15
+209,Remi Matthews,0.08999999999999986,0.0,15
+242,Steven Benda,0.0,0.0,15
+248,Bernd Leno,1.58,3.0,15
+280,Cieran Slicker,0.0,0.0,15
+283,Christian Walton,0.0,0.0,15
+293,Mads Hermansen,1.4100000000000001,2.0,15
+294,Daniel Iversen,0.0,0.0,15
+304,Jakub Stolarczyk,0.0,0.0,15
+308,Danny Ward,0.0,0.0,15
+344,Scott Carson,0.0,0.0,15
+347,Ederson Santana de Moraes,0.0,0.0,15
+358,Stefan Ortega Moreno,0.18999999999999995,1.0,15
+367,Altay Bayindir,0.0,0.0,15
+374,Tom Heaton,0.0,0.0,15
+383,André Onana,3.2699999999999996,1.0,15
+396,Martin Dúbravka,0.0,0.0,15
+412,Odysseas Vlachodimos,0.0,0.0,15
+413,Nick Pope,2.51,1.0,15
+414,John Ruddy,0.0,0.0,15
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,15
+443,Matz Sels,5.26,2.0,15
+445,Matt Turner,0.0,0.0,15
+454,Gavin Bazunu,0.0,0.0,15
+465,Mateusz Lis,0.0,0.0,15
+466,Joe Lumley,2.1799999999999997,3.0,15
+469,Alex McCarthy,0.0,0.0,15
+479,Brandon Austin,0.0,0.0,15
+488,Fraser Forster,1.9700000000000002,1.0,15
+508,Guglielmo Vicario,0.0,0.0,15
+510,Alfie Whiteman,0.0,0.0,15
+513,Alphonse Areola,0.0,0.0,15
+521,Łukasz Fabiański,2.66,2.0,15
+522,Wes Foderingham,0.0,0.0,15
+536,Daniel Bentley,0.0,0.0,15
+554,José Malheiro de Sá,1.02,0.0,15
+556,Tom King,0.0,0.0,15
+568,Arijanet Muric,1.83,2.0,15
+581,Filip Jørgensen,2.91,0.0,15
+599,Will Dennis,0.0,0.0,15
+615,Carl Rushworth,0.0,0.0,15
+639,Tommy Setford,0.0,0.0,15
+641,Oliwier Zych,0.020000000000000018,0.0,15
+668,Killian Cahill,0.75,0.0,15
+5,Karl Hein,0.0,0.0,16
+14,Aaron Ramsdale,0.029999999999999805,0.0,16
+15,David Raya Martin,1.83,6.0,16
+39,Joe Gauci,0.0,0.0,16
+46,Filip Marschall,0.0,0.0,16
+47,Emiliano Martínez Romero,2.9299999999999997,2.0,16
+51,Robin Olsen,0.6299999999999999,0.0,16
+55,Viljami Sinisalo,0.0,0.0,16
+73,Norberto Murara Neto,0.0,0.0,16
+75,Alex Paulsen,0.0,0.0,16
+84,Mark Travers,0.0,0.0,16
+91,Mark Flekken,3.7800000000000002,3.0,16
+109,Hákon Valdimarsson,0.0,0.0,16
+142,Jason Steele,0.0,0.0,16
+146,Bart Verbruggen,3.37,1.0,16
+152,Kepa Arrizabalaga,3.84,2.0,16
+154,Lucas Bergström,0.020000000000000018,0.0,16
+155,Marcus Bettinelli,0.0,0.0,16
+183,Đorđe Petrović,0.0,0.0,16
+185,Robert Sánchez,3.4000000000000004,3.0,16
+201,Dean Henderson,2.16,2.0,16
+204,Sam Johnstone,5.15,1.0,16
+209,Remi Matthews,0.08999999999999986,0.0,16
+227,João Neves Virgínia,1.9500000000000002,0.0,16
+235,Jordan Pickford,5.04,6.0,16
+242,Steven Benda,0.0,0.0,16
+248,Bernd Leno,2.0,1.0,16
+280,Cieran Slicker,0.0,0.0,16
+283,Christian Walton,0.0,0.0,16
+293,Mads Hermansen,1.54,2.0,16
+294,Daniel Iversen,0.0,0.0,16
+304,Jakub Stolarczyk,0.43999999999999995,0.0,16
+308,Danny Ward,0.0,1.0,16
+310,Alisson Ramses Becker,0.6499999999999999,1.0,16
+325,Caoimhin Kelleher,0.1299999999999999,0.0,16
+344,Scott Carson,0.0,0.0,16
+347,Ederson Santana de Moraes,0.08999999999999986,1.0,16
+358,Stefan Ortega Moreno,1.69,0.0,16
+367,Altay Bayindir,0.0,0.0,16
+374,Tom Heaton,0.020000000000000018,0.0,16
+383,André Onana,2.4699999999999998,2.0,16
+396,Martin Dúbravka,0.0,6.0,16
+412,Odysseas Vlachodimos,0.0,0.0,16
+413,Nick Pope,2.08,0.0,16
+414,John Ruddy,0.0,0.0,16
+427,Carlos Miguel dos Santos Pereira,0.009999999999999787,0.0,16
+443,Matz Sels,2.8099999999999996,2.0,16
+445,Matt Turner,0.0,0.0,16
+454,Gavin Bazunu,0.0,0.0,16
+465,Mateusz Lis,0.0,0.0,16
+466,Joe Lumley,1.42,0.0,16
+469,Alex McCarthy,0.0,1.0,16
+479,Brandon Austin,0.0,0.0,16
+488,Fraser Forster,2.46,7.0,16
+508,Guglielmo Vicario,0.0,0.0,16
+510,Alfie Whiteman,0.0,0.0,16
+513,Alphonse Areola,0.0,0.0,16
+521,Łukasz Fabiański,4.11,4.0,16
+522,Wes Foderingham,0.0,0.0,16
+536,Daniel Bentley,0.10000000000000009,0.0,16
+554,José Malheiro de Sá,0.0,0.0,16
+556,Tom King,0.0,0.0,16
+568,Arijanet Muric,1.8399999999999999,3.0,16
+581,Filip Jørgensen,0.0,0.0,16
+599,Will Dennis,0.1200000000000001,0.0,16
+615,Carl Rushworth,0.0,0.0,16
+624,Asmir Begovic,0.0,0.0,16
+639,Tommy Setford,0.0,0.0,16
+641,Oliwier Zych,0.1200000000000001,0.0,16
+660,Vítezslav Jaros,0.0,0.0,16
+668,Killian Cahill,5.04,0.0,16
+669,Harvey Davies,0.08000000000000007,0.0,16
+5,Karl Hein,0.08000000000000007,0.0,17
+14,Aaron Ramsdale,0.10000000000000009,7.0,17
+15,David Raya Martin,4.14,3.0,17
+39,Joe Gauci,0.04999999999999982,0.0,17
+46,Filip Marschall,0.0,0.0,17
+47,Emiliano Martínez Romero,4.48,2.0,17
+51,Robin Olsen,0.020000000000000018,0.0,17
+55,Viljami Sinisalo,0.0,0.0,17
+73,Norberto Murara Neto,0.0,0.0,17
+75,Alex Paulsen,0.0,0.0,17
+84,Mark Travers,0.020000000000000018,0.0,17
+91,Mark Flekken,4.11,2.0,17
+109,Hákon Valdimarsson,0.69,0.0,17
+142,Jason Steele,0.0,0.0,17
+146,Bart Verbruggen,1.88,3.0,17
+152,Kepa Arrizabalaga,3.45,7.0,17
+154,Lucas Bergström,0.0,0.0,17
+155,Marcus Bettinelli,0.009999999999999787,0.0,17
+183,Đorđe Petrović,0.0,0.0,17
+185,Robert Sánchez,3.7,7.0,17
+201,Dean Henderson,3.95,0.0,17
+204,Sam Johnstone,2.41,0.0,17
+209,Remi Matthews,0.0,0.0,17
+227,João Neves Virgínia,2.42,0.0,17
+235,Jordan Pickford,4.19,6.0,17
+242,Steven Benda,0.06000000000000005,0.0,17
+248,Bernd Leno,1.63,6.0,17
+280,Cieran Slicker,0.040000000000000036,0.0,17
+283,Christian Walton,0.020000000000000018,0.0,17
+293,Mads Hermansen,0.8999999999999999,0.0,17
+294,Daniel Iversen,0.0,0.0,17
+304,Jakub Stolarczyk,0.0,0.0,17
+308,Danny Ward,0.08000000000000007,1.0,17
+310,Alisson Ramses Becker,1.58,1.0,17
+325,Caoimhin Kelleher,0.54,0.0,17
+344,Scott Carson,0.0,0.0,17
+347,Ederson Santana de Moraes,2.6399999999999997,0.0,17
+358,Stefan Ortega Moreno,0.0,2.0,17
+367,Altay Bayindir,0.7599999999999998,0.0,17
+374,Tom Heaton,0.0,0.0,17
+383,André Onana,3.7300000000000004,1.0,17
+396,Martin Dúbravka,2.3,6.0,17
+412,Odysseas Vlachodimos,0.0,0.0,17
+413,Nick Pope,0.08000000000000007,0.0,17
+414,John Ruddy,0.06999999999999984,0.0,17
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,17
+443,Matz Sels,3.95,7.0,17
+445,Matt Turner,0.04999999999999982,0.0,17
+454,Gavin Bazunu,0.0,0.0,17
+465,Mateusz Lis,0.0,0.0,17
+466,Joe Lumley,0.0,0.0,17
+469,Alex McCarthy,0.33999999999999986,0.0,17
+479,Brandon Austin,0.1499999999999999,0.0,17
+488,Fraser Forster,1.6800000000000002,1.0,17
+508,Guglielmo Vicario,0.009999999999999787,0.0,17
+510,Alfie Whiteman,0.009999999999999787,0.0,17
+513,Alphonse Areola,0.0,0.0,17
+521,Łukasz Fabiański,3.75,3.0,17
+522,Wes Foderingham,0.0,0.0,17
+536,Daniel Bentley,0.0,0.0,17
+554,José Malheiro de Sá,0.0,7.0,17
+556,Tom King,0.0,0.0,17
+568,Arijanet Muric,1.98,1.0,17
+581,Filip Jørgensen,0.0,0.0,17
+599,Will Dennis,0.0,0.0,17
+615,Carl Rushworth,0.0,0.0,17
+624,Asmir Begovic,0.0,0.0,17
+639,Tommy Setford,0.040000000000000036,0.0,17
+641,Oliwier Zych,0.06000000000000005,0.0,17
+660,Vítezslav Jaros,0.0,0.0,17
+668,Killian Cahill,0.0,0.0,17
+669,Harvey Davies,0.0,0.0,17
+5,Karl Hein,0.0,0.0,18
+14,Aaron Ramsdale,1.23,2.0,18
+15,David Raya Martin,3.3899999999999997,6.0,18
+39,Joe Gauci,0.0,0.0,18
+46,Filip Marschall,0.0,0.0,18
+47,Emiliano Martínez Romero,2.95,2.0,18
+51,Robin Olsen,0.0,0.0,18
+55,Viljami Sinisalo,0.0,0.0,18
+73,Norberto Murara Neto,0.020000000000000018,0.0,18
+75,Alex Paulsen,0.0,0.0,18
+84,Mark Travers,0.18000000000000016,0.0,18
+91,Mark Flekken,4.09,3.0,18
+109,Hákon Valdimarsson,0.0,1.0,18
+142,Jason Steele,0.0,0.0,18
+146,Bart Verbruggen,1.6800000000000002,7.0,18
+152,Kepa Arrizabalaga,4.75,7.0,18
+154,Lucas Bergström,0.020000000000000018,0.0,18
+155,Marcus Bettinelli,0.0,0.0,18
+183,Đorđe Petrović,0.0,0.0,18
+185,Robert Sánchez,3.4400000000000004,2.0,18
+201,Dean Henderson,2.59,7.0,18
+204,Sam Johnstone,0.14000000000000012,0.0,18
+209,Remi Matthews,0.0,0.0,18
+227,João Neves Virgínia,0.0,0.0,18
+235,Jordan Pickford,5.0,8.0,18
+242,Steven Benda,0.0,0.0,18
+248,Bernd Leno,1.4300000000000002,4.0,18
+280,Cieran Slicker,0.0,0.0,18
+283,Christian Walton,0.0,0.0,18
+293,Mads Hermansen,0.08999999999999986,0.0,18
+294,Daniel Iversen,0.08000000000000007,0.0,18
+304,Jakub Stolarczyk,0.0,2.0,18
+308,Danny Ward,0.6600000000000001,0.0,18
+310,Alisson Ramses Becker,5.18,2.0,18
+325,Caoimhin Kelleher,0.08000000000000007,0.0,18
+344,Scott Carson,0.0,0.0,18
+347,Ederson Santana de Moraes,0.31999999999999984,0.0,18
+358,Stefan Ortega Moreno,4.07,2.0,18
+367,Altay Bayindir,0.020000000000000018,0.0,18
+374,Tom Heaton,0.009999999999999787,0.0,18
+383,André Onana,2.2199999999999998,1.0,18
+396,Martin Dúbravka,1.8900000000000001,6.0,18
+412,Odysseas Vlachodimos,0.0,0.0,18
+413,Nick Pope,1.6099999999999999,0.0,18
+414,John Ruddy,0.0,0.0,18
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,18
+443,Matz Sels,4.42,7.0,18
+445,Matt Turner,0.0,0.0,18
+454,Gavin Bazunu,0.0,0.0,18
+465,Mateusz Lis,0.0,0.0,18
+466,Joe Lumley,0.14000000000000012,0.0,18
+469,Alex McCarthy,0.81,0.0,18
+479,Brandon Austin,0.020000000000000018,0.0,18
+488,Fraser Forster,1.2599999999999998,2.0,18
+508,Guglielmo Vicario,1.1099999999999999,0.0,18
+510,Alfie Whiteman,0.0,0.0,18
+513,Alphonse Areola,0.2400000000000002,1.0,18
+521,Łukasz Fabiański,2.3,2.0,18
+522,Wes Foderingham,0.0,0.0,18
+536,Daniel Bentley,0.0,0.0,18
+554,José Malheiro de Sá,1.3399999999999999,7.0,18
+556,Tom King,0.0,0.0,18
+568,Arijanet Muric,1.56,3.0,18
+581,Filip Jørgensen,0.06000000000000005,0.0,18
+599,Will Dennis,0.0,0.0,18
+615,Carl Rushworth,0.0,0.0,18
+624,Asmir Begovic,0.0,0.0,18
+639,Tommy Setford,0.020000000000000018,0.0,18
+641,Oliwier Zych,0.0,0.0,18
+660,Vítezslav Jaros,0.0,0.0,18
+668,Killian Cahill,0.0,0.0,18
+669,Harvey Davies,0.0,0.0,18
+704,Spike Brits,0.0,0.0,18
+5,Karl Hein,0.0,0.0,19
+14,Aaron Ramsdale,0.1499999999999999,3.0,19
+15,David Raya Martin,3.26,2.0,19
+39,Joe Gauci,0.0,0.0,19
+46,Filip Marschall,0.0,0.0,19
+47,Emiliano Martínez Romero,2.7300000000000004,2.0,19
+51,Robin Olsen,0.0,0.0,19
+55,Viljami Sinisalo,0.0,0.0,19
+73,Norberto Murara Neto,0.0,0.0,19
+75,Alex Paulsen,0.0,0.0,19
+84,Mark Travers,0.0,0.0,19
+91,Mark Flekken,3.84,1.0,19
+109,Hákon Valdimarsson,1.29,0.0,19
+142,Jason Steele,0.0,0.0,19
+146,Bart Verbruggen,2.34,2.0,19
+152,Kepa Arrizabalaga,6.01,2.0,19
+154,Lucas Bergström,0.6800000000000002,0.0,19
+155,Marcus Bettinelli,0.0,0.0,19
+183,Đorđe Petrović,0.0,0.0,19
+185,Robert Sánchez,2.3600000000000003,0.0,19
+201,Dean Henderson,2.17,2.0,19
+204,Sam Johnstone,0.0,0.0,19
+209,Remi Matthews,0.7999999999999998,0.0,19
+227,João Neves Virgínia,0.0,0.0,19
+235,Jordan Pickford,5.22,1.0,19
+242,Steven Benda,0.0,0.0,19
+248,Bernd Leno,4.68,3.0,19
+280,Cieran Slicker,0.0,0.0,19
+283,Christian Walton,0.0,7.0,19
+293,Mads Hermansen,0.0,0.0,19
+294,Daniel Iversen,0.31000000000000005,0.0,19
+304,Jakub Stolarczyk,3.13,2.0,19
+308,Danny Ward,0.0,0.0,19
+310,Alisson Ramses Becker,2.3200000000000003,6.0,19
+325,Caoimhin Kelleher,0.0,0.0,19
+344,Scott Carson,0.69,0.0,19
+347,Ederson Santana de Moraes,0.0,0.0,19
+358,Stefan Ortega Moreno,1.69,6.0,19
+367,Altay Bayindir,0.0,0.0,19
+374,Tom Heaton,0.0,0.0,19
+383,André Onana,1.38,1.0,19
+396,Martin Dúbravka,1.2599999999999998,6.0,19
+412,Odysseas Vlachodimos,0.13095238095238093,0.0,19
+413,Nick Pope,3.4299999999999997,0.0,19
+414,John Ruddy,0.0,0.0,19
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,19
+443,Matz Sels,2.7199999999999998,6.0,19
+445,Matt Turner,0.0,0.0,19
+454,Gavin Bazunu,0.0,0.0,19
+465,Mateusz Lis,0.0,0.0,19
+466,Joe Lumley,0.0,0.0,19
+469,Alex McCarthy,0.0,0.0,19
+479,Brandon Austin,0.0,0.0,19
+488,Fraser Forster,1.9900000000000002,1.0,19
+508,Guglielmo Vicario,3.307666666666666,0.0,19
+510,Alfie Whiteman,0.009999999999999787,0.0,19
+513,Alphonse Areola,0.5099999999999998,2.0,19
+521,Łukasz Fabiański,1.21,0.0,19
+522,Wes Foderingham,1.8900000000000001,0.0,19
+536,Daniel Bentley,0.0,0.0,19
+554,José Malheiro de Sá,3.54,6.0,19
+556,Tom King,0.0,0.0,19
+568,Arijanet Muric,1.52,0.0,19
+581,Filip Jørgensen,0.0,2.0,19
+599,Will Dennis,0.0,0.0,19
+615,Carl Rushworth,0.0,0.0,19
+624,Asmir Begovic,0.0,0.0,19
+639,Tommy Setford,0.48,0.0,19
+641,Oliwier Zych,0.0,0.0,19
+660,Vítezslav Jaros,0.0,0.0,19
+668,Killian Cahill,0.0,0.0,19
+669,Harvey Davies,0.0,0.0,19
+704,Spike Brits,0.0,0.0,19
+5,Karl Hein,0.0,0.0,20
+14,Aaron Ramsdale,3.46,1.0,20
+15,David Raya Martin,3.6799999999999997,3.0,20
+39,Joe Gauci,0.0,0.0,20
+46,Filip Marschall,0.0,0.0,20
+47,Emiliano Martínez Romero,3.7199999999999998,2.0,20
+51,Robin Olsen,0.029999999999999805,0.0,20
+55,Viljami Sinisalo,0.0,0.0,20
+73,Norberto Murara Neto,0.0,0.0,20
+75,Alex Paulsen,0.0,0.0,20
+84,Mark Travers,0.0,6.0,20
+91,Mark Flekken,3.63,6.0,20
+109,Hákon Valdimarsson,0.8500000000000001,0.0,20
+142,Jason Steele,0.0,0.0,20
+146,Bart Verbruggen,2.74,2.0,20
+152,Kepa Arrizabalaga,2.5,0.0,20
+154,Lucas Bergström,0.0,0.0,20
+155,Marcus Bettinelli,0.0,0.0,20
+183,Đorđe Petrović,0.0,0.0,20
+185,Robert Sánchez,0.5,3.0,20
+201,Dean Henderson,3.0999999999999996,2.0,20
+204,Sam Johnstone,0.0,0.0,20
+209,Remi Matthews,0.0,0.0,20
+227,João Neves Virgínia,0.2200000000000002,0.0,20
+235,Jordan Pickford,4.53,4.0,20
+242,Steven Benda,0.04999999999999982,0.0,20
+248,Bernd Leno,3.24,1.0,20
+280,Cieran Slicker,0.0,0.0,20
+283,Christian Walton,2.59,1.0,20
+293,Mads Hermansen,0.14000000000000012,0.0,20
+294,Daniel Iversen,0.0,0.0,20
+304,Jakub Stolarczyk,3.3099999999999996,2.0,20
+308,Danny Ward,0.06000000000000005,0.0,20
+310,Alisson Ramses Becker,3.2,1.0,20
+325,Caoimhin Kelleher,0.0,0.0,20
+344,Scott Carson,0.0,0.0,20
+347,Ederson Santana de Moraes,0.06999999999999984,0.0,20
+358,Stefan Ortega Moreno,3.4000000000000004,3.0,20
+367,Altay Bayindir,0.0,0.0,20
+374,Tom Heaton,0.0,0.0,20
+383,André Onana,1.35,2.0,20
+396,Martin Dúbravka,3.3200000000000003,3.0,20
+412,Odysseas Vlachodimos,0.31999999999999984,0.0,20
+413,Nick Pope,1.38,0.0,20
+414,John Ruddy,0.0,0.0,20
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,20
+443,Matz Sels,3.5,7.0,20
+445,Matt Turner,0.54,0.0,20
+454,Gavin Bazunu,0.0,0.0,20
+465,Mateusz Lis,0.0,0.0,20
+466,Joe Lumley,0.0,0.0,20
+469,Alex McCarthy,0.0,0.0,20
+479,Brandon Austin,0.6800000000000002,1.0,20
+488,Fraser Forster,2.6100000000000003,0.0,20
+508,Guglielmo Vicario,0.25,0.0,20
+510,Alfie Whiteman,0.0,0.0,20
+513,Alphonse Areola,3.55,1.0,20
+521,Łukasz Fabiański,0.6699999999999999,0.0,20
+522,Wes Foderingham,0.0,0.0,20
+536,Daniel Bentley,0.16000000000000014,0.0,20
+554,José Malheiro de Sá,2.91,1.0,20
+556,Tom King,0.009999999999999787,0.0,20
+568,Arijanet Muric,0.9500000000000002,0.0,20
+581,Filip Jørgensen,1.1600000000000001,0.0,20
+599,Will Dennis,0.0,0.0,20
+615,Carl Rushworth,0.0,0.0,20
+624,Asmir Begovic,0.0,0.0,20
+639,Tommy Setford,0.029999999999999805,0.0,20
+641,Oliwier Zych,0.0,0.0,20
+660,Vítezslav Jaros,0.009999999999999787,0.0,20
+668,Killian Cahill,0.31000000000000005,0.0,20
+669,Harvey Davies,0.0,0.0,20
+704,Spike Brits,0.0,0.0,20
+5,Karl Hein,0.0,0.0,21
+14,Aaron Ramsdale,2.01,3.0,21
+15,David Raya Martin,2.46,2.0,21
+39,Joe Gauci,0.0,0.0,21
+46,Filip Marschall,0.0,0.0,21
+47,Emiliano Martínez Romero,3.84,6.0,21
+51,Robin Olsen,0.0,0.0,21
+55,Viljami Sinisalo,0.0,0.0,21
+73,Norberto Murara Neto,0.0,0.0,21
+75,Alex Paulsen,0.0,0.0,21
+84,Mark Travers,1.31,3.0,21
+91,Mark Flekken,3.3200000000000003,3.0,21
+109,Hákon Valdimarsson,0.7200000000000002,0.0,21
+142,Jason Steele,0.43999999999999995,0.0,21
+146,Bart Verbruggen,3.1900000000000004,7.0,21
+152,Kepa Arrizabalaga,1.2200000000000002,0.0,21
+154,Lucas Bergström,0.0,0.0,21
+155,Marcus Bettinelli,0.009999999999999787,0.0,21
+183,Đorđe Petrović,0.0,0.0,21
+185,Robert Sánchez,3.45,1.0,21
+201,Dean Henderson,2.5199999999999996,7.0,21
+204,Sam Johnstone,0.0,0.0,21
+209,Remi Matthews,0.009999999999999787,0.0,21
+227,João Neves Virgínia,0.0,0.0,21
+235,Jordan Pickford,5.07,1.0,21
+242,Steven Benda,0.33000000000000007,0.0,21
+248,Bernd Leno,3.7199999999999998,1.0,21
+280,Cieran Slicker,0.0,0.0,21
+283,Christian Walton,0.7799999999999998,2.0,21
+293,Mads Hermansen,0.20000000000000018,0.0,21
+294,Daniel Iversen,0.009999999999999787,0.0,21
+304,Jakub Stolarczyk,3.6399999999999997,1.0,21
+308,Danny Ward,0.0,0.0,21
+310,Alisson Ramses Becker,2.6799999999999997,2.0,21
+325,Caoimhin Kelleher,0.2799999999999998,0.0,21
+344,Scott Carson,0.1499999999999999,0.0,21
+347,Ederson Santana de Moraes,0.04999999999999982,0.0,21
+358,Stefan Ortega Moreno,2.3200000000000003,2.0,21
+367,Altay Bayindir,0.4700000000000002,0.0,21
+374,Tom Heaton,0.08999999999999986,0.0,21
+383,André Onana,2.6399999999999997,3.0,21
+396,Martin Dúbravka,2.5199999999999996,8.0,21
+412,Odysseas Vlachodimos,0.25,0.0,21
+413,Nick Pope,0.029999999999999805,0.0,21
+414,John Ruddy,0.020000000000000018,0.0,21
+427,Carlos Miguel dos Santos Pereira,0.14000000000000012,0.0,21
+443,Matz Sels,3.5599999999999996,3.0,21
+445,Matt Turner,0.6800000000000002,0.0,21
+454,Gavin Bazunu,0.0,0.0,21
+465,Mateusz Lis,0.0,0.0,21
+466,Joe Lumley,0.009999999999999787,0.0,21
+469,Alex McCarthy,0.0,0.0,21
+479,Brandon Austin,1.92,0.0,21
+488,Fraser Forster,0.08000000000000007,0.0,21
+508,Guglielmo Vicario,0.20999999999999996,0.0,21
+510,Alfie Whiteman,0.0,0.0,21
+513,Alphonse Areola,2.05,0.0,21
+521,Łukasz Fabiański,0.6800000000000002,1.0,21
+522,Wes Foderingham,0.04999999999999982,0.0,21
+536,Daniel Bentley,0.08999999999999986,0.0,21
+554,José Malheiro de Sá,3.2,1.0,21
+556,Tom King,0.0,0.0,21
+568,Arijanet Muric,0.16999999999999993,0.0,21
+581,Filip Jørgensen,0.0,0.0,21
+599,Will Dennis,0.0,0.0,21
+615,Carl Rushworth,0.0,0.0,21
+624,Asmir Begovic,0.0,0.0,21
+639,Tommy Setford,0.0,0.0,21
+641,Oliwier Zych,0.0,0.0,21
+660,Vítezslav Jaros,0.10000000000000009,0.0,21
+668,Killian Cahill,0.3599999999999999,0.0,21
+669,Harvey Davies,1.12,0.0,21
+704,Spike Brits,0.0,0.0,21
+716,Antonín Kinsky,3.41,2.0,21
+721,Wayne Hennessey,0.33999999999999986,0.0,21
+5,Karl Hein,0.0,0.0,22
+14,Aaron Ramsdale,1.7599999999999998,1.0,22
+15,David Raya Martin,2.3,1.0,22
+39,Joe Gauci,0.3599999999999999,0.0,22
+46,Filip Marschall,0.0,0.0,22
+47,Emiliano Martínez Romero,2.79,2.0,22
+51,Robin Olsen,0.029999999999999805,0.0,22
+55,Viljami Sinisalo,0.0,0.0,22
+73,Norberto Murara Neto,0.009999999999999787,0.0,22
+75,Alex Paulsen,0.0,0.0,22
+84,Mark Travers,0.6800000000000002,0.0,22
+91,Mark Flekken,2.7800000000000002,3.0,22
+109,Hákon Valdimarsson,0.33999999999999986,0.0,22
+142,Jason Steele,0.0,0.0,22
+146,Bart Verbruggen,1.98,2.0,22
+152,Kepa Arrizabalaga,2.09,3.0,22
+154,Lucas Bergström,0.0,0.0,22
+155,Marcus Bettinelli,0.0,0.0,22
+183,Đorđe Petrović,0.0,0.0,22
+185,Robert Sánchez,2.59,2.0,22
+201,Dean Henderson,3.2699999999999996,6.0,22
+204,Sam Johnstone,0.45999999999999996,0.0,22
+209,Remi Matthews,0.0,0.0,22
+227,João Neves Virgínia,0.040000000000000036,0.0,22
+235,Jordan Pickford,4.08,2.0,22
+242,Steven Benda,0.0,0.0,22
+248,Bernd Leno,2.83,7.0,22
+280,Cieran Slicker,0.029999999999999805,0.0,22
+283,Christian Walton,0.6400000000000001,0.0,22
+293,Mads Hermansen,0.0,0.0,22
+294,Daniel Iversen,0.009999999999999787,0.0,22
+304,Jakub Stolarczyk,1.8900000000000001,1.0,22
+308,Danny Ward,0.0,0.0,22
+310,Alisson Ramses Becker,3.12,8.0,22
+325,Caoimhin Kelleher,0.0,0.0,22
+344,Scott Carson,0.3999999999999999,0.0,22
+347,Ederson Santana de Moraes,0.6699999999999999,7.0,22
+358,Stefan Ortega Moreno,2.1500000000000004,0.0,22
+367,Altay Bayindir,0.0,0.0,22
+374,Tom Heaton,0.2999999999999998,0.0,22
+383,André Onana,1.8900000000000001,1.0,22
+396,Martin Dúbravka,3.76,2.0,22
+412,Odysseas Vlachodimos,0.0,0.0,22
+413,Nick Pope,0.009999999999999787,0.0,22
+414,John Ruddy,0.10999999999999988,0.0,22
+427,Carlos Miguel dos Santos Pereira,0.020000000000000018,0.0,22
+443,Matz Sels,3.63,1.0,22
+445,Matt Turner,0.0,0.0,22
+454,Gavin Bazunu,0.0,0.0,22
+465,Mateusz Lis,0.0,0.0,22
+466,Joe Lumley,0.020000000000000018,0.0,22
+469,Alex McCarthy,0.0,0.0,22
+479,Brandon Austin,0.04999999999999982,0.0,22
+488,Fraser Forster,0.3599999999999999,0.0,22
+508,Guglielmo Vicario,0.18000000000000016,0.0,22
+510,Alfie Whiteman,0.10999999999999988,0.0,22
+513,Alphonse Areola,0.009999999999999787,0.0,22
+521,Łukasz Fabiański,1.48,2.0,22
+522,Wes Foderingham,0.0,0.0,22
+536,Daniel Bentley,0.08999999999999986,0.0,22
+554,José Malheiro de Sá,2.8600000000000003,2.0,22
+556,Tom King,0.0,0.0,22
+568,Arijanet Muric,0.10000000000000009,0.0,22
+581,Filip Jørgensen,0.0,0.0,22
+599,Will Dennis,0.0,0.0,22
+615,Carl Rushworth,0.0,0.0,22
+624,Asmir Begovic,0.7200000000000002,0.0,22
+639,Tommy Setford,0.0,0.0,22
+641,Oliwier Zych,0.2999999999999998,0.0,22
+660,Vítezslav Jaros,0.54,0.0,22
+668,Killian Cahill,0.0,0.0,22
+669,Harvey Davies,0.0,0.0,22
+704,Spike Brits,0.0,0.0,22
+716,Antonín Kinsky,2.17,2.0,22
+721,Wayne Hennessey,0.10000000000000009,0.0,22
+727,Callan McKenna,0.0,0.0,22
+5,Karl Hein,0.0,0.0,23
+14,Aaron Ramsdale,1.7000000000000002,0.0,23
+15,David Raya Martin,2.2199999999999998,7.0,23
+39,Joe Gauci,0.0,0.0,23
+46,Filip Marschall,0.0,0.0,23
+47,Emiliano Martínez Romero,3.5300000000000002,2.0,23
+51,Robin Olsen,0.2999999999999998,0.0,23
+55,Viljami Sinisalo,0.0,0.0,23
+73,Norberto Murara Neto,0.0,0.0,23
+75,Alex Paulsen,0.0,0.0,23
+84,Mark Travers,0.0,0.0,23
+91,Mark Flekken,2.2300000000000004,3.0,23
+109,Hákon Valdimarsson,0.06000000000000005,0.0,23
+142,Jason Steele,0.0,0.0,23
+146,Bart Verbruggen,3.26,1.0,23
+152,Kepa Arrizabalaga,1.92,7.0,23
+154,Lucas Bergström,0.0,0.0,23
+155,Marcus Bettinelli,0.08000000000000007,0.0,23
+183,Đorđe Petrović,0.0,0.0,23
+185,Robert Sánchez,2.51,2.0,23
+201,Dean Henderson,3.04,1.0,23
+204,Sam Johnstone,0.8399999999999999,0.0,23
+209,Remi Matthews,0.0,0.0,23
+227,João Neves Virgínia,0.009999999999999787,0.0,23
+235,Jordan Pickford,3.4000000000000004,5.0,23
+242,Steven Benda,0.0,0.0,23
+248,Bernd Leno,4.31,2.0,23
+280,Cieran Slicker,0.0,0.0,23
+283,Christian Walton,0.73,0.0,23
+293,Mads Hermansen,0.0,0.0,23
+294,Daniel Iversen,0.0,0.0,23
+304,Jakub Stolarczyk,2.51,2.0,23
+308,Danny Ward,0.0,0.0,23
+310,Alisson Ramses Becker,3.1100000000000003,2.0,23
+325,Caoimhin Kelleher,0.0,0.0,23
+344,Scott Carson,0.0,0.0,23
+347,Ederson Santana de Moraes,2.0599999999999996,6.0,23
+358,Stefan Ortega Moreno,2.4400000000000004,0.0,23
+367,Altay Bayindir,0.0,0.0,23
+374,Tom Heaton,0.0,0.0,23
+383,André Onana,1.77,6.0,23
+396,Martin Dúbravka,4.03,3.0,23
+412,Odysseas Vlachodimos,0.0,0.0,23
+413,Nick Pope,0.16999999999999993,0.0,23
+414,John Ruddy,0.0,0.0,23
+427,Carlos Miguel dos Santos Pereira,0.6600000000000001,0.0,23
+443,Matz Sels,3.7,1.0,23
+445,Matt Turner,0.06000000000000005,0.0,23
+454,Gavin Bazunu,0.08000000000000007,0.0,23
+465,Mateusz Lis,0.0,0.0,23
+466,Joe Lumley,0.0,0.0,23
+469,Alex McCarthy,0.020000000000000018,2.0,23
+479,Brandon Austin,0.0,0.0,23
+488,Fraser Forster,0.0,0.0,23
+508,Guglielmo Vicario,0.0,0.0,23
+510,Alfie Whiteman,0.0,0.0,23
+513,Alphonse Areola,0.54,3.0,23
+521,Łukasz Fabiański,2.33,0.0,23
+522,Wes Foderingham,2.0199999999999996,0.0,23
+536,Daniel Bentley,0.1200000000000001,0.0,23
+554,José Malheiro de Sá,2.5300000000000002,2.0,23
+556,Tom King,0.0,0.0,23
+568,Arijanet Muric,1.3599999999999999,0.0,23
+581,Filip Jørgensen,0.10000000000000009,0.0,23
+599,Will Dennis,0.0,0.0,23
+615,Carl Rushworth,0.0,0.0,23
+624,Asmir Begovic,0.0,0.0,23
+639,Tommy Setford,0.3599999999999999,0.0,23
+641,Oliwier Zych,0.0,0.0,23
+660,Vítezslav Jaros,0.0,0.0,23
+668,Killian Cahill,0.06999999999999984,0.0,23
+669,Harvey Davies,0.0,0.0,23
+704,Spike Brits,0.0,0.0,23
+716,Antonín Kinsky,2.0599999999999996,1.0,23
+721,Wayne Hennessey,0.16999999999999993,0.0,23
+727,Callan McKenna,0.009999999999999787,0.0,23
+756,Jack Porter,0.0,0.0,23
+5,Karl Hein,0.0,0.0,24
+14,Aaron Ramsdale,0.3799999999999999,3.0,24
+15,David Raya Martin,3.7199999999999998,3.0,24
+39,Joe Gauci,0.18999999999999995,0.0,24
+46,Filip Marschall,0.0,0.0,24
+47,Emiliano Martínez Romero,2.08,2.0,24
+51,Robin Olsen,0.1200000000000001,0.0,24
+55,Viljami Sinisalo,0.0,0.0,24
+73,Norberto Murara Neto,0.0,0.0,24
+75,Alex Paulsen,0.0,0.0,24
+84,Mark Travers,0.0,0.0,24
+91,Mark Flekken,3.16,0.0,24
+109,Hákon Valdimarsson,1.2599999999999998,1.0,24
+142,Jason Steele,0.48,0.0,24
+146,Bart Verbruggen,3.38,-1.0,24
+152,Kepa Arrizabalaga,2.01,2.0,24
+154,Lucas Bergström,0.0,0.0,24
+155,Marcus Bettinelli,0.0,0.0,24
+183,Đorđe Petrović,0.0,0.0,24
+185,Robert Sánchez,1.46,0.0,24
+201,Dean Henderson,3.74,6.0,24
+204,Sam Johnstone,0.0,0.0,24
+209,Remi Matthews,0.0,0.0,24
+227,João Neves Virgínia,0.0,0.0,24
+235,Jordan Pickford,5.07,9.0,24
+242,Steven Benda,0.029999999999999805,0.0,24
+248,Bernd Leno,3.87,2.0,24
+280,Cieran Slicker,0.0,0.0,24
+283,Christian Walton,0.9100000000000001,0.0,24
+293,Mads Hermansen,0.0,1.0,24
+294,Daniel Iversen,0.0,0.0,24
+304,Jakub Stolarczyk,2.6799999999999997,0.0,24
+308,Danny Ward,0.040000000000000036,0.0,24
+310,Alisson Ramses Becker,3.24,7.0,24
+325,Caoimhin Kelleher,0.06000000000000005,0.0,24
+344,Scott Carson,0.06999999999999984,0.0,24
+347,Ederson Santana de Moraes,4.14,0.0,24
+358,Stefan Ortega Moreno,3.01,0.0,24
+367,Altay Bayindir,0.0,0.0,24
+374,Tom Heaton,0.0,0.0,24
+383,André Onana,2.51,1.0,24
+396,Martin Dúbravka,3.41,1.0,24
+412,Odysseas Vlachodimos,0.0,0.0,24
+413,Nick Pope,1.75,0.0,24
+414,John Ruddy,0.0,0.0,24
+427,Carlos Miguel dos Santos Pereira,0.41999999999999993,0.0,24
+443,Matz Sels,3.12,8.0,24
+445,Matt Turner,0.18000000000000016,0.0,24
+454,Gavin Bazunu,0.0,0.0,24
+465,Mateusz Lis,0.0,0.0,24
+466,Joe Lumley,0.0,0.0,24
+469,Alex McCarthy,0.8500000000000001,0.0,24
+479,Brandon Austin,0.0,0.0,24
+488,Fraser Forster,0.040000000000000036,0.0,24
+508,Guglielmo Vicario,0.0,0.0,24
+510,Alfie Whiteman,0.9900000000000002,0.0,24
+513,Alphonse Areola,1.7599999999999998,2.0,24
+521,Łukasz Fabiański,0.10999999999999988,0.0,24
+522,Wes Foderingham,0.0,0.0,24
+536,Daniel Bentley,1.44,0.0,24
+554,José Malheiro de Sá,2.99,7.0,24
+556,Tom King,0.0,0.0,24
+568,Arijanet Muric,0.54,1.0,24
+581,Filip Jørgensen,0.0,3.0,24
+599,Will Dennis,0.0,0.0,24
+615,Carl Rushworth,0.0,0.0,24
+624,Asmir Begovic,0.0,0.0,24
+639,Tommy Setford,0.0,0.0,24
+641,Oliwier Zych,0.2400000000000002,0.0,24
+660,Vítezslav Jaros,0.0,0.0,24
+668,Killian Cahill,0.040000000000000036,0.0,24
+669,Harvey Davies,0.0,0.0,24
+704,Spike Brits,0.0,0.0,24
+716,Antonín Kinsky,3.2199999999999998,7.0,24
+721,Wayne Hennessey,0.27,0.0,24
+727,Callan McKenna,0.0,0.0,24
+756,Jack Porter,0.0,0.0,24
+759,Julian Eyestone,0.0,0.0,24
+761,Elyh Harrison,0.0,0.0,24
+5,Karl Hein,0.0,0.0,25
+14,Aaron Ramsdale,3.2,2.0,25
+15,David Raya Martin,3.49,6.0,25
+39,Joe Gauci,0.0,0.0,25
+46,Filip Marschall,0.0,0.0,25
+47,Emiliano Martínez Romero,4.08,3.0,25
+51,Robin Olsen,0.06000000000000005,0.0,25
+55,Viljami Sinisalo,0.0,0.0,25
+73,Norberto Murara Neto,0.0,0.0,25
+75,Alex Paulsen,0.0,0.0,25
+84,Mark Travers,0.009999999999999787,0.0,25
+91,Mark Flekken,0.1499999999999999,7.0,25
+109,Hákon Valdimarsson,2.8200000000000003,0.0,25
+142,Jason Steele,0.009999999999999787,0.0,25
+146,Bart Verbruggen,3.42,9.0,25
+152,Kepa Arrizabalaga,2.7300000000000004,3.0,25
+154,Lucas Bergström,0.4700000000000002,0.0,25
+155,Marcus Bettinelli,0.029999999999999805,0.0,25
+183,Đorđe Petrović,0.0,0.0,25
+185,Robert Sánchez,0.5299999999999998,0.0,25
+201,Dean Henderson,2.37,2.0,25
+204,Sam Johnstone,0.0,0.0,25
+209,Remi Matthews,0.0,0.0,25
+227,João Neves Virgínia,0.0,0.0,25
+235,Jordan Pickford,4.51,3.0,25
+242,Steven Benda,0.20000000000000018,0.0,25
+248,Bernd Leno,2.87,2.0,25
+280,Cieran Slicker,0.0,0.0,25
+283,Christian Walton,0.0,0.0,25
+293,Mads Hermansen,1.15,2.0,25
+294,Daniel Iversen,0.14000000000000012,0.0,25
+304,Jakub Stolarczyk,1.0499999999999998,0.0,25
+308,Danny Ward,0.009999999999999787,0.0,25
+310,Alisson Ramses Becker,2.2800000000000002,3.0,25
+325,Caoimhin Kelleher,0.5,0.0,25
+344,Scott Carson,0.06999999999999984,0.0,25
+347,Ederson Santana de Moraes,0.029999999999999805,9.0,25
+358,Stefan Ortega Moreno,0.52,0.0,25
+367,Altay Bayindir,0.0,0.0,25
+374,Tom Heaton,0.029999999999999805,0.0,25
+383,André Onana,2.6900000000000004,4.0,25
+396,Martin Dúbravka,1.8599999999999999,1.0,25
+412,Odysseas Vlachodimos,0.0,0.0,25
+413,Nick Pope,1.35,0.0,25
+414,John Ruddy,0.029999999999999805,0.0,25
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,25
+443,Matz Sels,3.37,3.0,25
+445,Matt Turner,0.0,0.0,25
+454,Gavin Bazunu,0.0,0.0,25
+465,Mateusz Lis,0.0,0.0,25
+466,Joe Lumley,0.06999999999999984,0.0,25
+469,Alex McCarthy,0.0,0.0,25
+479,Brandon Austin,0.0,0.0,25
+488,Fraser Forster,0.0,0.0,25
+508,Guglielmo Vicario,0.06000000000000005,8.0,25
+510,Alfie Whiteman,0.4700000000000002,0.0,25
+513,Alphonse Areola,1.6800000000000002,3.0,25
+521,Łukasz Fabiański,0.20999999999999996,0.0,25
+522,Wes Foderingham,0.10000000000000009,0.0,25
+536,Daniel Bentley,0.0,0.0,25
+554,José Malheiro de Sá,3.3200000000000003,1.0,25
+556,Tom King,0.0,0.0,25
+568,Arijanet Muric,2.7,0.0,25
+581,Filip Jørgensen,3.1900000000000004,2.0,25
+599,Will Dennis,0.0,0.0,25
+615,Carl Rushworth,0.5499999999999998,0.0,25
+624,Asmir Begovic,0.029999999999999805,0.0,25
+639,Tommy Setford,0.0,0.0,25
+641,Oliwier Zych,0.06999999999999984,0.0,25
+660,Vítezslav Jaros,0.0,0.0,25
+668,Killian Cahill,0.0,0.0,25
+669,Harvey Davies,0.0,0.0,25
+704,Spike Brits,0.0,0.0,25
+716,Antonín Kinsky,3.0999999999999996,0.0,25
+721,Wayne Hennessey,0.43999999999999995,0.0,25
+727,Callan McKenna,0.040000000000000036,0.0,25
+756,Jack Porter,0.0,0.0,25
+759,Julian Eyestone,0.0,0.0,25
+761,Elyh Harrison,0.0,0.0,25
+764,Alex Palmer,0.29000000000000004,4.0,25
+5,Karl Hein,0.0,0.0,26
+14,Aaron Ramsdale,0.3999999999999999,1.0,26
+15,David Raya Martin,2.95,2.0,26
+39,Joe Gauci,0.0,0.0,26
+46,Filip Marschall,0.0,0.0,26
+47,Emiliano Martínez Romero,2.05,3.0,26
+51,Robin Olsen,0.9700000000000002,0.0,26
+55,Viljami Sinisalo,0.0,0.0,26
+73,Norberto Murara Neto,0.0,0.0,26
+75,Alex Paulsen,0.0,0.0,26
+84,Mark Travers,0.43999999999999995,0.0,26
+91,Mark Flekken,3.5999999999999996,7.0,26
+109,Hákon Valdimarsson,0.5800000000000001,0.0,26
+142,Jason Steele,0.0,0.0,26
+146,Bart Verbruggen,3.8,6.0,26
+152,Kepa Arrizabalaga,2.2300000000000004,2.0,26
+154,Lucas Bergström,0.0,0.0,26
+155,Marcus Bettinelli,0.08999999999999986,0.0,26
+183,Đorđe Petrović,0.0,0.0,26
+185,Robert Sánchez,1.3900000000000001,0.0,26
+201,Dean Henderson,2.2800000000000002,6.0,26
+204,Sam Johnstone,1.98,0.0,26
+209,Remi Matthews,0.029999999999999805,0.0,26
+227,João Neves Virgínia,0.029999999999999805,0.0,26
+235,Jordan Pickford,2.7199999999999998,1.0,26
+242,Steven Benda,0.0,0.0,26
+248,Bernd Leno,2.8899999999999997,2.0,26
+280,Cieran Slicker,0.0,0.0,26
+283,Christian Walton,0.5299999999999998,0.0,26
+293,Mads Hermansen,0.8199999999999998,1.0,26
+294,Daniel Iversen,0.0,0.0,26
+304,Jakub Stolarczyk,1.54,0.0,26
+308,Danny Ward,0.6499999999999999,0.0,26
+310,Alisson Ramses Becker,1.4900000000000002,7.0,26
+325,Caoimhin Kelleher,0.16999999999999993,0.0,26
+344,Scott Carson,0.009999999999999787,0.0,26
+347,Ederson Santana de Moraes,2.58,1.0,26
+358,Stefan Ortega Moreno,1.4500000000000002,0.0,26
+367,Altay Bayindir,0.040000000000000036,0.0,26
+374,Tom Heaton,0.3599999999999999,0.0,26
+383,André Onana,1.75,3.0,26
+396,Martin Dúbravka,3.0599999999999996,0.0,26
+412,Odysseas Vlachodimos,0.0,0.0,26
+413,Nick Pope,0.8999999999999999,1.0,26
+414,John Ruddy,0.0,0.0,26
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,26
+443,Matz Sels,3.67,0.0,26
+445,Matt Turner,0.0,0.0,26
+454,Gavin Bazunu,0.0,0.0,26
+465,Mateusz Lis,0.0,0.0,26
+466,Joe Lumley,0.0,0.0,26
+469,Alex McCarthy,2.0599999999999996,0.0,26
+479,Brandon Austin,0.06999999999999984,0.0,26
+488,Fraser Forster,0.08999999999999986,0.0,26
+508,Guglielmo Vicario,3.3899999999999997,3.0,26
+510,Alfie Whiteman,0.0,0.0,26
+513,Alphonse Areola,2.3600000000000003,6.0,26
+521,Łukasz Fabiański,0.25,0.0,26
+522,Wes Foderingham,0.029999999999999805,0.0,26
+536,Daniel Bentley,0.0,0.0,26
+554,José Malheiro de Sá,1.7999999999999998,7.0,26
+556,Tom King,0.0,0.0,26
+568,Arijanet Muric,0.6000000000000001,0.0,26
+581,Filip Jørgensen,2.0199999999999996,2.0,26
+599,Will Dennis,0.20999999999999996,0.0,26
+615,Carl Rushworth,0.2999999999999998,0.0,26
+624,Asmir Begovic,0.0,0.0,26
+639,Tommy Setford,0.0,0.0,26
+641,Oliwier Zych,0.020000000000000018,0.0,26
+660,Vítezslav Jaros,0.0,0.0,26
+668,Killian Cahill,0.0,0.0,26
+669,Harvey Davies,0.0,0.0,26
+704,Spike Brits,0.0,0.0,26
+716,Antonín Kinsky,0.41999999999999993,0.0,26
+721,Wayne Hennessey,0.0,0.0,26
+727,Callan McKenna,0.0,0.0,26
+756,Jack Porter,0.0,0.0,26
+759,Julian Eyestone,0.1200000000000001,0.0,26
+761,Elyh Harrison,0.040000000000000036,0.0,26
+764,Alex Palmer,0.8399999999999999,0.0,26
+783,Hubert Graczyk,0.0,0.0,26
+5,Karl Hein,0.0,0.0,27
+14,Aaron Ramsdale,1.98,2.0,27
+15,David Raya Martin,2.5199999999999996,6.0,27
+39,Joe Gauci,0.0,0.0,27
+46,Filip Marschall,0.0,0.0,27
+47,Emiliano Martínez Romero,3.6100000000000003,1.0,27
+51,Robin Olsen,0.5,0.0,27
+55,Viljami Sinisalo,0.0,0.0,27
+73,Norberto Murara Neto,0.0,0.0,27
+75,Alex Paulsen,0.0,0.0,27
+84,Mark Travers,0.06999999999999984,0.0,27
+91,Mark Flekken,5.02,3.0,27
+109,Hákon Valdimarsson,0.31999999999999984,0.0,27
+142,Jason Steele,0.0,0.0,27
+146,Bart Verbruggen,2.45,3.0,27
+152,Kepa Arrizabalaga,2.58,1.0,27
+154,Lucas Bergström,0.0,0.0,27
+155,Marcus Bettinelli,0.0,0.0,27
+183,Đorđe Petrović,0.0,0.0,27
+185,Robert Sánchez,0.8799999999999999,0.0,27
+201,Dean Henderson,3.2199999999999998,2.0,27
+204,Sam Johnstone,0.18000000000000016,0.0,27
+209,Remi Matthews,0.0,0.0,27
+227,João Neves Virgínia,0.0,0.0,27
+235,Jordan Pickford,3.29,2.0,27
+242,Steven Benda,0.029999999999999805,0.0,27
+248,Bernd Leno,1.94,3.0,27
+280,Cieran Slicker,0.0,0.0,27
+283,Christian Walton,0.0,0.0,27
+293,Mads Hermansen,0.5899999999999999,1.0,27
+294,Daniel Iversen,0.0,0.0,27
+304,Jakub Stolarczyk,0.52,0.0,27
+308,Danny Ward,0.04999999999999982,0.0,27
+310,Alisson Ramses Becker,2.33,6.0,27
+325,Caoimhin Kelleher,0.16000000000000014,0.0,27
+344,Scott Carson,0.0,0.0,27
+347,Ederson Santana de Moraes,2.8200000000000003,8.0,27
+358,Stefan Ortega Moreno,0.33999999999999986,0.0,27
+367,Altay Bayindir,0.0,0.0,27
+374,Tom Heaton,0.0,0.0,27
+383,André Onana,3.7300000000000004,1.0,27
+396,Martin Dúbravka,0.2599999999999998,0.0,27
+412,Odysseas Vlachodimos,0.0,0.0,27
+413,Nick Pope,1.96,1.0,27
+414,John Ruddy,0.0,0.0,27
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,27
+443,Matz Sels,3.5599999999999996,6.0,27
+445,Matt Turner,0.0,0.0,27
+454,Gavin Bazunu,0.0,0.0,27
+465,Mateusz Lis,0.0,0.0,27
+466,Joe Lumley,0.16999999999999993,0.0,27
+469,Alex McCarthy,1.1600000000000001,0.0,27
+479,Brandon Austin,0.06000000000000005,0.0,27
+488,Fraser Forster,0.06000000000000005,0.0,27
+508,Guglielmo Vicario,3.3899999999999997,3.0,27
+510,Alfie Whiteman,0.0,0.0,27
+513,Alphonse Areola,3.8200000000000003,6.0,27
+521,Łukasz Fabiański,0.2400000000000002,0.0,27
+522,Wes Foderingham,0.0,0.0,27
+536,Daniel Bentley,0.0,0.0,27
+554,José Malheiro de Sá,4.33,2.0,27
+556,Tom King,0.0,0.0,27
+568,Arijanet Muric,0.2799999999999998,0.0,27
+581,Filip Jørgensen,4.53,6.0,27
+599,Will Dennis,0.0,0.0,27
+615,Carl Rushworth,0.1200000000000001,0.0,27
+624,Asmir Begovic,0.0,0.0,27
+639,Tommy Setford,0.0,0.0,27
+641,Oliwier Zych,0.4900000000000002,0.0,27
+660,Vítezslav Jaros,0.0,0.0,27
+668,Killian Cahill,0.0,0.0,27
+669,Harvey Davies,0.0,0.0,27
+704,Spike Brits,0.31999999999999984,0.0,27
+716,Antonín Kinsky,0.48,0.0,27
+721,Wayne Hennessey,0.020000000000000018,0.0,27
+727,Callan McKenna,0.0,0.0,27
+756,Jack Porter,0.0,0.0,27
+759,Julian Eyestone,0.0,0.0,27
+761,Elyh Harrison,0.0,0.0,27
+764,Alex Palmer,0.8199999999999998,2.0,27
+783,Hubert Graczyk,0.0,0.0,27
+5,Karl Hein,0.0,0.0,28
+14,Aaron Ramsdale,2.1399999999999997,2.0,28
+15,David Raya Martin,2.9400000000000004,3.0,28
+39,Joe Gauci,0.0,0.0,28
+46,Filip Marschall,0.0,0.0,28
+47,Emiliano Martínez Romero,2.67,0.0,28
+51,Robin Olsen,0.4900000000000002,7.0,28
+55,Viljami Sinisalo,0.0,0.0,28
+73,Norberto Murara Neto,0.0,0.0,28
+75,Alex Paulsen,0.0,0.0,28
+84,Mark Travers,0.0,0.0,28
+91,Mark Flekken,3.1500000000000004,3.0,28
+109,Hákon Valdimarsson,0.10000000000000009,0.0,28
+142,Jason Steele,0.040000000000000036,0.0,28
+146,Bart Verbruggen,3.0,2.0,28
+152,Kepa Arrizabalaga,4.05,1.0,28
+154,Lucas Bergström,0.0,0.0,28
+155,Marcus Bettinelli,0.0,0.0,28
+183,Đorđe Petrović,0.0,0.0,28
+185,Robert Sánchez,0.98,7.0,28
+201,Dean Henderson,2.51,8.0,28
+204,Sam Johnstone,0.06000000000000005,0.0,28
+209,Remi Matthews,0.0,0.0,28
+227,João Neves Virgínia,0.0,0.0,28
+235,Jordan Pickford,2.4800000000000004,2.0,28
+242,Steven Benda,0.0,0.0,28
+248,Bernd Leno,2.08,1.0,28
+280,Cieran Slicker,0.0,0.0,28
+283,Christian Walton,0.10000000000000009,0.0,28
+293,Mads Hermansen,0.7799999999999998,9.0,28
+294,Daniel Iversen,0.0,0.0,28
+304,Jakub Stolarczyk,0.2999999999999998,0.0,28
+308,Danny Ward,0.009999999999999787,0.0,28
+310,Alisson Ramses Becker,3.37,3.0,28
+325,Caoimhin Kelleher,0.020000000000000018,0.0,28
+344,Scott Carson,0.0,0.0,28
+347,Ederson Santana de Moraes,4.3,3.0,28
+358,Stefan Ortega Moreno,0.1499999999999999,0.0,28
+367,Altay Bayindir,0.0,0.0,28
+374,Tom Heaton,0.040000000000000036,0.0,28
+383,André Onana,2.5,3.0,28
+396,Martin Dúbravka,0.14000000000000012,0.0,28
+412,Odysseas Vlachodimos,0.0,0.0,28
+413,Nick Pope,2.12,6.0,28
+414,John Ruddy,0.0,0.0,28
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,28
+443,Matz Sels,2.8600000000000003,7.0,28
+445,Matt Turner,0.0,0.0,28
+454,Gavin Bazunu,0.0,0.0,28
+465,Mateusz Lis,0.0,0.0,28
+466,Joe Lumley,0.06000000000000005,0.0,28
+469,Alex McCarthy,0.94,0.0,28
+479,Brandon Austin,0.06000000000000005,0.0,28
+488,Fraser Forster,0.16999999999999993,0.0,28
+508,Guglielmo Vicario,1.6400000000000001,3.0,28
+510,Alfie Whiteman,0.0,0.0,28
+513,Alphonse Areola,2.21,3.0,28
+521,Łukasz Fabiański,0.5800000000000001,0.0,28
+522,Wes Foderingham,0.2200000000000002,0.0,28
+536,Daniel Bentley,0.0,0.0,28
+554,José Malheiro de Sá,3.17,3.0,28
+556,Tom King,0.0,0.0,28
+568,Arijanet Muric,0.1499999999999999,0.0,28
+581,Filip Jørgensen,4.01,0.0,28
+599,Will Dennis,0.0,0.0,28
+615,Carl Rushworth,0.020000000000000018,0.0,28
+624,Asmir Begovic,0.0,0.0,28
+639,Tommy Setford,0.0,0.0,28
+641,Oliwier Zych,0.16000000000000014,0.0,28
+660,Vítezslav Jaros,0.0,0.0,28
+668,Killian Cahill,0.0,0.0,28
+669,Harvey Davies,0.0,0.0,28
+704,Spike Brits,0.0,0.0,28
+716,Antonín Kinsky,0.0,0.0,28
+721,Wayne Hennessey,0.08999999999999986,0.0,28
+727,Callan McKenna,0.0,0.0,28
+756,Jack Porter,0.3999999999999999,0.0,28
+759,Julian Eyestone,0.0,0.0,28
+761,Elyh Harrison,0.0,0.0,28
+764,Alex Palmer,1.4700000000000002,3.0,28
+783,Hubert Graczyk,0.0,0.0,28
+788,Dermot Mee,0.0,0.0,28
+5,Karl Hein,0.0,0.0,29
+14,Aaron Ramsdale,1.5899999999999999,1.0,29
+15,David Raya Martin,2.24,6.0,29
+73,Norberto Murara Neto,0.0,0.0,29
+75,Alex Paulsen,0.0,0.0,29
+84,Mark Travers,0.3599999999999999,0.0,29
+91,Mark Flekken,3.1799999999999997,3.0,29
+109,Hákon Valdimarsson,0.22999999999999998,0.0,29
+142,Jason Steele,0.0,0.0,29
+146,Bart Verbruggen,3.2199999999999998,0.0,29
+152,Kepa Arrizabalaga,3.34,1.0,29
+154,Lucas Bergström,0.0,0.0,29
+155,Marcus Bettinelli,0.0,0.0,29
+183,Đorđe Petrović,0.0,0.0,29
+185,Robert Sánchez,2.25,3.0,29
+204,Sam Johnstone,0.1200000000000001,0.0,29
+227,João Neves Virgínia,0.0,0.0,29
+235,Jordan Pickford,3.01,3.0,29
+242,Steven Benda,0.020000000000000018,0.0,29
+248,Bernd Leno,1.94,10.0,29
+280,Cieran Slicker,0.0,0.0,29
+283,Christian Walton,0.79,0.0,29
+293,Mads Hermansen,1.96,1.0,29
+294,Daniel Iversen,0.0,0.0,29
+304,Jakub Stolarczyk,2.0300000000000002,0.0,29
+308,Danny Ward,0.08999999999999986,0.0,29
+344,Scott Carson,0.06000000000000005,0.0,29
+347,Ederson Santana de Moraes,3.0700000000000003,0.0,29
+358,Stefan Ortega Moreno,0.18000000000000016,1.0,29
+367,Altay Bayindir,0.0,0.0,29
+374,Tom Heaton,0.08000000000000007,0.0,29
+383,André Onana,2.8200000000000003,7.0,29
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,29
+443,Matz Sels,2.7300000000000004,1.0,29
+454,Gavin Bazunu,0.0,0.0,29
+465,Mateusz Lis,0.0,0.0,29
+466,Joe Lumley,0.08999999999999986,0.0,29
+469,Alex McCarthy,0.41999999999999993,0.0,29
+479,Brandon Austin,0.10999999999999988,0.0,29
+488,Fraser Forster,0.16000000000000014,0.0,29
+508,Guglielmo Vicario,1.7200000000000002,1.0,29
+510,Alfie Whiteman,0.0,0.0,29
+513,Alphonse Areola,2.95,3.0,29
+521,Łukasz Fabiański,0.7999999999999998,0.0,29
+522,Wes Foderingham,0.0,0.0,29
+536,Daniel Bentley,0.0,0.0,29
+554,José Malheiro de Sá,3.1900000000000004,2.0,29
+556,Tom King,0.0,0.0,29
+568,Arijanet Muric,0.16999999999999993,0.0,29
+581,Filip Jørgensen,0.18000000000000016,0.0,29
+599,Will Dennis,0.0,0.0,29
+615,Carl Rushworth,0.0,0.0,29
+624,Asmir Begovic,0.0,0.0,29
+639,Tommy Setford,0.0,0.0,29
+668,Killian Cahill,0.0,0.0,29
+704,Spike Brits,0.0,0.0,29
+716,Antonín Kinsky,0.0,0.0,29
+721,Wayne Hennessey,0.0,0.0,29
+727,Callan McKenna,0.0,0.0,29
+756,Jack Porter,0.0,0.0,29
+759,Julian Eyestone,0.0,0.0,29
+761,Elyh Harrison,0.0,0.0,29
+764,Alex Palmer,1.0099999999999998,0.0,29
+783,Hubert Graczyk,0.0,0.0,29
+788,Dermot Mee,0.0,0.0,29
+5,Karl Hein,0.0,0.0,30
+14,Aaron Ramsdale,1.6,2.0,30
+15,David Raya Martin,3.9400000000000004,2.0,30
+39,Joe Gauci,0.0,0.0,30
+46,Filip Marschall,0.0,0.0,30
+47,Emiliano Martínez Romero,0.54,6.0,30
+51,Robin Olsen,1.0899999999999999,0.0,30
+55,Viljami Sinisalo,0.0,0.0,30
+73,Norberto Murara Neto,0.0,0.0,30
+75,Alex Paulsen,0.0,0.0,30
+84,Mark Travers,1.44,0.0,30
+91,Mark Flekken,4.29,1.0,30
+109,Hákon Valdimarsson,0.08999999999999986,0.0,30
+142,Jason Steele,0.0,0.0,30
+146,Bart Verbruggen,3.7199999999999998,1.0,30
+152,Kepa Arrizabalaga,2.42,1.0,30
+154,Lucas Bergström,0.0,0.0,30
+155,Marcus Bettinelli,0.0,0.0,30
+183,Đorđe Petrović,0.0,0.0,30
+185,Robert Sánchez,2.0700000000000003,6.0,30
+201,Dean Henderson,2.3499999999999996,2.0,30
+204,Sam Johnstone,0.1200000000000001,0.0,30
+209,Remi Matthews,0.0,0.0,30
+227,João Neves Virgínia,0.3999999999999999,0.0,30
+235,Jordan Pickford,2.2699999999999996,3.0,30
+242,Steven Benda,0.0,0.0,30
+248,Bernd Leno,2.05,2.0,30
+280,Cieran Slicker,0.020000000000000018,0.0,30
+283,Christian Walton,0.040000000000000036,0.0,30
+293,Mads Hermansen,1.23,2.0,30
+294,Daniel Iversen,0.020000000000000018,0.0,30
+304,Jakub Stolarczyk,0.20999999999999996,0.0,30
+308,Danny Ward,0.16999999999999993,0.0,30
+310,Alisson Ramses Becker,1.35,0.0,30
+325,Caoimhin Kelleher,0.08000000000000007,6.0,30
+344,Scott Carson,0.0,0.0,30
+347,Ederson Santana de Moraes,2.0599999999999996,6.0,30
+358,Stefan Ortega Moreno,2.2699999999999996,0.0,30
+367,Altay Bayindir,0.0,0.0,30
+374,Tom Heaton,0.0,0.0,30
+383,André Onana,2.38,2.0,30
+396,Martin Dúbravka,0.029999999999999805,0.0,30
+412,Odysseas Vlachodimos,0.0,0.0,30
+413,Nick Pope,3.5,2.0,30
+414,John Ruddy,0.029999999999999805,0.0,30
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,30
+443,Matz Sels,3.91,7.0,30
+445,Matt Turner,0.0,0.0,30
+454,Gavin Bazunu,0.0,0.0,30
+465,Mateusz Lis,0.0,0.0,30
+466,Joe Lumley,0.040000000000000036,0.0,30
+469,Alex McCarthy,0.3799999999999999,0.0,30
+479,Brandon Austin,0.04999999999999982,0.0,30
+488,Fraser Forster,0.0,0.0,30
+508,Guglielmo Vicario,1.85,3.0,30
+510,Alfie Whiteman,0.1499999999999999,0.0,30
+513,Alphonse Areola,3.4400000000000004,2.0,30
+521,Łukasz Fabiański,1.29,0.0,30
+522,Wes Foderingham,0.0,0.0,30
+536,Daniel Bentley,0.0,0.0,30
+554,José Malheiro de Sá,2.2300000000000004,5.0,30
+556,Tom King,0.0,0.0,30
+568,Arijanet Muric,0.06999999999999984,0.0,30
+581,Filip Jørgensen,0.6200000000000001,0.0,30
+599,Will Dennis,0.0,0.0,30
+615,Carl Rushworth,0.0,0.0,30
+624,Asmir Begovic,0.0,0.0,30
+639,Tommy Setford,0.0,0.0,30
+641,Oliwier Zych,0.0,0.0,30
+660,Vítezslav Jaros,0.0,0.0,30
+668,Killian Cahill,0.0,0.0,30
+669,Harvey Davies,0.0,0.0,30
+704,Spike Brits,0.0,0.0,30
+716,Antonín Kinsky,0.020000000000000018,0.0,30
+721,Wayne Hennessey,0.0,0.0,30
+727,Callan McKenna,0.0,0.0,30
+756,Jack Porter,0.0,0.0,30
+759,Julian Eyestone,0.0,0.0,30
+761,Elyh Harrison,0.0,0.0,30
+764,Alex Palmer,1.0099999999999998,3.0,30
+783,Hubert Graczyk,0.0,0.0,30
+788,Dermot Mee,0.0,0.0,30
+5,Karl Hein,0.0,0.0,31
+14,Aaron Ramsdale,2.16,2.0,31
+15,David Raya Martin,2.92,2.0,31
+39,Joe Gauci,0.0,0.0,31
+46,Filip Marschall,0.0,0.0,31
+47,Emiliano Martínez Romero,3.0700000000000003,1.0,31
+51,Robin Olsen,0.31999999999999984,0.0,31
+55,Viljami Sinisalo,0.0,0.0,31
+73,Norberto Murara Neto,0.20999999999999996,0.0,31
+75,Alex Paulsen,0.0,0.0,31
+84,Mark Travers,0.33999999999999986,0.0,31
+91,Mark Flekken,3.8899999999999997,8.0,31
+109,Hákon Valdimarsson,0.14000000000000012,0.0,31
+142,Jason Steele,0.0,0.0,31
+146,Bart Verbruggen,3.2800000000000002,1.0,31
+152,Kepa Arrizabalaga,2.76,1.0,31
+154,Lucas Bergström,0.020000000000000018,0.0,31
+155,Marcus Bettinelli,0.0,0.0,31
+183,Đorđe Petrović,0.0,0.0,31
+185,Robert Sánchez,2.92,6.0,31
+201,Dean Henderson,3.71,3.0,31
+204,Sam Johnstone,0.0,0.0,31
+209,Remi Matthews,0.0,0.0,31
+227,João Neves Virgínia,0.0,0.0,31
+235,Jordan Pickford,2.5,3.0,31
+242,Steven Benda,0.0,0.0,31
+248,Bernd Leno,2.79,1.0,31
+280,Cieran Slicker,0.0,0.0,31
+283,Christian Walton,0.94,0.0,31
+293,Mads Hermansen,1.7200000000000002,1.0,31
+294,Daniel Iversen,0.0,0.0,31
+304,Jakub Stolarczyk,0.2400000000000002,0.0,31
+308,Danny Ward,1.4,0.0,31
+310,Alisson Ramses Becker,0.22999999999999998,0.0,31
+325,Caoimhin Kelleher,2.33,2.0,31
+344,Scott Carson,0.0,0.0,31
+347,Ederson Santana de Moraes,2.7300000000000004,6.0,31
+358,Stefan Ortega Moreno,0.10000000000000009,0.0,31
+367,Altay Bayindir,0.0,0.0,31
+374,Tom Heaton,0.0,0.0,31
+383,André Onana,2.58,8.0,31
+396,Martin Dúbravka,0.06000000000000005,0.0,31
+412,Odysseas Vlachodimos,0.020000000000000018,0.0,31
+413,Nick Pope,4.67,6.0,31
+414,John Ruddy,0.0,0.0,31
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,31
+443,Matz Sels,4.81,3.0,31
+445,Matt Turner,0.009999999999999787,0.0,31
+454,Gavin Bazunu,0.0,0.0,31
+465,Mateusz Lis,0.0,0.0,31
+466,Joe Lumley,0.0,0.0,31
+469,Alex McCarthy,0.08999999999999986,0.0,31
+479,Brandon Austin,0.0,0.0,31
+488,Fraser Forster,0.020000000000000018,0.0,31
+508,Guglielmo Vicario,2.7699999999999996,3.0,31
+510,Alfie Whiteman,0.0,0.0,31
+513,Alphonse Areola,2.6799999999999997,2.0,31
+521,Łukasz Fabiański,0.73,0.0,31
+522,Wes Foderingham,0.0,0.0,31
+536,Daniel Bentley,0.0,0.0,31
+554,José Malheiro de Sá,2.29,2.0,31
+556,Tom King,0.0,0.0,31
+568,Arijanet Muric,0.7400000000000002,0.0,31
+581,Filip Jørgensen,0.08000000000000007,0.0,31
+599,Will Dennis,0.0,0.0,31
+615,Carl Rushworth,0.0,0.0,31
+624,Asmir Begovic,0.0,0.0,31
+639,Tommy Setford,0.0,0.0,31
+641,Oliwier Zych,0.14000000000000012,0.0,31
+660,Vítezslav Jaros,0.0,0.0,31
+668,Killian Cahill,0.0,0.0,31
+669,Harvey Davies,0.0,0.0,31
+704,Spike Brits,0.0,0.0,31
+716,Antonín Kinsky,0.10000000000000009,0.0,31
+721,Wayne Hennessey,0.0,0.0,31
+727,Callan McKenna,0.0,0.0,31
+756,Jack Porter,0.0,0.0,31
+759,Julian Eyestone,0.0,0.0,31
+761,Elyh Harrison,0.0,0.0,31
+764,Alex Palmer,1.3199999999999998,1.0,31
+783,Hubert Graczyk,0.0,0.0,31
+788,Dermot Mee,0.0,0.0,31
+5,Karl Hein,0.0,0.0,32
+14,Aaron Ramsdale,1.4700000000000002,13.0,32
+15,David Raya Martin,3.5700000000000003,2.0,32
+39,Joe Gauci,0.0,0.0,32
+46,Filip Marschall,0.0,0.0,32
+47,Emiliano Martínez Romero,5.4,6.0,32
+51,Robin Olsen,0.18999999999999995,0.0,32
+55,Viljami Sinisalo,0.0,0.0,32
+73,Norberto Murara Neto,0.0,0.0,32
+75,Alex Paulsen,0.0,0.0,32
+84,Mark Travers,0.0,0.0,32
+91,Mark Flekken,2.7300000000000004,2.0,32
+109,Hákon Valdimarsson,0.20000000000000018,0.0,32
+142,Jason Steele,0.0,0.0,32
+146,Bart Verbruggen,2.49,2.0,32
+152,Kepa Arrizabalaga,3.4299999999999997,8.0,32
+154,Lucas Bergström,0.0,0.0,32
+155,Marcus Bettinelli,0.06000000000000005,0.0,32
+183,Đorđe Petrović,0.0,0.0,32
+185,Robert Sánchez,2.01,1.0,32
+201,Dean Henderson,3.7800000000000002,1.0,32
+204,Sam Johnstone,0.5099999999999998,0.0,32
+209,Remi Matthews,0.0,0.0,32
+227,João Neves Virgínia,0.27,0.0,32
+235,Jordan Pickford,3.95,7.0,32
+242,Steven Benda,0.0,0.0,32
+248,Bernd Leno,3.3200000000000003,2.0,32
+280,Cieran Slicker,0.0,0.0,32
+283,Christian Walton,0.0,0.0,32
+293,Mads Hermansen,1.6,1.0,32
+294,Daniel Iversen,0.0,0.0,32
+304,Jakub Stolarczyk,0.16000000000000014,0.0,32
+308,Danny Ward,0.29000000000000004,0.0,32
+310,Alisson Ramses Becker,0.18999999999999995,3.0,32
+325,Caoimhin Kelleher,2.8499999999999996,0.0,32
+344,Scott Carson,0.0,0.0,32
+347,Ederson Santana de Moraes,4.36,4.0,32
+358,Stefan Ortega Moreno,0.10000000000000009,1.0,32
+367,Altay Bayindir,0.08999999999999986,0.0,32
+374,Tom Heaton,0.0,0.0,32
+383,André Onana,1.7599999999999998,0.0,32
+396,Martin Dúbravka,0.0,0.0,32
+412,Odysseas Vlachodimos,0.0,0.0,32
+413,Nick Pope,5.03,3.0,32
+414,John Ruddy,0.0,0.0,32
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,32
+443,Matz Sels,2.4299999999999997,3.0,32
+445,Matt Turner,0.06999999999999984,0.0,32
+454,Gavin Bazunu,0.0,0.0,32
+465,Mateusz Lis,0.0,0.0,32
+466,Joe Lumley,0.2400000000000002,0.0,32
+469,Alex McCarthy,0.3900000000000001,0.0,32
+479,Brandon Austin,0.0,0.0,32
+488,Fraser Forster,0.020000000000000018,0.0,32
+508,Guglielmo Vicario,2.4699999999999998,0.0,32
+510,Alfie Whiteman,0.06000000000000005,0.0,32
+513,Alphonse Areola,2.9000000000000004,2.0,32
+521,Łukasz Fabiański,1.42,0.0,32
+522,Wes Foderingham,0.0,0.0,32
+536,Daniel Bentley,0.0,0.0,32
+554,José Malheiro de Sá,3.87,1.0,32
+556,Tom King,0.0,0.0,32
+568,Arijanet Muric,0.16999999999999993,0.0,32
+581,Filip Jørgensen,0.14000000000000012,0.0,32
+599,Will Dennis,0.0,0.0,32
+615,Carl Rushworth,0.0,0.0,32
+624,Asmir Begovic,0.0,0.0,32
+639,Tommy Setford,0.0,0.0,32
+641,Oliwier Zych,0.0,0.0,32
+660,Vítezslav Jaros,0.0,0.0,32
+668,Killian Cahill,0.0,0.0,32
+669,Harvey Davies,0.0,0.0,32
+704,Spike Brits,0.0,0.0,32
+716,Antonín Kinsky,0.1499999999999999,0.0,32
+721,Wayne Hennessey,0.0,0.0,32
+727,Callan McKenna,0.0,0.0,32
+756,Jack Porter,0.06000000000000005,0.0,32
+759,Julian Eyestone,0.0,0.0,32
+761,Elyh Harrison,0.0,0.0,32
+764,Alex Palmer,4.75,2.0,32
+783,Hubert Graczyk,0.0,0.0,32
+788,Dermot Mee,0.0,0.0,32
+5,Karl Hein,0.0,0.0,33
+14,Aaron Ramsdale,2.9299999999999997,3.0,33
+15,David Raya Martin,2.2199999999999998,6.0,33
+39,Joe Gauci,0.0,0.0,33
+46,Filip Marschall,0.0,0.0,33
+47,Emiliano Martínez Romero,3.63,2.0,33
+51,Robin Olsen,0.10999999999999988,0.0,33
+55,Viljami Sinisalo,0.0,0.0,33
+73,Norberto Murara Neto,0.0,0.0,33
+75,Alex Paulsen,0.0,0.0,33
+84,Mark Travers,0.0,0.0,33
+91,Mark Flekken,2.66,1.0,33
+109,Hákon Valdimarsson,0.16000000000000014,0.0,33
+142,Jason Steele,0.0,0.0,33
+146,Bart Verbruggen,2.62,1.0,33
+152,Kepa Arrizabalaga,2.8499999999999996,6.0,33
+154,Lucas Bergström,0.0,0.0,33
+155,Marcus Bettinelli,0.0,0.0,33
+183,Đorđe Petrović,0.0,0.0,33
+185,Robert Sánchez,2.3600000000000003,2.0,33
+201,Dean Henderson,3.8499999999999996,7.0,33
+204,Sam Johnstone,0.009999999999999787,0.0,33
+209,Remi Matthews,0.0,0.0,33
+227,João Neves Virgínia,0.0,0.0,33
+235,Jordan Pickford,4.22,1.0,33
+242,Steven Benda,0.1200000000000001,0.0,33
+248,Bernd Leno,3.8,2.0,33
+280,Cieran Slicker,0.0,0.0,33
+283,Christian Walton,0.2799999999999998,0.0,33
+293,Mads Hermansen,4.19,4.0,33
+294,Daniel Iversen,0.0,0.0,33
+304,Jakub Stolarczyk,0.040000000000000036,0.0,33
+308,Danny Ward,0.06000000000000005,0.0,33
+310,Alisson Ramses Becker,2.13,6.0,33
+325,Caoimhin Kelleher,1.2400000000000002,0.0,33
+344,Scott Carson,0.25,0.0,33
+347,Ederson Santana de Moraes,4.57,0.0,33
+358,Stefan Ortega Moreno,1.9300000000000002,6.0,33
+367,Altay Bayindir,1.42,0.0,33
+374,Tom Heaton,0.0,0.0,33
+383,André Onana,0.81,2.0,33
+396,Martin Dúbravka,0.0,0.0,33
+412,Odysseas Vlachodimos,0.0,0.0,33
+413,Nick Pope,2.7300000000000004,2.0,33
+414,John Ruddy,0.0,0.0,33
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,33
+443,Matz Sels,4.24,2.0,33
+445,Matt Turner,0.06999999999999984,0.0,33
+454,Gavin Bazunu,0.0,0.0,33
+465,Mateusz Lis,0.0,0.0,33
+466,Joe Lumley,1.0499999999999998,0.0,33
+469,Alex McCarthy,0.020000000000000018,0.0,33
+479,Brandon Austin,0.0,0.0,33
+488,Fraser Forster,0.0,0.0,33
+508,Guglielmo Vicario,1.85,1.0,33
+510,Alfie Whiteman,0.020000000000000018,0.0,33
+513,Alphonse Areola,3.04,3.0,33
+521,Łukasz Fabiański,0.08999999999999986,0.0,33
+522,Wes Foderingham,0.6299999999999999,0.0,33
+536,Daniel Bentley,0.0,6.0,33
+554,José Malheiro de Sá,2.83,0.0,33
+556,Tom King,0.0,0.0,33
+568,Arijanet Muric,0.0,0.0,33
+581,Filip Jørgensen,0.04999999999999982,0.0,33
+599,Will Dennis,0.0,0.0,33
+615,Carl Rushworth,0.040000000000000036,0.0,33
+624,Asmir Begovic,0.0,0.0,33
+639,Tommy Setford,0.0,0.0,33
+641,Oliwier Zych,0.0,0.0,33
+660,Vítezslav Jaros,0.0,0.0,33
+668,Killian Cahill,0.0,0.0,33
+669,Harvey Davies,0.0,0.0,33
+704,Spike Brits,0.0,0.0,33
+716,Antonín Kinsky,0.08000000000000007,0.0,33
+721,Wayne Hennessey,0.0,0.0,33
+727,Callan McKenna,0.020000000000000018,0.0,33
+756,Jack Porter,0.0,0.0,33
+759,Julian Eyestone,0.0,0.0,33
+761,Elyh Harrison,0.0,0.0,33
+764,Alex Palmer,5.64,1.0,33
+783,Hubert Graczyk,0.0,0.0,33
+788,Dermot Mee,0.0,0.0,33
+14,Aaron Ramsdale,3.13,2.0,34
+75,Alex Paulsen,0.0,0.0,34
+84,Mark Travers,0.0,0.0,34
+91,Mark Flekken,2.1100000000000003,10.0,34
+109,Hákon Valdimarsson,0.1200000000000001,0.0,34
+142,Jason Steele,0.0,0.0,34
+146,Bart Verbruggen,2.62,1.0,34
+152,Kepa Arrizabalaga,3.3899999999999997,3.0,34
+154,Lucas Bergström,0.0,0.0,34
+155,Marcus Bettinelli,0.0,0.0,34
+183,Đorđe Petrović,0.0,0.0,34
+185,Robert Sánchez,3.33,7.0,34
+204,Sam Johnstone,0.3500000000000001,0.0,34
+227,João Neves Virgínia,0.0,0.0,34
+235,Jordan Pickford,2.3099999999999996,4.0,34
+242,Steven Benda,0.0,0.0,34
+248,Bernd Leno,3.2800000000000002,2.0,34
+280,Cieran Slicker,0.0,0.0,34
+283,Christian Walton,0.0,0.0,34
+293,Mads Hermansen,3.01,1.0,34
+294,Daniel Iversen,0.0,0.0,34
+304,Jakub Stolarczyk,0.14000000000000012,0.0,34
+308,Danny Ward,0.56,0.0,34
+310,Alisson Ramses Becker,4.37,2.0,34
+325,Caoimhin Kelleher,0.7799999999999998,0.0,34
+367,Altay Bayindir,2.16,0.0,34
+374,Tom Heaton,0.029999999999999805,0.0,34
+383,André Onana,3.5300000000000002,2.0,34
+396,Martin Dúbravka,0.040000000000000036,0.0,34
+412,Odysseas Vlachodimos,0.0,0.0,34
+413,Nick Pope,4.22,6.0,34
+414,John Ruddy,0.0,0.0,34
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,34
+443,Matz Sels,3.74,1.0,34
+454,Gavin Bazunu,0.0,0.0,34
+465,Mateusz Lis,0.0,0.0,34
+466,Joe Lumley,0.0,0.0,34
+469,Alex McCarthy,0.0,0.0,34
+479,Brandon Austin,0.0,0.0,34
+488,Fraser Forster,0.0,0.0,34
+508,Guglielmo Vicario,2.2300000000000004,0.0,34
+510,Alfie Whiteman,0.06999999999999984,0.0,34
+513,Alphonse Areola,2.4800000000000004,3.0,34
+521,Łukasz Fabiański,0.25,0.0,34
+522,Wes Foderingham,0.0,0.0,34
+536,Daniel Bentley,3.3499999999999996,0.0,34
+554,José Malheiro de Sá,3.21,11.0,34
+556,Tom King,0.0,0.0,34
+568,Arijanet Muric,0.009999999999999787,0.0,34
+581,Filip Jørgensen,0.040000000000000036,0.0,34
+599,Will Dennis,0.0,0.0,34
+615,Carl Rushworth,0.0,0.0,34
+624,Asmir Begovic,0.020000000000000018,0.0,34
+660,Vítezslav Jaros,0.0,0.0,34
+668,Killian Cahill,0.0,0.0,34
+669,Harvey Davies,0.0,0.0,34
+716,Antonín Kinsky,0.2799999999999998,0.0,34
+721,Wayne Hennessey,0.009999999999999787,0.0,34
+727,Callan McKenna,0.0,0.0,34
+759,Julian Eyestone,0.0,0.0,34
+761,Elyh Harrison,0.0,0.0,34
+764,Alex Palmer,3.04,1.0,34
+783,Hubert Graczyk,0.0,0.0,34
+788,Dermot Mee,0.0,0.0,34
+5,Karl Hein,0.6400000000000001,0.0,35
+14,Aaron Ramsdale,3.2199999999999998,1.0,35
+15,David Raya Martin,3.6100000000000003,1.0,35
+39,Joe Gauci,0.06000000000000005,0.0,35
+46,Filip Marschall,0.0,0.0,35
+47,Emiliano Martínez Romero,5.14,7.0,35
+51,Robin Olsen,1.5499999999999998,0.0,35
+55,Viljami Sinisalo,0.0,0.0,35
+73,Norberto Murara Neto,0.1200000000000001,0.0,35
+75,Alex Paulsen,0.0,0.0,35
+84,Mark Travers,0.10000000000000009,0.0,35
+91,Mark Flekken,3.88,1.0,35
+109,Hákon Valdimarsson,0.009999999999999787,0.0,35
+142,Jason Steele,0.0,0.0,35
+146,Bart Verbruggen,4.63,3.0,35
+152,Kepa Arrizabalaga,3.24,3.0,35
+154,Lucas Bergström,0.0,0.0,35
+155,Marcus Bettinelli,0.0,0.0,35
+183,Đorđe Petrović,0.0,0.0,35
+185,Robert Sánchez,2.5700000000000003,2.0,35
+201,Dean Henderson,4.79,3.0,35
+204,Sam Johnstone,0.0,0.0,35
+209,Remi Matthews,0.06999999999999984,0.0,35
+227,João Neves Virgínia,0.009999999999999787,0.0,35
+235,Jordan Pickford,3.91,2.0,35
+242,Steven Benda,0.06000000000000005,0.0,35
+248,Bernd Leno,2.51,2.0,35
+280,Cieran Slicker,0.0,0.0,35
+283,Christian Walton,0.6499999999999999,0.0,35
+293,Mads Hermansen,2.83,0.0,35
+294,Daniel Iversen,0.0,0.0,35
+304,Jakub Stolarczyk,0.29000000000000004,6.0,35
+308,Danny Ward,0.009999999999999787,0.0,35
+310,Alisson Ramses Becker,1.7599999999999998,2.0,35
+325,Caoimhin Kelleher,0.2799999999999998,0.0,35
+344,Scott Carson,0.0,0.0,35
+347,Ederson Santana de Moraes,2.46,6.0,35
+358,Stefan Ortega Moreno,1.7799999999999998,0.0,35
+367,Altay Bayindir,0.10999999999999988,1.0,35
+374,Tom Heaton,0.029999999999999805,0.0,35
+383,André Onana,1.29,0.0,35
+396,Martin Dúbravka,0.040000000000000036,0.0,35
+412,Odysseas Vlachodimos,0.0,0.0,35
+413,Nick Pope,3.25,2.0,35
+414,John Ruddy,0.2400000000000002,0.0,35
+427,Carlos Miguel dos Santos Pereira,0.0,0.0,35
+443,Matz Sels,4.03,1.0,35
+445,Matt Turner,0.56,0.0,35
+454,Gavin Bazunu,0.0,0.0,35
+465,Mateusz Lis,0.0,0.0,35
+466,Joe Lumley,0.0,0.0,35
+469,Alex McCarthy,0.1200000000000001,0.0,35
+479,Brandon Austin,0.040000000000000036,0.0,35
+488,Fraser Forster,0.08999999999999986,0.0,35
+508,Guglielmo Vicario,2.3899999999999997,2.0,35
+510,Alfie Whiteman,0.009999999999999787,0.0,35
+513,Alphonse Areola,3.46,2.0,35
+521,Łukasz Fabiański,0.9900000000000002,0.0,35
+522,Wes Foderingham,0.0,0.0,35
+536,Daniel Bentley,0.6800000000000002,0.0,35
+554,José Malheiro de Sá,2.7,2.0,35
+556,Tom King,0.0,0.0,35
+568,Arijanet Muric,0.0,0.0,35
+581,Filip Jørgensen,0.16000000000000014,0.0,35
+599,Will Dennis,0.0,0.0,35
+615,Carl Rushworth,0.0,0.0,35
+624,Asmir Begovic,0.08999999999999986,0.0,35
+639,Tommy Setford,0.20000000000000018,0.0,35
+641,Oliwier Zych,0.06000000000000005,0.0,35
+660,Vítezslav Jaros,0.0,0.0,35
+668,Killian Cahill,0.0,0.0,35
+669,Harvey Davies,0.0,0.0,35
+704,Spike Brits,0.6400000000000001,0.0,35
+716,Antonín Kinsky,0.06999999999999984,0.0,35
+721,Wayne Hennessey,0.0,0.0,35
+727,Callan McKenna,0.029999999999999805,0.0,35
+756,Jack Porter,0.6000000000000001,0.0,35
+759,Julian Eyestone,0.020000000000000018,0.0,35
+761,Elyh Harrison,0.0,0.0,35
+764,Alex Palmer,2.0599999999999996,1.0,35
+783,Hubert Graczyk,0.0,0.0,35
+788,Dermot Mee,0.0,0.0,35
+5,Karl Hein,0.05603812949042464,0.0,36
+14,Aaron Ramsdale,2.5382633822131737,7.0,36
+15,David Raya Martin,2.0852784541110836,2.0,36
+39,Joe Gauci,0.05603812949042464,0.0,36
+46,Filip Marschall,0.05603812949042464,0.0,36
+47,Emiliano Martínez Romero,2.7978219839367373,6.0,36
+51,Robin Olsen,0.061137692965929524,0.0,36
+55,Viljami Sinisalo,0.05603812949042464,0.0,36
+73,Norberto Murara Neto,0.05603812949042464,0.0,36
+75,Alex Paulsen,0.05603812949042464,0.0,36
+84,Mark Travers,0.061137692965929524,0.0,36
+91,Mark Flekken,3.4580633573342885,7.0,36
+109,Hákon Valdimarsson,0.0567429815045557,0.0,36
+142,Jason Steele,0.05603812949042464,0.0,36
+146,Bart Verbruggen,2.566216010632526,7.0,36
+152,Kepa Arrizabalaga,2.733616198834394,2.0,36
+154,Lucas Bergström,0.05603812949042464,0.0,36
+155,Marcus Bettinelli,0.05603812949042464,0.0,36
+183,Đorđe Petrović,0.05603812949042464,0.0,36
+185,Robert Sánchez,2.7054328018904723,2.0,36
+201,Dean Henderson,2.42941234715462,6.0,36
+204,Sam Johnstone,0.05603812949042464,0.0,36
+209,Remi Matthews,0.05603812949042464,0.0,36
+227,João Neves Virgínia,0.8210855044367604,0.0,36
+235,Jordan Pickford,3.0472398565280354,3.0,36
+242,Steven Benda,0.05603812949042464,0.0,36
+248,Bernd Leno,2.722023365683456,2.0,36
+280,Cieran Slicker,0.05603812949042464,0.0,36
+283,Christian Walton,0.061137692965929524,0.0,36
+293,Mads Hermansen,0.8979168861284541,0.0,36
+294,Daniel Iversen,0.05603812949042464,0.0,36
+304,Jakub Stolarczyk,1.6273479893786944,1.0,36
+308,Danny Ward,0.05603812949042464,0.0,36
+310,Alisson Ramses Becker,1.4979376142681646,2.0,36
+325,Caoimhin Kelleher,0.061137692965929524,0.0,36
+344,Scott Carson,0.05603812949042464,0.0,36
+347,Ederson Santana de Moraes,3.3552893000880104,6.0,36
+358,Stefan Ortega Moreno,0.4653509520953327,0.0,36
+367,Altay Bayindir,1.1350449046828222,1.0,36
+374,Tom Heaton,0.05603812949042464,0.0,36
+383,André Onana,0.8679940602761986,0.0,36
+396,Martin Dúbravka,0.061137692965929524,0.0,36
+412,Odysseas Vlachodimos,0.05603812949042464,0.0,36
+413,Nick Pope,1.795426686299444,7.0,36
+414,John Ruddy,0.05603812949042464,0.0,36
+427,Carlos Miguel dos Santos Pereira,0.05603812949042464,0.0,36
+443,Matz Sels,5.184792602397367,2.0,36
+445,Matt Turner,0.051643418029050814,0.0,36
+454,Gavin Bazunu,0.05603812949042464,0.0,36
+465,Mateusz Lis,0.05603812949042464,0.0,36
+466,Joe Lumley,0.05603812949042464,0.0,36
+469,Alex McCarthy,0.061137692965929524,0.0,36
+479,Brandon Austin,0.05603812949042464,0.0,36
+488,Fraser Forster,0.05603812949042464,0.0,36
+508,Guglielmo Vicario,1.7719997087359283,0.0,36
+510,Alfie Whiteman,0.05603812949042464,0.0,36
+513,Alphonse Areola,2.4505526896995633,7.0,36
+521,Łukasz Fabiański,0.3710932169880894,0.0,36
+522,Wes Foderingham,0.05603812949042464,0.0,36
+536,Daniel Bentley,0.15634613723461266,0.0,36
+554,José Malheiro de Sá,2.6902313636163013,1.0,36
+556,Tom King,0.05603812949042464,0.0,36
+568,Arijanet Muric,0.22648365651199232,0.0,36
+581,Filip Jørgensen,0.061137692965929524,0.0,36
+599,Will Dennis,0.05603812949042464,0.0,36
+615,Carl Rushworth,0.05603812949042464,0.0,36
+624,Asmir Begovic,0.05603812949042464,0.0,36
+639,Tommy Setford,0.05603812949042464,0.0,36
+641,Oliwier Zych,0.05603812949042464,0.0,36
+660,Vítezslav Jaros,0.05603812949042464,0.0,36
+668,Killian Cahill,0.05603812949042464,0.0,36
+669,Harvey Davies,0.05603812949042464,0.0,36
+704,Spike Brits,0.05603812949042464,0.0,36
+716,Antonín Kinsky,0.061137692965929524,3.0,36
+721,Wayne Hennessey,0.05603812949042464,0.0,36
+727,Callan McKenna,0.05603812949042464,0.0,36
+756,Jack Porter,0.05603812949042464,0.0,36
+759,Julian Eyestone,0.05603812949042464,0.0,36
+761,Elyh Harrison,0.05603812949042464,0.0,36
+764,Alex Palmer,1.0298965986759132,3.0,36
+783,Hubert Graczyk,0.05603812949042464,0.0,36
+788,Dermot Mee,0.05603812949042464,0.0,36
+5,Karl Hein,0.04602731437479912,0.0,37
+14,Aaron Ramsdale,2.7326744358126263,1.0,37
+15,David Raya Martin,2.454954066996761,6.0,37
+39,Joe Gauci,0.04602731437479912,0.0,37
+46,Filip Marschall,0.04602731437479912,0.0,37
+47,Emiliano Martínez Romero,3.1863119608150257,6.0,37
+51,Robin Olsen,0.04868254795809435,0.0,37
+55,Viljami Sinisalo,0.04602731437479912,0.0,37
+73,Norberto Murara Neto,0.04602731437479912,0.0,37
+75,Alex Paulsen,0.04602731437479912,0.0,37
+84,Mark Travers,0.04868254795809435,0.0,37
+91,Mark Flekken,3.6860645553848865,2.0,37
+109,Hákon Valdimarsson,0.046238253346328584,0.0,37
+142,Jason Steele,0.04602731437479912,0.0,37
+146,Bart Verbruggen,2.390082447606928,2.0,37
+152,Kepa Arrizabalaga,2.578480132786238,1.0,37
+154,Lucas Bergström,0.04602731437479912,0.0,37
+155,Marcus Bettinelli,0.04602731437479912,0.0,37
+183,Đorđe Petrović,0.04602731437479912,0.0,37
+185,Robert Sánchez,2.534052646616691,6.0,37
+201,Dean Henderson,2.6355692495342504,1.0,37
+204,Sam Johnstone,0.04602731437479912,0.0,37
+209,Remi Matthews,0.04602731437479912,0.0,37
+227,João Neves Virgínia,0.4226725409774805,0.0,37
+235,Jordan Pickford,3.283394069237972,6.0,37
+242,Steven Benda,0.04602731437479912,0.0,37
+248,Bernd Leno,2.904813668182138,6.0,37
+280,Cieran Slicker,0.04602731437479912,0.0,37
+283,Christian Walton,0.04868254795809435,0.0,37
+293,Mads Hermansen,0.7328474125634612,0.0,37
+294,Daniel Iversen,0.04602731437479912,0.0,37
+304,Jakub Stolarczyk,2.452914512610775,6.0,37
+308,Danny Ward,0.04602731437479912,0.0,37
+310,Alisson Ramses Becker,2.247943975584353,4.0,37
+325,Caoimhin Kelleher,0.05406945504427085,0.0,37
+344,Scott Carson,0.04602731437479912,0.0,37
+347,Ederson Santana de Moraes,3.4928511058231217,1.0,37
+358,Stefan Ortega Moreno,0.4280226912401144,0.0,37
+367,Altay Bayindir,1.5724978861948617,0.0,37
+374,Tom Heaton,0.04602731437479912,0.0,37
+383,André Onana,0.19627558771843345,2.0,37
+396,Martin Dúbravka,0.04868254795809435,0.0,37
+412,Odysseas Vlachodimos,0.04602731437479912,0.0,37
+413,Nick Pope,2.9003422564027046,3.0,37
+414,John Ruddy,0.04602731437479912,0.0,37
+427,Carlos Miguel dos Santos Pereira,0.04602731437479912,0.0,37
+443,Matz Sels,2.889015742405366,3.0,37
+445,Matt Turner,0.04358301976303336,0.0,37
+454,Gavin Bazunu,0.04602731437479912,0.0,37
+465,Mateusz Lis,0.04602731437479912,0.0,37
+466,Joe Lumley,0.04602731437479912,0.0,37
+469,Alex McCarthy,0.04868254795809435,0.0,37
+479,Brandon Austin,0.04868254795809435,0.0,37
+488,Fraser Forster,0.04868254795809435,0.0,37
+508,Guglielmo Vicario,0.7064185834406067,0.0,37
+510,Alfie Whiteman,0.04602731437479912,0.0,37
+513,Alphonse Areola,2.5029767236799225,2.0,37
+521,Łukasz Fabiański,0.5773142726353817,0.0,37
+522,Wes Foderingham,0.04602731437479912,0.0,37
+536,Daniel Bentley,0.05417451121442429,2.0,37
+554,José Malheiro de Sá,2.3684570728106555,0.0,37
+556,Tom King,0.04602731437479912,0.0,37
+568,Arijanet Muric,0.1453622084350723,0.0,37
+581,Filip Jørgensen,0.04868254795809435,0.0,37
+599,Will Dennis,0.04602731437479912,0.0,37
+615,Carl Rushworth,0.04602731437479912,0.0,37
+624,Asmir Begovic,0.04602731437479912,0.0,37
+639,Tommy Setford,0.04602731437479912,0.0,37
+641,Oliwier Zych,0.04602731437479912,0.0,37
+660,Vítezslav Jaros,0.04602731437479912,0.0,37
+668,Killian Cahill,0.04602731437479912,0.0,37
+669,Harvey Davies,0.04602731437479912,0.0,37
+704,Spike Brits,0.04602731437479912,0.0,37
+716,Antonín Kinsky,0.8823982528463574,2.0,37
+721,Wayne Hennessey,0.04602731437479912,0.0,37
+727,Callan McKenna,0.04602731437479912,0.0,37
+756,Jack Porter,0.04602731437479912,0.0,37
+759,Julian Eyestone,0.04602731437479912,0.0,37
+761,Elyh Harrison,0.04602731437479912,0.0,37
+764,Alex Palmer,2.1856071750111994,1.0,37
+783,Hubert Graczyk,0.04602731437479912,0.0,37
+788,Dermot Mee,0.04602731437479912,0.0,37
+5,Karl Hein,0.05254610070837051,0.0,38
+14,Aaron Ramsdale,2.456761218783307,3.0,38
+15,David Raya Martin,3.49650193775945,2.0,38
+39,Joe Gauci,0.05254610070837051,0.0,38
+46,Filip Marschall,0.05254610070837051,0.0,38
+47,Emiliano Martínez Romero,2.786021441161065,-2.0,38
+51,Robin Olsen,0.05520806777002951,1.0,38
+55,Viljami Sinisalo,0.05254610070837051,0.0,38
+73,Norberto Murara Neto,0.05254610070837051,0.0,38
+75,Alex Paulsen,0.05254610070837051,0.0,38
+84,Mark Travers,0.05520806777002951,0.0,38
+91,Mark Flekken,3.543332766631913,3.0,38
+109,Hákon Valdimarsson,0.05124475762087721,0.0,38
+142,Jason Steele,0.05254610070837051,0.0,38
+146,Bart Verbruggen,2.531284891658796,2.0,38
+152,Kepa Arrizabalaga,3.2048495330664233,6.0,38
+154,Lucas Bergström,0.05254610070837051,0.0,38
+155,Marcus Bettinelli,0.05254610070837051,0.0,38
+183,Đorđe Petrović,0.05254610070837051,0.0,38
+185,Robert Sánchez,3.0909405376496295,6.0,38
+201,Dean Henderson,2.4789780573096447,2.0,38
+204,Sam Johnstone,0.05254610070837051,0.0,38
+209,Remi Matthews,0.05254610070837051,0.0,38
+227,João Neves Virgínia,0.83809143278611,0.0,38
+235,Jordan Pickford,2.631848439667447,8.0,38
+242,Steven Benda,0.05254610070837051,0.0,38
+248,Bernd Leno,2.566671793721664,2.0,38
+280,Cieran Slicker,0.05254610070837051,0.0,38
+283,Christian Walton,0.05520806777002951,2.0,38
+293,Mads Hermansen,0.5971104285317552,0.0,38
+294,Daniel Iversen,0.05254610070837051,0.0,38
+304,Jakub Stolarczyk,2.4211861459026016,2.0,38
+308,Danny Ward,0.05254610070837051,0.0,38
+310,Alisson Ramses Becker,2.4639815331448203,3.0,38
+325,Caoimhin Kelleher,0.1280272588724083,0.0,38
+344,Scott Carson,0.05254610070837051,0.0,38
+347,Ederson Santana de Moraes,2.166915721129884,7.0,38
+358,Stefan Ortega Moreno,0.43389529643702174,0.0,38
+367,Altay Bayindir,0.3432726609290744,6.0,38
+374,Tom Heaton,0.05254610070837051,0.0,38
+383,André Onana,1.8003382540368427,0.0,38
+396,Martin Dúbravka,0.05520806777002951,0.0,38
+412,Odysseas Vlachodimos,0.05254610070837051,0.0,38
+413,Nick Pope,3.3693641171028377,3.0,38
+414,John Ruddy,0.05254610070837051,0.0,38
+427,Carlos Miguel dos Santos Pereira,0.05254610070837051,0.0,38
+443,Matz Sels,2.4001537273235787,2.0,38
+445,Matt Turner,0.048582790559218214,0.0,38
+454,Gavin Bazunu,0.05254610070837051,0.0,38
+465,Mateusz Lis,0.05254610070837051,0.0,38
+466,Joe Lumley,0.05254610070837051,0.0,38
+469,Alex McCarthy,0.05520806777002951,0.0,38
+479,Brandon Austin,0.05254610070837051,0.0,38
+488,Fraser Forster,0.05254610070837051,0.0,38
+508,Guglielmo Vicario,0.4575769788459998,1.0,38
+510,Alfie Whiteman,0.05254610070837051,0.0,38
+513,Alphonse Areola,3.1170590463393975,0.0,38
+521,Łukasz Fabiański,0.45373527757871646,3.0,38
+522,Wes Foderingham,0.05254610070837051,0.0,38
+536,Daniel Bentley,1.5728628719865148,0.0,38
+554,José Malheiro de Sá,1.0404489365363419,4.0,38
+556,Tom King,0.05254610070837051,1.0,38
+568,Arijanet Muric,0.0697152334067126,0.0,38
+581,Filip Jørgensen,0.05520806777002951,0.0,38
+599,Will Dennis,0.05254610070837051,0.0,38
+615,Carl Rushworth,0.05254610070837051,0.0,38
+624,Asmir Begovic,0.05254610070837051,0.0,38
+639,Tommy Setford,0.05254610070837051,0.0,38
+641,Oliwier Zych,0.05254610070837051,0.0,38
+660,Vítezslav Jaros,0.05254610070837051,0.0,38
+668,Killian Cahill,0.05254610070837051,0.0,38
+669,Harvey Davies,0.05254610070837051,0.0,38
+704,Spike Brits,0.05254610070837051,0.0,38
+716,Antonín Kinsky,1.5530246293340029,0.0,38
+721,Wayne Hennessey,0.05254610070837051,0.0,38
+727,Callan McKenna,0.05254610070837051,0.0,38
+756,Jack Porter,0.05254610070837051,0.0,38
+759,Julian Eyestone,0.05254610070837051,0.0,38
+761,Elyh Harrison,0.05254610070837051,0.0,38
+764,Alex Palmer,2.5048641274265755,0.0,38
+783,Hubert Graczyk,0.05254610070837051,0.0,38
+788,Dermot Mee,0.05254610070837051,0.0,38
