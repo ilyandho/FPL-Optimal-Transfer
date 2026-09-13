@@ -1,0 +1,1115 @@
+\documentclass[12pt,oneside,a4paper]{book}
+\usepackage{amsfonts,amsthm,latexsym,amsmath,amssymb,amscd,epsfig,psfrag}
+\usepackage{graphics,graphicx, bezier, float, color}
+\usepackage{multicol,multirow}
+\usepackage{multienum}
+\usepackage{url}
+\usepackage[hmargin=1in,vmargin=1in]{geometry}
+\usepackage{appendix}
+\usepackage{fancyhdr}
+\usepackage[table]{xcolor}
+\usepackage{rotating}
+%\usepackage{apacite}
+\usepackage{multirow}
+\usepackage{adjustbox}
+\usepackage[numbers]{natbib}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+\setlength\parskip{0.1in}
+\setlength{\parindent}{0pt}
+\newtheorem{Definition}{defn}
+\newtheorem{Theorem}{Theorem}
+\newtheorem{Example}{Exam}
+\newtheorem{Lemma}{Lemma}
+\newtheorem{Cor}{Corollary}
+\newtheorem{Prop}{Proposition}
+\newtheorem{Alg}{Algorithm}
+\newtheorem{Not}{Notation}
+\newtheorem{Conj}{Conjecture}
+\newtheorem{theo+}           {Theorem}
+\newtheorem{prop+}           {Proposition}
+\newtheorem{coro+}           {Corollary}
+\newtheorem{lemm+}           {Lemma}
+\newtheorem{conjecture}      {Conjecture}
+\theoremstyle{definition}
+\newtheorem{problem}         {Problem}
+\newtheorem{not+}            {Notation}
+\newtheorem{Ex}              {Example}[subsection]
+\newtheorem{Prob}            {Problem}
+\newtheorem*{ack}            {Acknowledgements}
+\theoremstyle{remark}
+\newtheorem{rema+}           {Remark}
+
+%\newenvironment{theorem}{\begin{theo+}}{\end{theo+}}
+\newenvironment{proposition}{\begin{prop+}}{\end{prop+}}
+\newenvironment{corollary}{\begin{coro+}}{\end{coro+}}
+\newenvironment{lemma}{\begin{lemm+}}{\end{lemm+}}
+\newenvironment{remark}{\begin{rema+}}{\end{rema+}}
+\newenvironment{notation}{\begin{not+}}{\end{not+}}
+\newenvironment{example}{\begin{ex+}}{\end{ex+}}
+
+
+\newenvironment{prf}[0]{\textbf{Proof:}}{\hfill$\Box$}
+\newenvironment{soln}[0]{\textbf{Solution:}}{\hfill$\Box$}
+
+
+%\newenvironment{prf}{\noindent{\bf{Proof:}}~~}{\hfill\rule{1ex}{1ex}\vskip1.5ex}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\R}{\mathbb R}
+\newcommand{\N}{\mathbb N}
+\newcommand{\M}{\mathbb M}
+\newcommand{\C}{\mathbb C}
+\newcommand{\A}{\mathbb A}
+\newcommand{\s}{\mathbb S}
+\newcommand{\T}{\mathbb T}
+\newcommand{\G}{\bar{G}}
+\newcommand{\eps}{\epsilon}
+\newcommand{\ud}{\underline}
+\newcommand{\ov}{\overline}
+\newcommand{\da}{\downarrow}
+\newcommand{\ra}{\rightarrow}
+\newcommand{\Ra}{\Rightarrow}
+\newcommand{\na}{\nearrow}
+\newcommand{\sa}{\swarrow}
+\newcommand{\ev}{\equiv}
+\newcommand{\bq}{\begin{eqnarray}}
+	\newcommand{\eq}{\end{eqnarray}}
+\newcommand{\beq}{\begin{eqnarray*}}
+	\newcommand{\eeq}{\end{eqnarray*}}
+\newcommand{\lra}{\leftrightarrow}
+
+%\newcommand{\soln}{{\bf{Solution:}}}
+%\newtheorem{inv}{INVESTIGATION}[chapter]
+\newtheorem{rem}{\bf Remark}[section]
+\newtheorem{cor}{\bf Corollary}[section]
+\newtheorem{pf}{proof}[section]
+\newtheorem{propn}{\bf Proposition}[section]
+\newtheorem{defn}{\bf Definition}[subsection]
+\newtheorem{exam}{{\bf Example}}[section]
+\newtheorem{thm}{\bf Theorem}[subsection]
+\newtheorem{com}{\bf Comment}[section]
+\newtheorem{lem}{\bf Lemma}[section]
+\newtheorem{claim}{\bf Claim}[section]
+
+%\newtheorem{exer}{\bf Exercise}[chapter]
+\newtheorem{note}{Note}[section]
+\newtheorem{ntn}{Notation}[section]
+\newcommand{\q}{\qquad\qquad\qquad}
+\newcommand{\vsp}{\vspace{0.5cm}}
+\newcommand{\vo}{\vspace{-.4cm}}
+\newcommand{\noi}{\noindent}
+\newcommand{\al}{\alpha}
+\newcommand{\be}{\beta}
+\newcommand{\la}{\lambda}
+\newcommand{\si}{\sigma}
+\newcommand {\bC} {\mathbb C}
+\newcommand {\bR} {\mathbb R}
+\newcommand {\bZ} {\mathbb Z}
+\newcommand{\bN}{\mathbb N}
+\newcommand {\D} {\mathcal D}
+\newcommand {\K} {\mathcal K}
+%\newcommand {\Z} {\mathcal Z}
+\newcommand {\Ga} {\Gamma}
+\newcommand {\De}{\Delta}
+\newcommand {\Om}{\Omega}
+\newcommand {\ga} {\gamma}
+%\newcommand {\eps} {\epsilon}
+\newcommand {\de} {\delta}
+\newcommand{\ze}{\zeta}
+%\newcommand {\na}{\nabla}
+\newcommand{\vf}{\varphi}
+\date{}
+\linespread{1.2}
+
+\DeclareMathOperator*{\argmax}{argmax}
+
+\begin{document}
+
+	\begin{titlepage}
+		\thispagestyle{empty}
+		\title{AN OPTIMIZATION PROBLEM FOR THE HEAD-TO-HEAD COMPETITION OF THE FANTASY PREMIER LEAGUE. }
+		\author{NDHOTE ILYAS \\2022/MSc/066/PS \\MSc(Mathematics)\\Mbarara University of science and technolgy }
+
+
+
+		\begin{center}
+			\vspace*{1cm}
+			\Huge AN OPTIMIZATION PROBLEM FOR THE HEAD-TO-HEAD COMPETITION OF THE FANTASY PREMIER LEAGUE.
+			\vfill
+			\large{NDHOTE ILYAS \\2022/MSc/066/PS \\MSc(Mathematics)\\Mbarara University of science and technology }
+
+			\vfill
+
+			\begin{center}
+				\large{Supervisors:}
+			\end{center}
+
+			\begin{center}
+				\large{Dr. Martin Karuhanga}\\
+				Department of Mathematics\\
+				Mbarara University of Science and Technology
+			\end{center}
+			\begin{center}
+				\large Mr. Buri Gershom\\
+				Department of Software Engineering\\
+				Mbarara University of Science and Technology
+			\end{center}
+
+		\end{center}
+
+	\end{titlepage}
+
+	\newpage
+	\pagenumbering{roman}
+	\newpage
+	\section*{Declaration}
+		I Ndhote Ilyas declare that the research work in this dissertation entitled "\textbf{An Optimization Problem for a Head-to-Head Competition of the Fantasy Football League}" is my original work, where I have used the works of other persons, due acknowledgments are clearly stated and has never been submitted to any university or college for any award.\\
+
+		\vspace{0.25in}
+
+		Ndhote Ilyas\\
+		Sign: ................................\\
+		Date: ................................
+	\newpage
+	\section*{Approval}
+		The research work in this dissertation was conducted under our supervision and guidance as prospective supervisors, and we hereby approve that it is submitted to the Department of Mathematics of Mbarara University of Science and Technology for consideration.\\\
+		signed by\\\\
+		\vspace{0.25in}\\
+
+		Dr Martin Karuhanga\\
+		supervisor\\
+		Mbarara  University of Science and Technology\\
+		P.O Box $1414$,	Mbarara-Uganda\\
+		Sign: ................................\\
+		Date: ................................\\\\
+		\vspace{0.25in}\\
+
+		Mr Buri Gershom\\
+		supervisor\\
+		Mbarara University of Science and Technology\\
+		P.O Box $1414$,	Mbarara-Uganda\\
+		Sign: ................................\\
+		Date: ................................
+		\vspace{0.25in}
+
+
+	\newpage
+	\addcontentsline{toc}{chapter}{Acknowledgements}
+	\section*{Acknowledgements}
+	%I wish to express my sincere appreciation to the following persons for their contribution to the development of this research proposal. This was through their suggestions, guidance, and encouragement. Dr.  Martin Karuhanga and Mr. Micheal Byamukama advised me during the process of developing this proposal, Dr.Ronald Mwesigwa and Dr.Mary Nanfuka taught and gave me the background knowledge that I have used to develop this proposal and my classmates exhibited team spirit and shared useful information, especially in typesetting with LaTeX.
+
+	\newpage
+	\tableofcontents
+
+	\mainmatter
+	\chapter{Introduction}
+		\section{Background}
+			In fantasy games, a sports fan manages a virtual team assembled from real players in a given sport. The manager’s score depends on how well the real players perform in actual games. Different restrictions are usually deployed to make fantasy games fair and fun. To succeed, a manager needs to consider a myriad of factors that influence the performance of their fantasy team. This problem is readily suited for the mathematical frameworks of statistics and optimization. A mathematician might study this problem to develop a framework for systematic decision-making, explore new mathematical concepts, or create new applications for existing ones, e.g., using game theory to analyze an opponent’s strategy.
+			\\
+
+			Since its inception, the Fantasy Football Leagues (FFL) has grown 150-fold from 76,284 managers in the first season (2002/03) to approximately 11.4 million managers by the 2022/23 season\footnote{\url{https://allaboutfpl.com/2022/06/number-of-people-who-played-fpl-each-season-how-many-play-fpl/}}. This remarkable growth trajectory is poised to continue, fueled by the increasing affordability of the internet and the widespread adoption of smartphones in the world’s most underprivileged regions. Traditionally, these regions tend to have the biggest football fan bases and are mostly youthful - the majority demographic in fantasy sports.\footnote{\url{https://www.statista.com/statistics/1199500/fantasy-sports-participation-in-the-us/}}
+			\\
+
+			Regarding the Fantasy Premier League (FPL), a fantasy variant based on weekly player performances in the English Premier League, success requires domain knowledge, strategic planning, and predictive insights. Notably, for its head-to-head (H2H) competition, one aims to outscore a new opponent each week. Akin to a Premier League match, a manager scores 3 points for a win, 1 for a draw, and 0 for a loss. These weekly points are summed up at the end of the regular English Premier League season to determine the winner of the H2H league.
+
+		\section{Statement of the problem}
+			For FFL managers, making optimal decisions is one of the biggest challenges due to the complexity involved in decision-making. One has to analyze various variables such player form, cost, etc and consider multiple constraints before selecting a competing team. Moreover, focus is not limited to just one game week but the entire season of the league. This complexity escalates in H2H competitions with the additional objective of outperforming a changing opponent per week. As a result, many casual managers often make sub-optimal decisions based on gut feelings and under-perform overall. This research aims to develop the mathematical models of forecasting and optimization in the H2H competition of a FFL. The focus will be on developing a comprehensive mathematical framework capable of analyzing player performances, predicting future trends, modeling opponent behavior, and suggesting optimal team selections. The framework aims to offer FFL managers a systematic tool for decision-making in the H2H setting, providing a quantifiable edge against their opponents.
+
+
+		\section{Objectives}
+			\subsection{Main Objective}
+				To develop a mathematical framework for managing the weekly line-ups in a season-long FFL H2H tournament.
+
+			\subsection{Specific Objectives}
+				The specific objectives of this study will be:
+				\begin{enumerate}
+					\item[(i)] To formulate and solve an optimization problem for H2H contests.
+					\item[(ii)] To predict player fantasy points using machine learning.
+					\item[(iii)] To model opponent line-ups using Bayesian modeling.
+					\item[(iv)] To suggest optimal transfers and team selections.
+					\item[(v)] To assess the extent of our framework's advantage using the FPL data.
+				\end{enumerate}
+
+		\section{Scope}
+			\begin{enumerate}
+				\item[(i)] Data Analysis and Model Development
+				\begin{enumerate}
+					\item \textbf{Model Selection:} The research will focus on a select few machine learning models known for their accuracy, specifically Random Forest and XGboost.
+					\item \textbf{Data Coverage:} The thesis will utilize odds and player performance statistics from the 2020/21 season because we started archiving odds data at this point.
+				\end{enumerate}
+
+				\item[(ii)] Optimization Techniques:
+				\begin{enumerate}
+					\item \textbf{Optimization tasks:} We will first reproduce Haugh et al.’s results in the context of FPL before concentrating on the particular case of H2H contests with a season-long objective.
+					\item \textbf{H2H match-ups:} We intend to model flexibility in risk preferences beyond a merely risk-neutral decision maker.
+				\end{enumerate}
+
+				\item[(iii)] Strategy Formulation
+				\begin{enumerate}
+					\item \textbf{Opponent Classification:} We will take an experimental approach to classify FFL opponents into distinct categories (e.g., 'sharks' vs 'minnows') based on their strengths and weaknesses\footnote{\url{https://www.premierfantasytools.com/compare-fpl-managers/?mgr1=10176497&mgr2=10169257}}.
+					\item \textbf{Strategic Adaptation:} We will then apply strategies such as 'sword' (offensive) and 'shield' (defensive) against these categorized opponents, testing the effectiveness of different tactical approaches in varying competitive scenarios.
+				\end{enumerate}
+
+				\item[(iv)] Optimization Timeframe Analysis
+				\begin{enumerate}
+					\item \textbf{Future Game Week Optimization:} A vital aspect of the research will involve determining the optimal number of weeks ahead to consider, for example, two versus three weeks.
+				\end{enumerate}
+
+				\item[(v)] User Interface and Application Development (Post-Dissertation)
+				\begin{enumerate}
+					\item \textbf{Development Plans:} Post-thesis, we intend to develop a user-friendly web application that allows FPL managers to input data and receive optimized decisions based on the research findings.
+
+					\item \textbf{Implications on Optimization Framework:} We anticipate this future development to influence the practical applicability and efficiency of the optimization frameworks developed in the dissertation.
+				\end{enumerate}
+			\end{enumerate}
+
+
+		\section{Significance of the study}
+			The dissertation aims to contribute significantly to the area of sports analytics by bridging advanced machine learning techniques with practical fantasy sports management.\\
+			The research outcomes are expected to offer actionable insights for FFL managers, enhancing their decision-making process through data-driven strategies.\\
+			While the initial focus is theoretical and analytical, developing the web app will transition the research into a practical tool for widespread use among the 11 million FPL enthusiasts. \\
+
+			My decision to work on this topic stems from my passion for sports and the desire to apply mathematics in the real world. FPL, with its intricate optimization challenges, presents an ideal platform for learning and applying some cutting-edge mathematical and analytical techniques. In this project, I plan to learn new topics in Bayesian modeling and machine learning while consolidating my existing knowledge in mathematical optimization. Additionally, the skills and insights gained from this study have far-reaching applications beyond the fantasy sports realm, extending to sectors like financial portfolio management, healthcare resource allocation, and supply chain optimization. Ultimately, this project aligns perfectly with my academic and personal interests, providing a unique opportunity to develop a comprehensive skill set applicable to diverse real-world challenges.
+
+		\section{Basic Definitions and Important Theories}
+			\subsection{Copular Theory}
+				\begin{defn} \label{dfn:copula}\cite{jaworski2010copula}
+					For every $d \ge 2$, a $d-$dimensional copula (shortly, $d-$copula) is a
+					$d-$variate distribution function on $[0,1]$ whose univariate marginals are uniformly distributed on $[0,1]$.
+				\end{defn}
+
+				\begin{thm}
+					A function $C: [0,1]^d \rightarrow [0,1]$  is a copula if, and only if, the following properties
+					hold:
+					\begin{enumerate}
+						\item for every $j \in \{1,2, \dots ,d\}, C(u) = u_j$ when all the components of $u$ are
+						equal to 1 with the exception of the $j-$th one that is equal to $u_j \in [0,1]$;
+						\item $C$ is isotonic, i.e. $C(u) \le C(v)$ for all $u,v \in [0,1]^d, u \le v$;
+						\item $C$ is $d-$increasing.
+					\end{enumerate}
+					According to \textit{Theorem 1.3.1} of \cite{jaworski2010copula}, as a consequence, we have that $C(u)=0$ for every $u \in [0,1]$ having at least one of its components equal to 0 i.e. $C(u_1,\dots,u_{i-1},0,u_{i+1},\dots,u_n)=0$.
+				\end{thm}
+
+
+				\begin{thm}[Sklar's theorem]
+					\label{thm:sklar}
+					Let $F$ be a $d-$dimensional distribution function with univariate margins $F_1, F_2,\dots, F_d$. Let $A_j$ denote the range of $F_j, A_j := F_j(\bar{R}) (j = 1,2, \dots,d)$. Then there exists a copula $C$ such that for all $(x1,x2, \dots,xd \in \bar{R}^d)$, \\
+						\begin{equation}\label{eqn:sklar}
+							F(x_1,x_2, \dots ,x_d) =C(F_1(x_1),F_2(x_2), . . . ,F_d(x_d))
+						\end{equation}
+					Such a $C$ is uniquely determined on $A_1\times A_2\times \dots A_d$ and, hence, it is unique when $F_1, F_2,\dots, F_d$ are all continuous.\cite{jaworski2010copula}
+				\end{thm}
+
+				Therefore, from any $d-$variate distribution function $F$ one can derive a copula $C$ via (\ref{eqn:sklar}). Specifically, when $F_i$ is continuous for every $i \in {1,2, \dots ,d}, C$ can be obtained by means of the formula
+					\begin{equation}\label{eqn:invcopula}
+						C(u_1,u_2, \dots ,u_d) = F(F^{-1}_1 (u_1),F^{-1}_2 (u_2), \dots,F^{-1}_d (u_d)),
+					\end{equation}
+				where $F^{-1}_i$ denotes the pseudo-inverse of $F_i$ given by $F^{-1}_i (s) = inf\{t | F_i(t)\ge s\}$.
+				Hence, copulas are essentially a way for transforming the random variables $(X_1,X_2 \dots,X_d)$ into another random variable $(U_1,U_2, ,U_d) = (F_1(X_1),F_2(X_2), \dots,F_d(X_d))$ having the margins uniform on $[0,1]$ and preserving the dependence among the components. \cite{jaworski2010copula}
+
+				\begin{defn}[Archimedean generator]
+					This is any decreasing and continuous function $\psi : \left[0,\infty\right) \rightarrow [0,1]$ that satisfies the condition $\psi(0)=1, \lim\limits_{t \rightarrow \infty}\psi(t) =0$ and which strictly decreasing on on $\left[ 0, inf\{t | \psi(t)=0\}\right)$. By convention, $\psi(+\infty) = 0$ and $\psi^{-1}(0) = inf\{t \ge 0 | \psi(t) = 0\}$, where $\psi^{-1}$ denotes the pseudo-inverse of $\psi$.(P.17, \cite{jaworski2010copula})
+				\end{defn}
+
+				\begin{defn}
+					A $d-d$imensional copula $C$ is called Archimedean if it admits the representation
+					\begin{equation}\label{eqn:archmediancop}
+						C(u) =\psi (\psi^{-1}(u_1) +\psi^{-1}(u_2)+ \dots + \psi^{-1}(u_d))
+					\end{equation}
+					for all $u \in [0,1]$ and for some Archimedean generator $\psi$. (Definition 1.6.2. of \cite{jaworski2010copula})
+				\end{defn}
+
+				Among the Archimedean copula families, we shall consider the Gumbel–Hougaard copula family. The standard expression for members of this family of $d-$copulas is
+				\begin{equation}\label{eqn:gumbelHougaard}
+					C^{GH}_{\theta}(u) = exp\left(-\left(\sum_{i=1}^{d} (-log(u_i))^{\theta}\right)\right)
+				\end{equation}
+				where $\theta \ge1$. For $\theta = 1$, we have the \textit{independence copula} and the limit of $C^{GH}_{\theta} \rightarrow +\infty$ is the comonotonicity copula and the Archimedean generator of this family is given by $\psi(t) = exp\left(-t^{1/{\theta}}\right)$. (Example 1.6.1 of \cite{jaworski2010copula}).
+
+
+
+			\subsection{Basics of Bayesian Inference}
+				\begin{defn}[Gamma function, $\Gamma$]
+					This is one the most commonly used extension to complex numbers. The gamma function is defined for all complex numbers except the non-positive integers.\\
+					For every positive integer $n$,
+					\begin{equation}\label{eqn:gamma_int}
+						\Gamma (n)=(n-1)!\,.
+					\end{equation}
+					For complex numbers with a positive real part, the gamma function is defined via a convergent improper integral:
+						\begin{equation}\label{eqn:gamma_complex}
+							\Gamma (z)=\int _{0}^{\infty }t^{z-1}e^{-t}{\text{ d}}t,\ \qquad \mathbb{R} (z)>0\,.
+						\end{equation}
+				\end{defn}
+
+				\begin{defn}{Beta function, B}
+					It is defined by the integral
+
+						\begin{equation} \label{eqn:beta}
+							\mathrm {B} (z_{1},z_{2})=\int _{0}^{1}t^{z_{1}-1}(1-t)^{z_{2}-1}\,dt			\end{equation}
+					for complex number inputs $z_{1},z_{2}$ such that $\mathbb{R}	 (z_{1}),\mathbb{R}(z_{2})>0$
+				\end{defn}
+				A key property of the beta function is its close relationship to the gamma function:
+				\begin{equation}
+					\mathrm {B} (z_{1},z_{2})={\frac {\Gamma (z_{1})\,\Gamma (z_{2})}{\Gamma (z_{1}+z_{2})}}
+				\end{equation}
+				\subsubsection{Beta distribution}
+					The beta distribution is a family of continuous probability distributions defined on the interval $[0, 1]$ or $(0, 1)$ in terms of two positive parameters, denoted by $\alpha$ and $\beta$, that appear as exponents of the variable and its complement to 1, respectively, and control the shape of the distribution.\\
+					In Bayesian inference, the beta distribution is the conjugate prior probability distribution for the Bernoulli, binomial, negative binomial, and geometric distributions.\\
+					Its generalization to multiple variables is the Dirichlet distribution.\\
+
+					\begin{defn}
+						The probability density function (PDF) of the beta distribution, for $0 \le x \le 1$ or $0 < x < 1,$ and shape parameters $\alpha, \beta > 0,$ is a power function of the variable $x$ and of its reflection $(1 - x)$ as follows:
+						\begin{equation}
+							\begin{aligned}
+								f(x; \alpha,\beta) &= constat \cdot x^{\alpha-1} (1-x)^{\beta - 1}\\
+								&= \frac{x^{\alpha-1} (1-x)^{\beta - 1}}{\int_{0}^{1} u^{\alpha - 1}(1-u)^{\beta - 1} du}\\
+								&= \frac{\Gamma (\alpha+\beta)}{\Gamma(\alpha)\Gamma(\beta)}x^{\alpha - 1}(1 - x)^{\beta - 1}\\
+								&= \frac{1}{\beta(\alpha,\beta)}x^{\alpha - 1}(1 - x)^{\beta - 1}
+							\end{aligned}
+						\end{equation}
+					\end{defn}
+				\subsubsection{Dirichlet distribution}
+					The Dirichlet distribution often	$Dir({\boldsymbol {\alpha }}),$ is a family of continuous multivariate probability distributions parameterized by a vector ${\boldsymbol {\alpha }}$ of positive reals.
+					It is the continuous multivariate generalization of the Beta function and the conjugate prior of categorical and Multinomial distributions.\\
+					The infinite-dimensional generalization of the Dirichlet distribution is the Dirichlet process.
+
+				\begin{defn}[Dirichlet Distribution] \cite{Minka2012EstimatingAD}
+						The Dirichlet distribution of order $K \ge 2$ with parameters $\alpha_1, \dots, \alpha_K > 0$ has a probability density function with respect to Lebesgue measure on the Euclidean space $\mathbb{R}^{K-1}$ given by
+						\begin{equation}
+							f\left(x_{1},\ldots ,x_{K};\alpha _{1},\ldots ,\alpha _{K}\right)={\frac {1}{\mathrm {B} ({\boldsymbol {\alpha }})}}\prod _{i=1}^{K}x_{i}^{\alpha _{i}-1}
+						\end{equation}
+						where $\{x_{k}\}_{k=1}^{k=K}$ belong to the standard $K-1$ simplex, or in other words:
+						\begin{equation}
+							\sum _{i=1}^{K}x_{i}=1{\mbox{ and }}x_{i}\in \left[0,1\right]{\mbox{ for all }}i\in \{1,\dots ,K\}
+						\end{equation}
+						The normalizing constant is the multivariate beta function, which can be expressed in terms of the gamma function:
+						\begin{equation}
+							\mathrm {B} ({\boldsymbol {\alpha }}) = {
+								\frac {\prod \limits _{i=1}^{K}\Gamma (\alpha _{i})}
+								{\Gamma \left(\sum \limits _{i=1}^{K}\alpha _{i}\right)}},
+							\qquad {\boldsymbol {\alpha }}=(\alpha _{1},\ldots ,\alpha _{K}).
+						\end{equation}
+					\end{defn}
+				\subsubsection{Multinomial distribution}
+					The Multinomial distribution is a generalization of the binomial distribution. For example, it models the probability of counts for each side of a k-sided dice rolled n times.\\
+					The Bernoulli distribution models the outcome of a single Bernoulli trial. In other words, it models whether flipping a (possibly biased) coin one time will result in either a success (obtaining a head) or failure (obtaining a tail). The binomial distribution generalizes this to the number of heads from performing $n$ independent flips (Bernoulli trials) of the same coin. The Multinomial distribution models the outcome of $n$ experiments, where the outcome of each trial has a categorical distribution, such as rolling a $k-$sided die $n$ times.
+
+					\begin{defn}[Multinomial distribution]
+						Suppose one does an experiment of extracting $n$ balls of $k$ different colors from a bag, replacing the extracted balls after each draw. Balls of the same color are equivalent. Denote the variable which is the number of extracted balls of color $i (i = 1, ..., k)$ as $X_i$, and denote as $p_i$ the probability that a given extraction will be in color $i$. The probability mass function of this Multinomial distribution is:
+							\begin{equation}
+									\begin{aligned}
+										f(x_{1},\ldots ,x_{k};n,p_{1},\ldots ,p_{k})
+											&= \Pr(X_{1}=x_{1}{\text{ and }}\dots {\text{ and }}X_{k}=x_{k})\\
+											&={
+												\begin{cases}{
+														{n! \over x_{1}!\cdots x_{k}!} p_{1}^{x_{1}}\times \cdots \times p_{k}^{x_{k}}},\quad &{\text{when }}\sum _{i=1}^{k}x_{i}=n\\\\
+														0	& {\text{otherwise,}}
+												\end{cases}
+											   }
+									\end{aligned}
+							\end{equation}
+							for non-negative integers $x_1, \ldots, x_k$. \cite{berger2001statistical}
+
+							The probability mass function can be expressed using the gamma function as: \cite{johnson1997multivariate}
+								\begin{equation}
+									\begin{aligned}
+										 f(x_{1},\dots ,x_{k};p_{1},\ldots ,p_{k})={\frac {\Gamma (\sum _{i}x_{i}+1)}{\prod _{i}\Gamma (x_{i}+1)}}\prod _{i=1}^{k}p_{i}^{x_{i}}.
+									\end{aligned}
+								\end{equation}
+					\end{defn}
+
+					This form shows its resemblance to the Dirichlet distribution, which is its conjugate prior.
+				\subsubsection{Dirichlet - Multinomial distribution}
+					The Dirichlet-Multinomial distribution is a compound distribution where a probability vector $p$ is drawn from a Dirichlet distribution with parameter vector $\alpha$ and then a sample of discrete outcomes $x$ is drawn from a Multinomial distribution with probability vector $p$ and number of trials $n$.\cite{Minka2012EstimatingAD}
+					\begin{defn}[Dirichlet - Multinomial Distribution]
+						Given a random count vector $x=(x_1, \ldots, x_k)$ distributed according to a Multinomial distribution with a probability vector $p$ following a Dirichlet distribution with parameter vector $\alpha$. Then, the resulting distribution over $x$ a vector of outcomes is \cite{Minka2012EstimatingAD}
+						\begin{equation}
+						 \begin{aligned}
+						 	\Pr({x} \mid n,{\boldsymbol {\alpha }}) &=
+								 	\int _{p }
+									 	\mathrm {Mult} (x \mid n,p )
+									 	\mathrm {Dir} (p \mid {\boldsymbol {\alpha }})dp\\
+									 								&=
+									 \int _{p }
+									 	Pr(x \mid p)Pr(p \mid \boldsymbol{\alpha}) dp\\
+									 								&=
+									 {\frac {\Gamma \left(\alpha _{0}\right)\Gamma \left(n+1\right)}{\Gamma \left(n+\alpha _{0}\right)}}\prod _{k=1}^{K}{\frac {\Gamma (x_{k}+\alpha _{k})}{\Gamma (\alpha _{k})\Gamma \left(x_{k}+1\right)}}
+						 \end{aligned}
+						\end{equation}
+					\end{defn}
+
+				\subsubsection{Bayes' Theorem}
+				Let Pr(B,A) for the joint probability of events B and A.\\
+				The relation between joint probabilities $Pr(B,A)$ and conditional probabilities $Pr(B|A)$ is the basis of Bayes’ theorem.\\
+				\begin{defn}[Baye's Theorem]\label{dfn:bayestheorem}
+					Consider the relation $ Pr(B,A) = Pr(B|A)Pr(A)$. If we switch the role of $A$ and $B$, we get $Pr(A,B) = Pr(A|B)Pr(B)$.\\
+					Since $Pr(B,A)$ is the same as $Pr(A.B)$, we then have,
+					\[
+						Pr(B|A)Pr(A) = Pr(A|B)Pr(B)
+					\].
+					Hence
+					\begin{equation}\label{eqn:baye_1}
+						Pr(B|A) = \frac{Pr(A|B)Pr(B)}{Pr(A)}
+					\end{equation}.\\
+				\end{defn}
+
+
+				Now suppose that instead of a single event $B$, we have a set $B_j,j = 1,2,. . . ,k$ of mutually exclusive and exhaustive events. The events $B_j$ being mutually exclusive and exhaustive, it follows that
+				\begin{equation}\label{eqn:baye_2}
+					Pr(A) = \sum_j Pr(A,B_j) = \sum_j Pr(A|B_j) Pr(B_j)
+				\end{equation}
+
+				\begin{thm}[Bayes' Theorem]\label{thm:bayestheorem}\cite{link2009bayesian}
+					Bayes’ theorem is established by substituting a specific event $B_i$ for $B$ in \eqref{eqn:baye_1}, and then substituting \eqref{eqn:baye_2} in the denominator of the right-hand side of \eqref{eqn:baye_1}. Thus Bayes’ theorem is that	\\
+					\begin{equation}
+						Pr(B_i|A) = \frac{Pr(A|B_i)Pr(B_i)}{\sum_j Pr(A|B_j) Pr(B_j)}
+					\end{equation}
+				\end{thm}
+
+
+				The prior distribution $[\theta]$ (for parameter $\theta$) and the data distribution $[X|\theta]$ (for data $X$, given parameter $\theta$) are the core requirements for a Bayesian analysis. Bayes' theorem (\ref{thm:bayestheorem}) combines these to produce the posterior distribution $[\theta|X]$:
+				\begin{equation}\label{eqn:baye_3_1}
+					[\theta|X] = \frac{[X|\theta][\theta]}{[X]},
+				\end{equation}
+				where
+				\begin{equation}\label{eqn:baye_3_2}
+					[X]=\int [X|\theta][\theta]d\theta
+				\end{equation}
+				This posterior distribution summarizes all that is known about the parameter, combining prior knowledge and the information provided by the data and all the Bayesian inference is based on the posterior distribution.\\
+				The data distribution, the prior, and the posterior, are the primary	features of Bayesian analysis.\\
+				The distribution $[X]$ is the marginal distribution of the data. It is the average value of the data distribution, averaged against the prior. Since it need not be computed in characterizing the posterior distribution of $\theta$, equation \eqref{eqn:baye_3_1} may be written as
+				\begin{equation}\label{eqn:baye_4}
+					[\theta|X] \propto [X|\theta][\theta]
+				\end{equation}
+
+				Equation \eqref{eqn:baye_4} says that the posterior distribution is proportional to the product of the likelihood and the prior.\\
+
+				Given data, $X$ and an unknown success rate, $p$, Bayesian analysis of the data $[X]$ requires nothing more than specification of a prior distribution $[p]$. There is great flexibility in the choice of prior: $[p]$ can be any distribution on $[0, 1]$ and  Bayesian inference includes a formal mechanism for updating prior knowledge.\\
+
+				If one chooses a prior which expresses dead certainty about the value of the parameter, then the data will be ignored; however, if the prior expresses uncertainty about the parameter, then as sample size increases, the data will prevail in guiding inference.
+
+				\subsection{How to Choose a Good Prior}
+				There are two considerations to note:
+				\begin{enumerate}
+					\item[(i.)] Certain families of prior distributions are very naturally chosen, on the grounds of convenience and expositional clarity. For example a beta distribution as prior for the binomial distribution success parameter. Here, the beta family of distributions is said to be \textit{conjugate} for the binomial success parameter i.e the prior and the posterior distributions are in the same family. The beauty of this is 		that the posterior from one study is ready made to serve as prior in the next.\\
+					There is also a computational efficiency associated with using a conjugate prior: the posterior being of known form, there is no need to compute the integral in Equation \eqref{eqn:baye_3_2}.
+
+					\item[(ii.)] Analysts often wish to let the data speak for itself, as much as possible.
+				\end{enumerate}
+
+				When an objective Bayesian analysis is desired for the binomial success rate $p$, a common choice of prior is the uniform distribution on $[0, 1]$. A uniform prior on $p$ says that we have no more reason to believe it falls in any particular sub-interval of $[0, 1]$ than in any other of the same length. \cite{link2009bayesian}
+
+			\subsubsection{Calculating Posterior Distributions}
+				In Equation \eqref{eqn:baye_3_1}, the only role of the denominator $[X]$ in defining the posterior is as a “normalizing constant,” a scaling factor included so that the posterior distribution integrates to 1. Thus, it is simply written as Equation \eqref{eqn:baye_4}. While we do not need $[X]$ to define the posterior, we do need it if we are to calculate features such as its mean, variance, its percentiles; we may want to specific probabilities such as $Pr(\theta >0|X)$.\\
+
+				$[X]$ is found by averaging the data distribution $[X|\theta]$ against the prior $[\theta]$ as in equation \eqref{eqn:baye_3_2}. However, evaluating this integral is almost always difficult and frequently impossible. Here, we describe a variety of methods for getting around this difficulty, so that we may evaluate posterior distributions.
+
+			\subsubsection{Conjugacy}
+				Identifying posterior distributions is easy when we can identify a family of distributions, which includes both the prior and posterior distributions. Distributions in this "conjugate family" are identified by a hyper-parameter $\Lambda$.\\
+				What is known before data collection is summarized by a particular value $\Lambda_0$ and what is known afterwards by a new value $\Lambda_1$. The process of updating knowledge by data boils down to updating $\Lambda$, and the transition from $\Lambda_0$ to $\Lambda_1$ involves simple summaries of the data.\\
+				\textbf{Note:} The existence of a conjugate family depends on the form of the likelihood function.
+
+				\subsubsection{Binomial likelihood:}
+					Consider events modeled as Bernoulli trials. If the trials are independent, the data distribution $Y$ is binomial, $Y \sim B(N,p)$ with $p$ denoting the unknown probability.\\
+					Suppose that our prior knowledge about $p$ can be represented by a beta distribution with parameters $a_0$ and $b_0$. Then,
+					\begin{equation*}
+						\begin{aligned}
+							[p|Y] &\propto [Y|p]\times[p]\\
+							&\propto p^{Y}(1-p)^{N-Y} \times p^{a_0}(1-p)^{b_0-1}\\
+							&=p^{a_1-1}(1-p)^{b_1-1}
+						\end{aligned}
+					\end{equation*}
+					where $a_1 = Y+a_0$ and $b_1 = N-Y+b_0$.\\
+
+					Since the posterior distribution must integrate to 1, it must actually be a beta distribution; thus,
+					\[
+						[p|Y] = \frac{\Gamma(a_0+b_0+N)}{\Gamma(a_0+Y)\Gamma(b_0+N-Y)}p^{a_0+Y-1}(1-p)^{b_0+N-Y-1}
+					\]
+
+					Given the binomial likelihood, and a beta prior, we obtain a beta posterior: \textit{the beta family of priors is conjugate for the binomial likelihood.} The hyper-parameter $\psi = \{ a,b\}$ is updated by adding the number of successes to $a_0$, and the number of failures to $b_0$.\\
+					In the absence of specific knowledge, the choice $a_0 = 1$ and $b_0 = 1$ may be reasonable, since it describes a uniform prior on $p$. \cite{link2009bayesian}
+
+				\subsubsection{Poisson Likelihood:}
+					Let $Y = { y_1,. . . ,y_n}$ denote the observed values in a random sample drawn from a Poisson distribution with parameter $\lambda$, and suppose that the prior for $\lambda$ is a gamma distribution with parameters $\alpha_0$ and $\beta_0$. We find that the posterior distribution $[\lambda|Y ]$ is given by
+					\begin{equation*}
+						\begin{aligned}
+							[\lambda|Y] &\propto \prod_{i=1}^{n}\frac{e^{-\lambda}\lambda^{y_i}}{y_i!} \times \frac{\beta^{\alpha_0}_0}{\Gamma(\alpha_0)}\lambda^{\alpha_0 -1}e^{-\beta_0\lambda}\\
+							&\propto (e^{-n\lambda}\lambda^{n\bar{y}})\times (\lambda^{\alpha_0-1}e^{-\beta_0\lambda})\\
+							&=\lambda^{\alpha_1-1}e^{-\beta_1\lambda},
+						\end{aligned}
+					\end{equation*}
+					where $\alpha_1 = n\bar{y}+\alpha_0$ and $\beta_1=n+\beta_0$.
+					Thus the posterior distribution is in the same family as the prior; both are gamma distributions. \textit{The gamma family of priors is conjugate for the Poisson likelihood.} The hyper-parameter $\psi = \{ \alpha,\beta \}$	is updated by adding the total count to $\alpha_0$, and the sample size to $\beta_0$. \cite{link2009bayesian}
+
+
+				\subsubsection{ Multivariate Posterior Distribution:}
+					With more than one unknown, inference is based on a multivariate (joint) posterior distribution. This distribution is of the same form as Eq. \eqref{eqn:baye_3_1}, but now the parameter $\theta$ is vector valued, and $[\theta|X]$ is a multivariate distribution. More often, inference focuses on one parameter at a time.\\
+
+					For a vector-valued parameter $\theta = (\theta_1,\theta_2,\dots,\theta_k)'$, Eq. \eqref{eqn:baye_4} becomes \[[\theta|X] \propto [X|\theta][\theta],\] that is, \[ [\theta_1,\dots,\theta_k|X] \propto [X|\theta_1,\dots,\theta_k][\theta_1,\dots,\theta_k]. \]
+
+					To make inference about a single parameter, we examine the marginal posterior for the parameter of interest. For example, the marginal posterior distribution for parameter $\theta_1$ is found by, \[ [\theta_1|X] = \int\dots\int [\theta_1,\dots,\theta_k|X]d\theta_2,\dots, \theta_k. \]
+
+					So inference for a single parameter in a multi-parameter setting involves two potentially difficult calculations: first, of the joint posterior, second, of the marginal posterior from the joint.\\
+
+					There are cases where conjugate priors exist for multivariate parameters. This makes the first task, of identifying the joint posterior, feasible. Otherwise, the two tasks are easily accomplished by the simulation techniques.\cite{link2009bayesian}
+
+
+			\subsection{Monte Carlo Methods:}
+				The basic idea of simulations is that we can study features of a probability distribution $F$ 	by examining corresponding features of a sample $X_1, X_2, . . . , X_n$ from $F$.
+
+				\subsubsection{Cdf Inversion:}
+					This is the easiest method for scalar (uni-variate) random variables.\\
+					Suppose that $X$ is a continuous random variable with cumulative distribution function (cdf ) $F(t) = Pr(X \le t)$.
+					$F(t)$ is monotone increasing, hence invertible: there exists a function $F^{-1}$ such that $F^{-1}(F(t)) = F(F-1(t)) = t$.\\
+					Since $Pr(X \le t) = F(t), Pr(F(X) \le t) = Pr(X \le F^{-1}(t)) = F(F^{-1}(t)) = t$, for all $t\in [0, 1]$. So $F(X)$ has the same distribution as a uniform random variable $U \sim U(0,1)$, from which it follows that $F^{-1}(U)$ has the same distribution as $X$.
+
+				\subsubsection{Rejection Sampling:}
+					Rejection sampling is a simple technique for changing a sample from a distribution $c(x)$ into a (smaller) sample from another distribution $t(x)$. It is useful when it is easy to sample from the candidate distribution, $c(x)$ but difficult to directly sample the target distribution, $t(x)$.
+
+					\textbf{Proceedure:}
+					\begin{enumerate}
+						\item[i.] Choose an easily sampled candidate distribution $c(x)$, ensuring that there is a number $M < \infty$ such that over the entire range of $t(x), t(x) \le Mc(x)$.
+						\item[ii.] Draw a sample $X ~ c(x)$ and calculate $w(X) = t(X)/(Mc(X))$. Note that $0 \le w(X) \le 1$.
+						\item[iii.] We conduct a Bernoulli trial with success probability $w(X)$; if the trial is successful, the value
+						$X$ is accepted as an observation from $t(x)$, otherwise, the value is discarded.
+					\end{enumerate}
+
+			\subsection{Markov Chain Monte Carlo (MCMC):}
+				This is a simulation technique for examining probability distributions.
+
+				\subsubsection{Metropolis-Hastings Algorithm:}
+					\textbf{Proceedure:}\\
+					Suppose that we wish to draw samples from target distribution $f(x)$.  Let $j(x|y)$ be candidate generating distributions, describing probabilities for candidate values $x$, given current value $y$.
+					Fix a value $X_0$. Then for $t=1,2,\dots$, generate $X_t$ according to the following rules:
+					\begin{enumerate}
+						\item Generate a candidate value, $X_{cand}$ by sampling from $j(x|X_{t-1})$.
+						\item Calculate $$r =\frac{f(X_{cand})j(X_{t-1}|X_{cand})}{f(X_{t-1})j(X_{cand}|X_{t-1})} $$
+						\item Generate $U \sim U(0,1)$
+						\item If $U<r$, set $X_t = X_{cand}$, otherwise set $X_t = X_{t-1}$.
+					\end{enumerate}
+
+					Notice that in the algorithm, the target distribution is only involved in calculating $r$, and it occurs in both the numerator and the denominator. Hence if $f$ is a posterior distribution Eq. \eqref{eqn:baye_3_2} ($[X]$), the normalizing constant cancels out.\\
+
+				\subsubsection{Gibbs Sampling:}
+					This is designed for multi-variate posterior distributions. Given $\theta=(\theta_1,\theta-2,\dots,\theta_k)'$ represent unknown quantities, and $X$ represent data. the goal then is to draw a sample from $[\theta|X]$
+
+					\textbf{Algorithm:}\\
+					Suppose that we wish to draw samples from a joint posterior distribution $[\theta|X]$.\\
+					Fix a value $\theta^{(0)} = (\theta^{(0)}_1 ,\theta^{(0)}_2,\dots ,\theta^{(0)}_k)'$. Then for $t= 1,2,\dots$, generate $\theta^{(t)}$ according to the following rules:
+
+					\begin{enumerate}
+						\item Sample $\theta_1^{(t)}$ from the full conditional $[\theta_1|\theta^{(t-1)}_{(-1)},X]$.
+						\item Sample $\theta_2^{(t)}$ from the full conditional $[\theta_2|\theta^{(t-1)}_{(-2)},X]$.
+					\end{enumerate}
+					\dots
+					\begin{enumerate}
+						\item Sample $\theta_k^{(t)}$ from the full conditional $[\theta_k|\theta^{(t-1)}_{(-k)},X]$.
+					\end{enumerate}
+					\begin{enumerate}
+						\item Set  $\theta^{(t)} = (\theta^{(t)}_1 ,\theta^{(t)}_2,\dots ,\theta^{(t)}_k)'$.
+					\end{enumerate}
+
+					\textbf{Note:} It is also acceptable to sequentially update $\theta^{(t)}$ after each step in the preceding algorithm, and to use the partially updated $\theta^{(t)}$ in sampling subsequent full conditionals. For instance, $\theta^{(t)}_3$ could be sampled from the full conditional distribution
+					\[
+						[\theta_3|\theta_1^{(t)},\theta_2^{(t)},\theta_4^{(t-1)},\dots,\theta_k^{(t-1)},X],
+					\]rather than
+					\[
+						[\theta_3|\theta_1^{(t-1)},\theta_2^{(t-1)},\theta_4^{(t-1)},\dots,\theta_k^{(t-1)},X]
+					\]
+
+
+			\subsection{Mean-Variance Efficiency}
+				Consider $P$ assets with random returns $\tilde{\xi} = (\tilde{\xi}_1,\dots,\tilde{\xi}_P)$. Let $w=(w_1,\dots,w_P)$ be the proportion variables and these weights are constrained via $w\in \mathbb{W}= \{w:\sum_{i=1}^{P}w_i=1,w\ge 0\}$.\\
+				Let $\tilde{R}_w = w^T\tilde{\xi}$ be the random return of the manager's portfolio and $R_w$ and $\xi$ be the realizations of $\tilde{R}_w$ and $\tilde{\xi}$ respectively.\\
+				The manager's goal is to find an allocation $w^*$ which solves
+				\begin{equation}\label{Eq:obj1}
+					w^* = \max_{w\in\mathbb{W}	} Eu(\tilde{R}_w),
+				\end{equation}
+				where $u$ is a real-valued utility function that represents the manager's objectives.\\
+
+				We assume $Eu(\tilde{R}_w)$ is upper semi-continuous on $\mathbb{W}$ and since $\mathbb{W}$ is compact, it ensures that \eqref{Eq:obj1} has a finite optimal solution, $w^*$, which is achieved on $\mathbb{W}$.
+
+				For maximizing the probability that the benchmark is achieved, consider $u$ to be a utility function that depends on a benchmark return $R_b$ which can be random or deterministic.
+				\begin{equation}\label{Eq:utilfunc}
+					u(R_w) = I(R_w \ge R_b),
+				\end{equation}
+				where $I(\cdot)$ takes 1 if the argument is true and 0 otherwise.\\
+
+
+				\begin{equation}\label{Eq:maxProb2}
+					\max_{w\in\mathbb{W}}Prob(R_w-R_b \ge 0)
+				\end{equation}
+
+				\begin{defn}\label{dfn:mean-var}
+					The mean efficient frontier can be defined as
+					\begin{equation*}\label{Eq:mean-eff}
+						\resizebox{\hsize}{!}{
+							$\mathcal{F} = \{
+							(\mu,\sigma^2) :
+							\exists w\in \mathbb{W} \text{ with }  \mu_w=\mu, \sigma_w^2=\sigma^2 \text{ and }
+							\not\exists \hat{w}\in \mathbb{W} \text{ with }  \mu_{\hat{w}} \ge \mu, \sigma_{\hat{w}}^2 < \sigma^2
+							\}
+							$}
+					\end{equation*} where $\mu_w = \sum_{i=1}^{p}E\tilde{\xi}_i w_i$ and $\sigma_w^2 = \sum_{i=1}^{p}\sum_{j=1}^{p} cov(\tilde{\xi}_i \tilde{\xi}_j)w_i w_j$. \\
+					A feasible allocation decision $w\in\mathbb{W}$ is said to be on efficient frontier if $(\mu_w,\sigma-w^2) \in \mathcal{F}$.
+				\end{defn}
+
+				\begin{lem}\label{lem:mean-eff}\cite{morton2003optimizing}
+					Assume $Eu(R_w)$ can be expressed as $Eu(R_w) = F(\mu_w,\sigma_w^2)$ for some function $F$ and let $w^*$ solve \eqref{Eq:obj1}. If $ F(\mu_w,\sigma_w^2)$ is increasing in $\mu_w$ and decreasing $\sigma_w^2$, then $w*$ is on the efficient frontier.
+				\end{lem}
+				Assuming $\xi$ has a multivariate normal distribution, $\Phi$ is the CDF of a standard normal, and let $m_w = R_b-\mu_w$. If the benchmark is random, then $\tilde{\xi}  \leftarrow \tilde{\xi}-R_b$ and use a deterministic benchmark of 0. In this case, $m_w = -\mu_w$.\\
+				Under the multivariate normal hypothesis,
+				\begin{equation}\label{Eq:Phi}
+					P(\tilde{R}_w \ge R_b) = 1 - \Phi(\frac{m_w}{\sigma_w})
+				\end{equation}
+				Note that in our problem, the benchmark is random and so $R_b = 0$. Hence
+				\begin{equation}\label{Eq:Phi}
+					P(\tilde{R}_w \ge R_b) = 1 - \Phi(\frac{-\mu_w}{\sigma_w})
+				\end{equation}
+				Equation \eqref{Eq:Phi} establish the existence of an $F(\mu_w,\sigma_w^2)$ function for the expected utility function which allows us to explore conditions under which the monotonicity hypothesis of $F$ in lemma 1 are satisfied.
+
+				\begin{thm}\label{thm:argmax_on_eff}\cite{morton2003optimizing}
+					Let $\tilde{\xi}$ be multivariate normal. If there exists $\hat{w} \in \mathbb{W}$ with $\mu_{\hat{w}} > R_b$, then $w^* \in  \argmax_{w \in \mathbb{W}} Eu(\tilde{R}_w)$ is on the efficient frontier.\\
+				\end{thm}
+
+				Theorem \ref{thm:argmax_on_eff} says that when maximizing the probability of achieving the benchmark, mean-variance efficiency is obtained if we also assume there exists $\hat{w} \in \mathbb{W} \text{ with } \mu_{\hat{w}} > R_b$ such that
+
+
+			\subsection{Solution procedures and the solution quality} \label{sec:sol_to_mean_var}
+				\begin{prop+}\cite{morton2003optimizing}
+					Assume that the returns are normally distributed i.e. $R_w-R_b \sim N(\mu_w,\sigma_w^2)$. Consider that $Eu(\tilde{R}-w)$ is not concave or its concavity has not been established. If we assume that mean-variance efficiency has been established, we know that the solution is in the set
+					\begin{equation}\label{Eq:muge}
+						\{ w(\lambda):w(\lambda) \in \argmax_{w\in \mathbb{W}} \mu_w - \lambda\sigma_w^2, \lambda \ge0 \}
+					\end{equation}.
+
+					If $\mu_w <0$ for all $w\in \mathbb{W}$, then,
+					\begin{equation}\label{Eq:mule}
+						\{ w(\lambda):w(\lambda) \in \argmax_{w\in \mathbb{W}} \mu_w + \lambda\sigma_w^2, \lambda \ge0 \}
+					\end{equation}.
+				\end{prop+}
+
+				Equations \eqref{Eq:muge} and \eqref{Eq:mule} can be generated via parametric quadratic binary programming. And according to \cite{morton2003optimizing}, this reduces the $p$-dimensional optimal allocation problem to a line search about $\lambda$. In other wards, we choose the value of $\lambda$ that yields the largest objective in \eqref{Eq:maxProb} or \eqref{Eq:Phi}. According to \cite{sun2006optimization}, we can find the solution to the line search using the Forward-Backward Method.
+
+
+
+		\chapter{Literature Review}
+			Fantasy games can be traced back to Wilfred ‘Bill’ Winkenbach. He created fantasy golf and football rules in the late 1950s and early 1960s. In 1984, Charpentier and Tom Kane Jr. Co-authored "The Fantasy Football Digest '', explaining fantasy football rules. The game was later popularized, first through magazines and then through newspapers.  Back then, putting together a lineup and getting results was an uphill task accomplished by posting through the mail. With the arrival of the internet, information and online fantasy games became readily available to fantasy managers worldwide, simplifying the process of managing fantasy teams. Since then, interest in fantasy sports has grown to include 62.5 million players in the USA and Canada\footnote{\url{https://thefsga.org/industry-demographics/}}, 160 million in India, and 9.1 million globally in the Fantasy Premier League (FPL) by 2022\footnote{\url{https://playtoday.co/blog/stats/how-many-people-play-fantasy-sports/\#\:\~\:text=,1\%20million\%20users}}.
+			\\
+			With such popularity and its disposition as an interesting intellectual challenge, it wasn’t long before the mathematicians came knocking. Much work has since been published on fantasy games from various perspectives. For example, \cite{Kaplan_Garstka_2001}  and \citet{Clair_Letscher_2007} modeled tournaments to predict the maximum number of game winners in an upcoming elimination tournament. Regarding head-to-head contests, \cite{becker2016analytical} attempted the first analytical approach to line-up management in the context of an entire NFL season, i.e., encompassing the draft, weekly play, and playoff phases. They develop a mixed integer programming model that caters to all phases but is biased towards the draft phase. They also modeled opponents' behaviors based on expert player rankings before the draft, i.e., when it is their turn, the opponent is expected to draft the most highly ranked remaining player to their team. However, this game format diverges significantly from the FPL Head-to-Head game in many aspects: Firstly, it is structured so that each player belongs to only one team in the competition; Secondly, you keep the same team for the entire season. Therefore, we cannot directly apply the tools developed in this work to H2H in FPL.
+			\\
+			More closely related to our problem is the work by \cite{haugh2021play} who devised a framework for assembling daily fantasy teams to compete in pool-style competitions. In these competitions, a manager typically competes against thousands of opponents for a monetary cash prize. For each round of games, managers can freely select any player into their team despite their opponents’ choices. They model opponents’ choices using Dirichlet regression and use these to determine the stochastic benchmark to beat for a win. This approach is well suited for the H2H competition in FPL since we know our opponents in advance and can extract information about their player selection patterns from their previous match-ups. They then proceed to optimize the probability of outperforming the stochastic benchmark subject to game constraints. A H2H match-up in FPL can be considered a special case of pool-style competitions with only two players. However, we would still need to make some adjustments before utilizing Haugh et al.’s framework for our problem. These include accommodations for:
+			\begin{enumerate}
+				\item[-] A more extended planning period due to restrictions on changing our team in future game weeks. We intend to optimize for 2-3 game weeks using ideas from  \cite{becker2016analytical}.
+				\item[-] A single opponent to beat. The pool size can be expanded by considering all combinations generated by possible transfers and substitutions from the bench.
+				\item[-] Free-hits and wildcard chips where a manager is allowed to freely overhaul their team. This is particularly important when modeling the opponent’s team, as this could significantly undermine our chances of winning that match-up.
+			\end{enumerate}
+
+		\chapter{Problem Formulation and Results}
+			\section{Mathematical formulation for the Problem}
+			Using a similar procedure as \cite{haugh2021play}, our goal is to choose a squad   $\omega \in \{0,1\}^P$.
+
+				\subsection{Assumptions:}
+					\begin{itemize}
+						\item There is a total of $P$ real-world players whose performance   $\delta \in Z^P$in a given game week is random.
+						\item $\delta$ has mean vector $\mu_{\delta}$ and variance-covariance matrix $\Sigma_{\delta}$.
+						\item Projected Player performance will determine the available player pool from which we make transfers.
+					\end{itemize}
+
+				\subsection{Feasibility constraints}
+					Typically, there are many constraints on $\omega$ . For example, in a typical FPL contest,
+					\begin{itemize}
+						\item We are only allowed to select $C = 15$ athletes out of $P$ FPL players, each athlete has a certain cost and our team cannot exceed a given budget $B=100$ million fantasy dollars.\\
+						These constraints on  can the be formulated as follows;
+						\[
+						\begin{aligned}
+							\sum_{i=1}^{P}\omega_i &=C\\
+							\sum_{i=1}^{P}c_i\omega_{i} &\le B,
+						\end{aligned}
+						\]
+						where $\omega_{i} \in \{0,1\}, i = 1, ..., P$, and $c_i$ is the cost the $i^{th}$ athlete.
+						\item There are also positional constraints on $\omega$ such as for each squad that is selected, we should have 2 goalkeepers, $g$ , 5 defenders, $d$ , 5 midfielders, $m$ , and 3 forwards $f$. This has the following formulation;
+						\[
+						\begin{aligned}
+							\sum_{i=1}^{P_g}\omega_{i} =g\\
+							\sum_{i=1}^{P_d}\omega_{i} =d\\
+							\sum_{i=1}^{P_m}\omega_{i} =m\\
+							\sum_{i=1}^{P_f}\omega_{i} =f,
+						\end{aligned}
+						\]
+						where $\omega \in \{0,1\}$, and $P_g+P_d+P_m+P_f=P$.
+						\item Any combination of $c_{in}=11$ Players (line-up) from the different positions can be formed from the squad of 15 players given that the combination includes 1 goalkeeper, at least 3 defenders, at least 2 midfielders, and at least 1 forward. These are formulated as below;
+						\begin{itemize}
+							\item The 11 player squad is given by $\sum_{i=1}^{P}\sum_{j=1}^{C}\omega_{i,j} = c_{in}$ where $\omega_{i,j}$ is the $j^{th}$ player in $\omega_{i}$.\\
+							Also, $\sum_{i=1}^{P}\sum_{j=1}^{C_g}\omega_{i,j} = 1, \sum_{i=1}^{P}\sum_{j=1}^{C_d}\omega_{i,j} \ge 3, \sum_{i=1}^{P}\sum_{j=1}^{C_m}\omega_{i,j} \ge 2, \sum_{i=1}^{P}\sum_{j=1}^{C_f}\omega_{i,j} \ge 1$, where $C_g+C_d+C_m+C_f = C$.
+						\end{itemize}
+
+					\end{itemize}
+
+				\subsection{The Problem}
+
+					Let $\mathbb{W}$ be the set of binary tuples $\omega \in  \{0,1\}$ that satisfy the above constraints.
+
+					Following Haugh. et. al., we will assume there for a particular opponent, there are $O$  possible squad combinations that they could field in upcoming game week and let $\mathbb{W}_o = \{\omega_o\}^O_{o=1}$ denote these possible squad combinations the opponent could field in the upcoming game week.
+					We assume that making changes to $c_{in}=11$ player squad from the $C=15$ will result in a new $\omega_o$. $\mathbb{W}_{o}$ will be computed as a combination of the following;
+
+					\begin{enumerate}
+						\item[i.] Opponent’s current 15 player squad will result in 550 squad combinations as shown below:
+						\begin{itemize}
+							\item 	Given that each combination of 11 players  $c_{in}=11$ should have 1 goalkeeper, at least 3 defenders, at least 2 midfielders and at least 1 forward, we can then have the following combinations;
+							\begin{table}[ht]
+								\begin{center}
+									\begin{tabular}{|l|l|}
+										\hline
+										Allowed Formations (GK, DEF, MID, FWD)& Combinations\\
+										\hline
+										1-3-4-3 & $C_1^2 \cdot C_3^5 \cdot C_4^5 \cdot C_3^3 =30$\\
+										\hline
+										1-3-5-2 & $C_1^2 \cdot C_3^5 \cdot C_5^5 \cdot C_2^3=60$\\
+										\hline
+										1-4-3-3 & $C_1^2 \cdot C_4^5 \cdot C_3^5 \cdot C_3^3=100$\\
+										\hline
+										1-4-4-2 & $C_1^2 \cdot C_4^5 \cdot C_4^5 \cdot C_2^3=150$\\
+										\hline
+										1-4-5-1 & $C_1^2 \cdot C_4^5 \cdot C_5^5 \cdot C_1^3=30$\\
+										\hline
+										1-5-2-3 & $C_1^2 \cdot C_5^5 \cdot C_2^5 \cdot C_3^3=20$\\
+										\hline
+										1-5-3-2 & $C_1^2 \cdot C_5^5 \cdot C_3^5 \cdot C_2^3=60$\\
+										\hline
+										1-5-4-1 & $C_1^2 \cdot C_5^5 \cdot C_4^5 \cdot C_1^3=30$\\
+										\hline
+										Total   & 550\\
+										\hline
+									\end{tabular}
+								\end{center}
+								\caption{A table showing the squad combinations for an opponent}
+							\end{table}
+
+						\end{itemize}
+						\item[ii.] If 1 playing transfer is made, the we have more $550 \cdot [C_1^{n_g} +C_1^{n_d}+C_1^{n_m} +C_1^{n_f}]$.
+						\item[iii.] If 2 playing transfer is made, the we have more $550 \cdot  [C_2^{n_g} +C_2^{n_d}+C_2^{n_m} +C_2^{n_f}]$.
+					\end{enumerate}
+
+					Hence
+					\begin{equation*}
+						\begin{aligned}
+							O &= 550 \cdot (1 + [C_1^{n_g} +C_1^{n_d}+C_1^{n_m} +C_1^{n_f}] + [C_2^{n_g} +C_2^{n_d}+C_2^{n_m} +C_2^{n_f}])\\
+							&= 550 \cdot  (1 + C_1^{n_g} +C_1^{n_d}+C_1^{n_m} +C_1^{n_f} + C_2^{n_g} +C_2^{n_d}+C_2^{n_m} +C_2^{n_f}),
+						\end{aligned}
+					\end{equation*}
+					where $n_g,n_d,n_m$, and $n_f$ is the number/pool of available goalkeepers, defenders, midfielders and forwards respectively, from which we can make transfers. \\
+
+					At the end of the game week, our squad, $\omega$ , realizes a points total of $F=\omega^T\sigma$ and our opponent’s possible realized points totals are $G_o=\omega_0^T\delta$  for $o = 1,\dots,O$. All squads $\omega_o$’s are then ranked according to their points total in $\{G_o\}^O_{o=1}$.\\
+
+					Using the double-up from formulation from Haugh et. al, we would like to be in the top $r$ teams with $N=1$ and $r =\frac{(O+1)}{k}$ for $0 < k<O$ and $k$ is the factor by which the payoff is multiplied by. For a double-up $k=2$, for a quintupple, $K=5$, and so on.\\
+					The fantasy team optimization problem then is to solve,
+					\[
+					\max_{\omega \in \mathbb{W}} Prob\{\omega^T\delta > G^{(r')}(\mathbb{W}_0,\delta)\},
+					\]
+					where $G^{(r)}$ is the $r^{th}$ order statistic of ${G_o}_{o=1}^O$ and $r' =O+1-r$.\\
+					$r$ is 50\% for a risk-neutral manager who just wants to beat 50\% of the opponent's possible teams but could rise as high as 90\% for a risky manager.
+
+%			\section{Methodology}
+%				The following methods shall be employed to achieve the stated specific objectives:
+%				\subsection{Specific objective 1}
+%				We used clear and universal mathematical notation for problem formulation, apply mathematical analysis techniques to understand solution characteristics and borrow any pertinent results from mathematical finance. This approach ensured a rigorous and quantitatively sound framework that balances theoretical accuracy with practical relevance in decision-making.
+%
+%				\subsection{Specific objective 2}
+%				We used data from diverse sources such as the FPL API, Github, Understat.com, and web scraping of online bookmakers to develop machine learning models. This comprehensive dataset contains both historical data and information on future game conditions, such as fixture difficulty ratings. It enabled us to develop robust predictions for player performances in upcoming game weeks.
+
+%				\subsection{Specific objective 3}
+%				We collected information on current player ownership and transfer trends and analyze historical data on opponent team selections and captain choices. This data informed the Dirichlet-multinomial model, which allowed us to incorporate prior knowledge and update our predictions based on the new information. This offered a dynamic and statistically robust method for anticipating opponents' strategies. Marginal distributions for each player were then be used for selection. Key ingredients to the selection parameters were be the predicted performance and extra cost of bringing in a new player.
+%				\subsection{Specific objective 4}
+%				Based on the above predictions for player performance and opposition line-up, we utilized efficient optimization techniques to recommend the best selections and transfers for the current game week with considerations for the upcoming game week(s).
+
+%				\subsection{Specific objective 5}
+%				We used suitable statistical tests to determine if the differences in performance between our framework and conventional methods are significant.
+
+		\section{Modeling Opponents' team selection}
+			Each team has $C=15$ positions which must consist of 2 goalkeepers, ($g$), 5 defenders ($d$), 5 midfielders($m$), and 3 forwards ($f$).\\
+
+			Let $w_o = (w^g,w^d,w^m,w^f)$; $w^g$ denotes the goalkeeper component of $w_o$, $w^d$ denotes the defender component of $w_o$, etc and we refer to them as the positional marginals of $w_o$. If there are $P_g$ goalkeepers available for selection, then $w_o^g \in \{0,1\}^{P_g}$ and exactly 2 components of $w_o^g$ will be 1 for any feasible $w_o$.\\
+			Hence $P_g+P_d+P_m+P_f=P$ since there $P$ athletes in total available for selection.\\
+			Using Sklar's theorem \ref{thm:sklar}, we can model the distribution of $w_o$. We can then write;
+			\begin{equation}\label{Eq:sklarapp}
+				F_{w_o}(w^g_o,w^d_o,w^m_o,w^f_o) = C(F_g(w^g_o),F_d(w^d_o),F_m(w^m_o),F_f(w^f_o)),
+			\end{equation}
+			where $F_{w_o}$ denotes the CDF of $w_o$, $F_g, F_d, F_m, \text{ and }F_f$ represent the margin CDFs of $w_o^g, w_o^d, w_o^m, \text{ and } w_o^f$ respectively, and $C$ is the copula of $w_o^g,w_o^d,w_o^m,w_o^f$.\\
+			$C$ which is only defined on $Range(F_g)\times \dots \times Range(F_d)$ models the dependence structure of the positional marginals.\\
+			Using Sklar's theorem in ($\ref{eq:sklarapp}$), in order to determine the distribution of $w_o$ , we now only need to deal with 2 separate sub-problems;
+				\begin{enumerate}
+					\item[(i).] Modeling and estimating the positional marginals $F_g, F_d, F_m, \text{ and }F_f.$
+					\item[(ii).] Modeling and estimating the copula of $w_o^g,w_o^d,w_o^m,w_o^f$.
+				\end{enumerate}
+
+
+
+			\subsection{Estimating positional margins}
+				Modelling the positional margins for the opponent means we are tracking the opponent's squad transisition through the gameweeks. To do this, we employ a two-stage Bayesian Hierachical modelling.
+				First, we estimate the cross-sectioanl parameters for the league. These parameters then serve the league baseline or priors for the longitudinal parameter estimtion for the opponent's team selection modelling.
+
+				\subsubsection{The Cross-sectional League Baseline (Prior)}
+				Here, we pool the team seelction data for all the league managers for a specific gameweek $t$. Let $j \in \{g,d,m,f\}$ be the positions in the squad, $N_j$ be the number of players in position $j$, and $p_j = \{p_j^k\}_{k=1}^{P_j}$ lie on the simplex in $\mathbb{R}^{P_j}$.\\
+				If $p_{j,t} \sim Dir(\alpha^{league}_{j,t})$, where $Dir (\alpha^{league}_j)$ denotes the Dirichlet distribution with parameter vector $\alpha^{league}_j$ and a random opponent selects a player $k_j$ with probability $p_j^{k_j}$ for $k_j = 1, ..., P_j$. The chosen player follows a $Multinomial(N_j, p_j)$.\\
+				Using Bayesian Dirichlet Modelling, we estimate the league population parameters $\beta^{league}$ across the market covariates  $X_t$ so that
+				\begin{equation}\label{eq:alpha_league}
+					\alpha_{j,t}^{league} = \exp\left(\beta_{j}^{league} X_{j,t} \right),
+				\end{equation}
+				where $X_j,t$ is a matrix of observable independent variables about the features specific to the players in position $j$.\\
+				This parameter $\alpha_{j,t}^{league}$ is completely memoryless.\\
+				For player $k$, $$ \alpha_{j,t, k}^{league} = \exp\left(\beta_{j}^{league} X_{j,t, k} \right)$$
+
+				\begin{thm}
+					Given that $\beta^{league}_{j}$ follows a uniform distribution and we have data from weeks $t=1$ to $t=T-1$, where $T$ is the week for which we are estimating the $p_j$, then the posterior distribution of $\beta_j^{league}$ satisfies
+					\begin{equation}\label{Eq:beta_league}
+						\begin{aligned}
+							p(\beta_j^{league} | \{ p_{j,t}\}_{t=1}^{T-1})
+							& \propto \prod_{t=1}^{T-1} \frac{1}{B(\alpha_{j,t})} \prod_{k=1}^{P_j}(p_{j,t}^k)^{\alpha_{j,t}^k-1},
+						\end{aligned}
+					\end{equation} where $B(\alpha_{g,t})$ is the normalization factor for the Dirichlet distribution.
+				\end{thm}
+
+
+				\begin{proof}
+					\[
+					\begin{aligned}
+						p\left(\beta_j^{\text{league}} \middle| \{ p_{j,t}\}_{t=1}^{T-1}\right)
+						& = \frac{p\left(\beta_j^{\text{league}}\right) p\left(\{ p_{j,t} \}_{t=1}^{T-1} \middle| \beta^{\text{league}}_j\right)}{p\left( \{ p_{j,t}\}_{t=1}^{T-1} \right)}
+					\end{aligned}
+					\]
+					From \eqref{eqn:baye_4}, we have,
+					\[
+					\begin{aligned}
+						p\left(\beta_j^{\text{league}} \middle| \{ p_{j,t}\}_{t=1}^{T-1}\right)
+						 & \propto p\left(\beta_j^{\text{league}}\right) p\left(\{ p_{j,t} \}_{t=1}^{T-1} \middle| \beta^{\text{league}}_j\right)
+					\end{aligned}
+					\]
+
+					Given that $\beta \sim U[0,1]$ , then $p\left(\beta_{j}^{\text{league}} \right) \propto 1$. Hence,
+					\[
+						\begin{aligned}
+							p\left(\beta_j^{\text{league}} \middle| \{ p_{j,t}\}_{t=1}^{T-1}\right)
+							& \propto p\left(\{ p_{j,t} \}_{t=1}^{T-1} \middle| \beta^{\text{league}}_j\right)
+						\end{aligned}
+					\]
+					Since $p_{j,t} \sim Dir\left(\alpha^{\text{league}}_{j,t}\right)$, where $\alpha^{\text{league}}_{j,t} = exp^{\left(X_{j,t}\beta_{j}\right)}$. Then,
+
+					\[
+					\begin{aligned}
+						p\left(\beta_j^{\text{league}} \middle| \{ p_{j,t}\}_{t=1}^{T-1}\right)
+						& \propto \prod_{t=1}^{T-1} Dir\left( p_{j,t} \middle| exp^{\left(X_{j,t}\beta_{j}\right)}\right)\\
+						& = \prod_{t=1}^{T-1} \frac{1}{B\left(\alpha_{j,t}\right)} \prod_{k=1}^{P_j}\left(p^k_{j,t}\right)^{\alpha^k_{j,t}-1}
+					\end{aligned}
+					\]\qedhere
+				\end{proof}
+
+				\subsubsection{The Longitudinal individual update(The posterior)}
+				Let $Y_{m,t-1,k}$ be a binary indicator showing whether the manager $m$ already owned player $k$ in the previous week $t-1$, let $\gamma_m$ be the manager's individual transfer friction coefficient, and let $\Delta\beta_{j,t,m}$ be a vector of individual deviations. If the manager hates taking point hits, $\gamma_m$ will scale upward, heavily inflating the utility of players they already own to mimic roster retention. If the manager $m$ favors a particular underlying feature say, $xG$, over cleansheets compared to the league average, $\Delta\beta_{j,t,m}$ adjusts the baseline weights accordingly. So, if a secondary Bayesian Dirichlet-Multinomial model is run using only the target manager's history $(t=1, ..., T-1)$ so that the personalised Dirichlet parameter $\alpha_{j,m,t}$ is modelled as a conditional update to the league basline. Then, $\alpha_{j,t}^{\text{league}}$ is then treated as our informative prior.
+
+				\begin{thm}
+					Given the league baseline parameter $\alpha^{\text{league}}_{j,t,k}$, then the individual manager Dirichlet parameter is given by;
+					\begin{equation}\label{Eq:alpha_m}
+						\alpha_{j,m,t,k} = \exp\left( \left(\beta^{league} + \Delta\beta_m\right)X_{t,k} + \gamma_mY_{m,t-1,k}\right)
+					\end{equation}
+				\end{thm}
+				\begin{proof}
+					From \ref{eq:alpha_league} we have,
+					\[
+						\begin{aligned}
+							\alpha_{j,m,t,k} &= \exp\left( \beta^{\text{league}}_{j,t,k} X_{t,k} \right) \cdot \exp\left(\gamma_m Y_{m,t-1,k} + \boldmath{\Delta}\beta_{j,t,m}X_{t,k} \right).\\
+							\ln\alpha_{j,m,t,k} &= \left( \beta^{league}_{j,t} + \Delta\beta_{j,t,m}\right)X_{j,t,k} + \gamma_mY_{m,t-1,k}.\\
+							\alpha_{j,m,t,k} &= \exp\left( \left( \beta^{league}_{j,t} + \Delta\beta_{j,t,m}\right)X_{j,t,k} + \gamma_mY_{m,t-1,k} \right).
+						\end{aligned}
+					\]
+
+				\end{proof}
+
+				Similarly to \eqref{Eq:beta_league}, the joint posterior density for the individual parameter vector $\boldsymbol{\theta}_{j,m} = \{\boldsymbol{\Delta\beta}_{j,m}, \gamma_m\}$ given the manager $m$'s selection history $\{p_{j,m,t}\}_{t=1}^{T-1}$ is given by;
+				\begin{equation}\label{Eq:posterior_manager}
+					p\left(\boldsymbol{\theta_{j,m}} \middle| \{p_{j,m,t}\}_{t=1}^{T-1}, \beta_{j,m}^{\text{league}}\right)
+					\propto p(\boldsymbol{\theta}_{j,m}) \prod_{t=1}^{T-1} \frac{1}{B(\alpha_{j,m,t})} \prod_{k=1}^{P_j} \left(p_{j,m,t}^k\right)^{\alpha_{j,m,t,k} - 1},
+				\end{equation}
+				where $p(\boldsymbol{\theta}_{j,m})$ represents regularizing priors placed on the manager's behavioral parameters.\\  %(e.g., zero-mean Gaussian prior on feature preferences $\boldsymbol{\Delta\beta}_{j,m}$ and a non-negative half-normal prior on transfer friction $\gamma_m$).
+				When the Dirichlet regression model has been fit for each of the positional margins. We are now ready to estimate the copula for these marginals so that we get the the manager's squad selection join distribution.
+				\subsection{Copula Estimation for the positional marginals}
+				To model the dependence structure of the oponent's squad, we will use C-vine copulae.
+				However, given the structure of a C-vine, we need to limit the pool of players available for selection to reduce redudancy in our modelling.
+				First, the players are rank by their marginal probabilities $p_{j,k}$ so that we limit the available number of players available for the opponent to select from per position to the top $n_j$. Considering there are already 15 players in the squad, we add the limited pool to get a overall pool of players as $M$ out of the $P$ players available in the whole league.\\
+				Therefore, we have $p_t = \left( p_{k,t}\right)_{k=1}^M$ as the vector of selection marginal probabilities for the players available fo r selection in gameweek $t$.
+				\subsubsection{Data Augmentation}
+				In order to construct copulas for our marginal distributions, the data should be continous. However, the squads we are dealing with are discrete vectors of binary selections. To convert this discrete data to the continus case, we proceed as follows.\\
+				Let $X_t = \left( X_{1,t}, \cdots, X_{M,t} \right) \in \left[o,1\right]$ be the observed squad for the manager in gameweek $t$. For every player $k \in [1, \cdots, M]$, the lower and upper boundaries are respectively given by;
+				\begin{equation}\label{Eq:latent_boundaries}
+					\begin{aligned}
+						a_{t,k} &= \left(1-X_{t,k}\right) \left(1-p_{t,k}\right),\\
+						b_{t,k} &= X_{t,k} + \left(1-X_{t,k}\right) \left(1-p_{t,k}\right).
+					\end{aligned}
+				\end{equation}
+				The latent variables are then given by;
+				\begin{equation}\label{Eq:latent_variables}
+					u_{t,k} \in
+					\begin{cases}
+						\left[0,1-p_{t,k}\right) & \text{if player is not selected or sold},\\
+						\left[1-p_{t,k}, 1\right] &\text{if player is selected or retained}.
+					\end{cases}
+				\end{equation}
+				This maps the discrete vector $X_t$ to a continous vector of uniform latent variables $u_{t} = \left(u_{t,1}, \cdots, u_{t,M}\right)$. The conditional support of each $u_{t,k}$ is bounded by $\left[a_{t,k},b_{t,k}\right)$.
+
+				\subsubsection{Permutation vector for the C-Vine}
+				With the latent variables $u_t$ calculated, we can then proceed to rank our players so that we get the roots of the C-Vine copula trees.\\
+				We use the non-parametric Kendall's $\tau$ to ran our players $k \in [1,M]$. This measures the strength of monotonic rank dependence between every pair of players without requiring any prior parametric fitting.\\
+				Let $U\in \left[0,1\right]^{T \times M}$ where $T$ is the current game week be the augmented continous latent uniform matrix. For any $i$ and $j$, their respective column vectors are $u_i$ and $u_j$.\\
+				The Kendall's rank correlation coefficient $\hat{\tau}_{i,j}$ between the players is given by;
+				\begin{equation}\label{Eq:kendall_tau}
+					\hat{\tau}_{i,j} = \frac{2}{T\left(T-1\right)}\sum_{1\leqslant t < s \leqslant T}sgn\left(u_{t,i} - u_{s,i}\right)\cdot sgn\left(u_{t,j} - u_{s,j}\right)
+				\end{equation}
+
+				To determin the root node player of our C-vine, we compute a "Hub Score" for every player k. So that,
+				\begin{equation}\label{Eq:hub_score}
+					S_{k} = \sum_{j \neq k}^{M} \left|\hat{\tau}_{k,j} \right|
+				\end{equation}
+				A player permutation vector $\pi = \left(\pi_1, \cdots \pi_{M}\right)$  is constructed by sorting the index $k$ in descending order of $S_k$. The player with the highest $S_k$ is the root node player of Tree 1, the second highest player is the root node player of Tree 2, and so on.
+
+				\subsubsection{Truncated C-Vine}
+				If we fit the C-Vine copula for all the $M$ players, the process still remains computation expensive because we would need to estimate $\frac{M\left(M-1\right)}{2}$ copulas.
+				Since we are interested in modelling dependencies of the current 15 player squad with the other M players, we can apply a hard truncation at Tree 15. We then assume conditional independence for all pairs beyond the $15^{th}$ player. This leaves with only $\frac{M\left(M-1\right)}{2} - \frac{\left(M-15\right) \left(M-16\right)}{2}$ copulas to estimate.
+
+				\begin{lem}\cite{bibid}
+					Given the continous random variables $\left\{u_{j}\right\}_{j=1}^{M}$, and parameters $\theta$, the C-Vine equation truncated at Tree 15 is given by;
+					\begin{equation}\label{Eq:c_vine}
+						f\left(u_1, \cdots, u_M ; \theta \right) = \prod_{k=1}^{M}f\left(u_{k}\right) \prod_{j=1}^{M} \prod_{i=1}^{M-j}
+						c_{j, j+1 | 1, \cdots, j-2}
+						\left( F\left(u_{j} | u_1, \cdots, u_{j-1}\right)\right), \left( F\left(u_{j+i} | u_1, \cdots, u_{j-1}\right); \theta\right)
+					\end{equation}
+				\end{lem}
+
+				From the permutation vector $\pi$, the root nodes of Trees $T_1, T_2, \cdots, T_M$ are $\pi_1, \pi_2, \cdots, \pi_{M}$ respectively. Substituting the root nodes in \ref{Eq:c_vine}, then if 15 players are selected from a pool of $M$ players, we have
+				\begin{equation}\label{Eq:c_vine_pi}
+					f\left(\pi_1, \cdots, \pi_M ; \theta \right) = \prod_{k=1}^{M}f\left(\pi_{k}\right) \prod_{j=1}^{15} \prod_{i=1}^{M-j}
+					c_{j, j+1 | 1, \cdots, j-2}
+					\left( F\left(\pi_{j} | \pi_1, \cdots, \pi_{j-1}\right)\right), \left( F\left(\pi_{j+i} | \pi_1, \cdots, \pi_{j-1}\right); \theta\right)
+				\end{equation}
+
+				\subsubsection{Choice of Pair-Copula Types}
+				Given the pair-copula decomposition in \ref{Eq:c_vine_pi}, we determine the copula family for each pair of observations i.e. specify the parametric shape of each pair-copula. The pair-copula do not have to belong to the same family.\\
+				For each pair of observations, we propose a set of copula families. For each of these copulae, the log-likelihood of the bivariate copula with parameter $\theta$ given data vectors $u \text{ and } v$ is evaluated using
+				\begin{equation}\label{log_likelihood}
+					L\left(u, v,\Theta \right) = \sum_{t=1}^{T} \log \{c\left( u_t, v_t, \Theta \right)\},
+				\end{equation}
+				where $c\left(u,v,\theta \right)$ is the density of the bivariate coupla with parameters $\Theta$.\\
+				Our goal here is to maximize \ref{log_likelihood} such that
+				\begin{equation}
+					\hat{\theta} = \argmax_{h} \sum_{t=1}^{T} \log \{c \left(u_t,v_t,\Theta \right) \}
+				\end{equation}
+				For each pair $\left(u,v\right)$, we repeat the maximization for multiple copula families. Then, the Akaike Information Criterion (AIC) for each optimized pair is calculated so that
+				\begin{equation}
+					AIC = 2z - 2L\left(u,v, \hat{\Theta}\right),
+				\end{equation}
+				where $z$ is the number of parameters in the copula family.
+				The family with the lowest AIC score and its optimized parameters $\hat{\Theta}$ is the choice of the pair-copula type.
+
+				\subsubsection{Sampling the C-Vine}
+				Using \textbf{algorithm 1}, we sample $u_t^* = (u_{1,t}^*, \cdots, u_{M,t}^*)$ from the truncated C-Vine. However, this is vector of continous uniform variables. Therefore, we discretize $u_t^*$ by using the Discrete Inverse Probability Integral Transform (Inverse - PIT).
+				This is done by mapping the sampled uniform vector $u_t^*$ against the marginal probabilities ($p_k$) as in \ref{Eq:latent_boundaries} for each player. So that for each player $k \in \{1, \cdots, M\}$, we have
+				\begin{equation}
+					w^*_{t,k} =
+					\begin{cases}
+						1 & if u_{t,k} \geqslant 1 - p_{k,t}\\
+						0 & if u_{t,k} < 1 - p_{k,t}
+					\end{cases}
+				\end{equation}
+				The vector $w^*_{t} = \left(w^*_{1,t}, \cdots, w^*_{M,t} \right)$ then represents a simulated permuation of an opponent's upcoming squad in game week $t$.
+
+				At this point we have a candidate $w_o = w^*_t$ but it may not e feasible, i.e it is not guaranteed that $w \in \mathbb{W}$. and so we only accept candidate $w_o$ only if they feasible. In order to adhrere to maximum trasfer limit, we add transfer constrait such that the squad $w_o$ should not exceed their allowable transfer limit $T^{'}$;
+				$$
+					\frac{1}{2} \sum_{k=1}^{M}\left| w^*_{k}-w^{current}_{k} \right| \leqslant T^{'}
+				$$
+				Then collection of all feasible $w_o$ make up $\mathbb{W}_o$.
+
+				\subsection{Solution to the Optimization problem}
+				With $\mathbb{W}_o$ generated, we can then proceed with find a solution to the double-up optimization problem i.e.\\
+				\begin{equation}\label{Eq:maxProb}
+					\max_{w^*\in\mathbb{W}}Prob\{w^T\delta > G^{(r')}(\mathbb{W}_o, \delta)\}
+				\end{equation}
+				where $G^{(r)}$ is the $r^{th}$ order statistic of $\{G_o\}_{o=1}^O$, $r' = O + 1 - r$ and $r$ is 50\% for a risk-neutral manager who just wants to beat 50\% of the opponent’s possible teams but could rise as high as 90\% for a risky manager.\\
+				Following equations \ref{Eq:utilfunc} and \ref{Eq:maxProb2}, the optimization problem \ref{Eq:maxProb} essentially reduces to a mean-variance problem. Following \cite{morton2003optimizing}, we have the following results on the mean-variance optimizations.
+
+				\subsubsection{Solution to The Optimization Problem}
+					\begin{thm} \label{thm:solution_to_opt_prob}
+						Let $Y_w = w^T\delta - G^{(r')}$ such that $Y_w \sim N(\mu_{Y_w}, \sigma^2_{Y_w}).$
+
+						Then the solution to the optimization problem \ref{Eq:maxProb} is in the set given by;
+						\begin{equation}
+							w^* =  {\begin{cases}
+								{
+									\{ w(\lambda):w(\lambda) \in \argmax_{w\in \mathbb{W}} \mu_{Y_w} - \lambda \sigma^2_{Y_w}, \lambda \ge0 \}
+								}, \quad & \mu_{Y_w} \ge 0  \\\\
+								{
+									\{ w(\lambda):w(\lambda) \in \argmax_{w\in \mathbb{W}} \mu_{Y_w} + \lambda \sigma^2_{Y_w}, \lambda \ge0 \}
+								}, \quad & \mu_{Y_w} < 0
+							\end{cases}}
+						\end{equation}
+
+						\begin{prf}
+							It follows from elementary statistics that
+							\[
+							\mu_{Y_w} =  w^T\mu_{\delta} - \mu_{G^{(r')}} \text{ and } \sigma^2_{Y_w} = w^T\Sigma_{\delta}w + \sigma^2_{G^{(r')}} - 2w^T\sigma_{\delta, G^{(r')}},
+							\]
+							where \[
+							\mu_{G^{(r')}} = E[G^{(r')}], \sigma^2_{G^{(r')}} = Var(G^{(r')})\] and \[ \sigma_{\delta, G^{(r')}} \text{ is a } P\times 1 \text{ vector with a } p^{th}\text{ component equal to } Cov(\delta_p, G^{(r')}).
+							\]
+
+							Since $\mu_{G^{(r')}}, \sigma^2_{G^{(r')}}, \sigma_{\delta, G^{(r')}}$ do not depend our portfolio $w$ , they can be estimated based on samples of $(\delta, G^{(r')})$ generated by Monte-Carlo simulation.\\
+
+						\end{prf}
+					\end{thm}
+
+					\begin{lem}	\cite{bibid}
+						The algorithm for generating independent samples of $(\delta, G^{(r')})$ is as follows:
+						\begin{enumerate}
+							\item Generate $\delta \sim N(\mu_\delta, \Sigma_\delta) \text{ and } (p,\mathbb{W}_o) \text{ where } \mathbb{W} = \{ w_o\}_{0=1}^O$ is generated from algorithm \ref{alg:generate} and $p = (p_g, p_d, p_m, p_f)$.
+							\item Compute $G_o = w_o^T\delta \text{ for } o = 1, \dots, O.$
+							\item Order the $G_o$'s.
+							\item Return $(\delta, G^{(r')})$
+						\end{enumerate}
+					\end{lem}
+					The solution to equation \eqref{Eq:maxProb} is then generated as discussed in \S \ref{sec:sol_to_mean_var}.\\
+
+					Algorithm \ref{alg:optmization} summarizes the process above.
+
+
+					\begin{algorithm}
+						\caption{Optimization for the Problem }
+						\label{alg:optmization}
+						\begin{algorithmic}[1]
+							\Require $\mathbb{W}, \Lambda, \mu_\delta, \Sigma_{\delta}, \mu_{G^(r')}, \sigma^2_{G^(r')}, \sigma_{\delta, G^{(r')}}, \text{ and Monte Carlo samples of} (\delta, G^{(r')})$
+
+							\If{$\exists w \in \mathbb{W} \text{ with } \mu_{Y_w} \ge 0$}
+							\ForAll{ $\lambda \in  \Lambda$}
+							\State $w_\lambda = \argmax_{w \in \mathbb{W}, \mu_{Y_w} \ge 0 } \{\mu_{Y_w} - \lambda\sigma^2_{Y_w}\}$
+							\EndFor
+							\Else
+							\ForAll{ $\lambda \in  \Lambda$}
+							\State $w_\lambda = \argmax_{w \in \mathbb{W}, \mu_{Y_w} \ge 0 } \{\mu_{Y_w} + \lambda\sigma^2_{Y_w}\}$
+							\EndFor
+							\EndIf
+							\State  $\lambda^* = \argmax_{ \lambda \in \Lambda } Prob\{Y_{w_\lambda} > 0 \}$\\
+							\Return $w_\lambda^*$
+						\end{algorithmic}
+					\end{algorithm}
+			Using theorem \ref{thm:solution_to_opt_prob}, it follows that $w^*$ is the solution to the optimization problem \ref{Eq:maxProb}
+			\chapter{Results and Discussion}
+
+
+
+
+	\addcontentsline{toc}{chapter}{Bibliography}
+	\bibliographystyle{IEEEtran.bst}
+	\bibliography{references.bib}
+
+
+
+\end{document}
