@@ -42,6 +42,7 @@ def select_features_by_correlation(df, candidate_feats, target_col='xP',
     -------
     X_feats : list of selected feature names, in original candidate order
     """
+
     df_valid = df[candidate_feats + [target_col]].dropna()
     if len(df_valid) < len(df):
         dropped = len(df) - len(df_valid)
